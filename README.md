@@ -1,6 +1,6 @@
-# Marshell-Wallpapers
-
-A structured and curated collection of wallpapers for Linux-based desktop environments.
+<div align="center">
+    <img src="assets/banner.webp" />
+</div>
 
 ---
 
