@@ -60,6 +60,17 @@ Browse the available collections gallery:
 
 ---
 
+## 🚨 Disclaimer
+
+> [!NOTE]
+> Some wallpapers in this repository may originate from third-party artists, photographers, studios, communities, or other sources.
+
+All rights to third-party works remain with their respective copyright holders.
+
+If you are a copyright holder and believe that an asset has been included without appropriate authorization, please open an issue or contact the repository owner so the matter can be reviewed.
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
