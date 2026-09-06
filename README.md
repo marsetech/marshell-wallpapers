@@ -2,15 +2,19 @@
     <img src="assets/banner.webp" />
 </div>
 
----
-
 ## 📌 Overview
 
-This repository is designed to:
+`marshell-wallpapers` is actively maintained personal collection of high-quality wallpapers, organized by category and maintained with a consistent structure, naming scheme, and metadata format.
 
-- Provide high-quality wallpapers for desktop customization
-- Integrate with Pywal-based setups
-- Work seamlessly with Hyprland and Linux rice environments
+The project follows a set of conventions for:
+
+- Collection organization
+- File naming
+- Image formats and optimization
+- Metadata
+- Repository maintenance and automated generation tasks
+
+Each collection is self-contained and provides its own documentation and preview through its respective `README.md`.
 
 ---
 
