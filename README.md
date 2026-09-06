@@ -1,16 +1,24 @@
-# Marshell-Wallpapers
-
-A structured and curated collection of wallpapers for Linux-based desktop environments.
-
----
+<div align="center">
+    <img src="assets/banner.webp" />
+</div>
 
 ## 📌 Overview
 
-This repository is designed to:
+<div>
+  <img align="right" width="140px" src="assets/logo.webp" />
 
-- Provide high-quality wallpapers for desktop customization
-- Integrate with Pywal-based setups
-- Work seamlessly with Hyprland and Linux rice environments
+`marshell-wallpapers` is an actively maintained personal collection of high-quality wallpapers, organized by category and maintained with a consistent structure, naming scheme, and metadata format.
+
+The project follows a set of conventions for:
+
+- Collection organization
+- File naming
+- Image formats and optimization
+- Metadata
+- Repository maintenance and automated generation tasks
+
+Each collection is self-contained and provides its own documentation and preview through its respective `README.md`.
+</div>
 
 ---
 
@@ -18,21 +26,52 @@ This repository is designed to:
 
 ```text
 .
-├── anime/
-│   ├── chainsaw-man/
-│   ├── demon-slayer/
-│   └── jujutsu-kaisen/
+├── collections/
+│   ├── anime/
+│   ├── automotive/
+│   ├── cityscape/
+│   └── os/
 │
-├── automotive/
-├── cityscape/
-├── os/
+├── metadata/
+│   └── ...
 │
+├── scripts/
+│   └── ...
+│
+├── .github/
+│   └── ...
+│
+├── .gitignore
 ├── LICENSE
 └── README.md
 ```
 
 > [!NOTE]
 > Each category contains curated high-quality wallpapers grouped by theme, series, or aesthetic.
+
+---
+
+## 🖼️ Collections
+
+Wallpapers are grouped into thematic collections under `collections/`. Each collection has its own `README.md` containing its gallery and collection-specific information.
+
+Browse the available collections gallery:
+
+- [**Anime**](collections/anime/README.md) — Anime and animation-related wallpapers
+- [**Automotive**](collections/automotive/README.md) — Cars, motorcycles, and automotive photography
+- [**Cityscape**](collections/cityscape/README.md) — Urban environments, architecture, and city photography
+- [**OS**](collections/os/README.md) — Operating systems, distributions, and related artwork
+
+---
+
+## 🚨 Disclaimer
+
+> [!NOTE]
+> Some wallpapers in this repository may originate from third-party artists, photographers, studios, communities, or other sources.
+
+All rights to third-party works remain with their respective copyright holders.
+
+If you are a copyright holder and believe that an asset has been included without appropriate authorization, please open an issue or contact the repository owner so the matter can be reviewed.
 
 ---
 
