@@ -5,6 +5,16 @@
 /tmp/
 *.tmp
 *.temp
+*.bak
+
+# ── Python environment ──────────────────────────
+__pycache__/
+.venv/
+venv/
+
+# ── Build artifacts ──────────────────────────
+build/
+dist/
 
 # ── Operating system files ──────────────────────────
 # Linux
