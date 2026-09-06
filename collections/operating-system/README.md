@@ -1,7 +1,5 @@
 # Os Wallpapers
 
-
-
 ---
 
 ## Gallery
@@ -48,8 +46,6 @@
 <td></td>
 </tr>
 </table>
-
-
 
 ---
 
