@@ -1,7 +1,5 @@
 # Anime Wallpapers
 
-
-
 ---
 
 ## Gallery
@@ -311,37 +309,6 @@
 </tr>
 </table>
 
-### My-Dress-Up-Darling
-
-<table>
-<tr>
-<td><img src="my-dress-up-darling/gojo-marin-sleeping-scene.png" alt="gojo-marin-sleeping-scene.png" width="450" height="250" style="object-fit: cover;"></td>
-<td><img src="my-dress-up-darling/marin-kitagawa-hand-sign.jpg" alt="marin-kitagawa-hand-sign.jpg" width="450" height="250" style="object-fit: cover;"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td><img src="my-dress-up-darling/marin-kitagawa-happy-face.jpg" alt="marin-kitagawa-happy-face.jpg" width="450" height="250" style="object-fit: cover;"></td>
-<td><img src="my-dress-up-darling/marin-kitagawa-happy-singing.jpg" alt="marin-kitagawa-happy-singing.jpg" width="450" height="250" style="object-fit: cover;"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td><img src="my-dress-up-darling/marin-kitagawa-mirror-cosplay.jpg" alt="marin-kitagawa-mirror-cosplay.jpg" width="450" height="250" style="object-fit: cover;"></td>
-<td><img src="my-dress-up-darling/marin-kitagawa-purple-neon.png" alt="marin-kitagawa-purple-neon.png" width="450" height="250" style="object-fit: cover;"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td></td>
-<td><img src="my-dress-up-darling/marin-kitagawa-social-background.jpg" alt="marin-kitagawa-social-background.jpg" width="450" height="250" style="object-fit: cover;"></td>
-<td></td>
-</tr>
-</table>
-
 ### My-Hero-Academia
 
 <table>
@@ -476,25 +443,6 @@
 <td></td>
 </tr>
 </table>
-
-### Vinland-Saga
-
-<table>
-<tr>
-<td><img src="vinland-saga/monochrome-vinland-saga-logo.jpg" alt="monochrome-vinland-saga-logo.jpg" width="450" height="250" style="object-fit: cover;"></td>
-<td><img src="vinland-saga/thorfin-vinland-saga-logo.png" alt="thorfin-vinland-saga-logo.png" width="450" height="250" style="object-fit: cover;"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td></td>
-<td><img src="vinland-saga/thorfinn-knife-rage-fight.jpg" alt="thorfinn-knife-rage-fight.jpg" width="450" height="250" style="object-fit: cover;"></td>
-<td></td>
-</tr>
-</table>
-
-
 
 ---
 
