@@ -4,7 +4,10 @@
 
 ## 📌 Overview
 
-`marshell-wallpapers` is actively maintained personal collection of high-quality wallpapers, organized by category and maintained with a consistent structure, naming scheme, and metadata format.
+<div>
+  <img align="right" width="140px" src="assets/logo.webp" />
+
+`marshell-wallpapers` is an actively maintained personal collection of high-quality wallpapers, organized by category and maintained with a consistent structure, naming scheme, and metadata format.
 
 The project follows a set of conventions for:
 
@@ -15,6 +18,7 @@ The project follows a set of conventions for:
 - Repository maintenance and automated generation tasks
 
 Each collection is self-contained and provides its own documentation and preview through its respective `README.md`.
+</div>
 
 ---
 
