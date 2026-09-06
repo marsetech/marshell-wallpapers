@@ -47,6 +47,19 @@ Each collection is self-contained and provides its own documentation and preview
 
 ---
 
+## 🖼️ Collections
+
+Wallpapers are grouped into thematic collections under `collections/`. Each collection has its own `README.md` containing its gallery and collection-specific information.
+
+Browse the available collections gallery:
+
+- [**Anime**](collections/anime/README.md) — Anime and animation-related wallpapers
+- [**Automotive**](collections/automotive/README.md) — Cars, motorcycles, and automotive photography
+- [**Cityscape**](collections/cityscape/README.md) — Urban environments, architecture, and city photography
+- [**OS**](collections/os/README.md) — Operating systems, distributions, and related artwork
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
