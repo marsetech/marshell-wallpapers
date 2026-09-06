@@ -22,15 +22,22 @@ Each collection is self-contained and provides its own documentation and preview
 
 ```text
 .
-├── anime/
-│   ├── chainsaw-man/
-│   ├── demon-slayer/
-│   └── jujutsu-kaisen/
+├── collections/
+│   ├── anime/
+│   ├── automotive/
+│   ├── cityscape/
+│   └── os/
 │
-├── automotive/
-├── cityscape/
-├── os/
+├── metadata/
+│   └── ...
 │
+├── scripts/
+│   └── ...
+│
+├── .github/
+│   └── ...
+│
+├── .gitignore
 ├── LICENSE
 └── README.md
 ```
