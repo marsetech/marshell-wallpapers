@@ -30,7 +30,7 @@ Each collection is self-contained and provides its own documentation and preview
 │   ├── anime/
 │   ├── automotive/
 │   ├── cityscape/
-│   └── os/
+│   └── operating-system/
 │
 ├── metadata/
 │   └── ...
@@ -60,7 +60,7 @@ Browse the available collections gallery:
 - [**Anime**](collections/anime/README.md) — Anime and animation-related wallpapers
 - [**Automotive**](collections/automotive/README.md) — Cars, motorcycles, and automotive photography
 - [**Cityscape**](collections/cityscape/README.md) — Urban environments, architecture, and city photography
-- [**OS**](collections/os/README.md) — Operating systems, distributions, and related artwork
+- [**Operating System**](collections/operating-system/README.md) — Operating systems, distributions, and related artwork
 
 ---
 
