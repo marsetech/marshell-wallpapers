@@ -1,0 +1,191 @@
+{
+    "category": "operating-system",
+    "generated_at": "2026-09-07T19:33:13.292617",
+    "total": 23,
+    "wallpapers": {
+        "assets/apple-colorful-black-background.jpg": {
+            "filename": "apple-colorful-black-background.jpg",
+            "title": "Apple Colorful Black Background",
+            "path": "wallpapers/operating-system/assets/apple-colorful-black-background.jpg",
+            "extension": "jpg",
+            "size_bytes": 309217,
+            "modified_at": "2026-09-06T23:51:20.689075"
+        },
+        "assets/apple-digital-art.jpg": {
+            "filename": "apple-digital-art.jpg",
+            "title": "Apple Digital Art",
+            "path": "wallpapers/operating-system/assets/apple-digital-art.jpg",
+            "extension": "jpg",
+            "size_bytes": 584578,
+            "modified_at": "2026-09-06T23:51:20.690539"
+        },
+        "assets/apple-logo-wwdc22.jpg": {
+            "filename": "apple-logo-wwdc22.jpg",
+            "title": "Apple Logo Wwdc22",
+            "path": "wallpapers/operating-system/assets/apple-logo-wwdc22.jpg",
+            "extension": "jpg",
+            "size_bytes": 557325,
+            "modified_at": "2026-09-06T23:51:20.690539"
+        },
+        "assets/archlinux-catppuccin-rainbow-logo.png": {
+            "filename": "archlinux-catppuccin-rainbow-logo.png",
+            "title": "Archlinux Catppuccin Rainbow Logo",
+            "path": "wallpapers/operating-system/assets/archlinux-catppuccin-rainbow-logo.png",
+            "extension": "png",
+            "size_bytes": 36651,
+            "modified_at": "2026-09-06T23:51:20.690539"
+        },
+        "assets/archlinux-eagle-system-commands.png": {
+            "filename": "archlinux-eagle-system-commands.png",
+            "title": "Archlinux Eagle System Commands",
+            "path": "wallpapers/operating-system/assets/archlinux-eagle-system-commands.png",
+            "extension": "png",
+            "size_bytes": 63346,
+            "modified_at": "2026-09-06T23:51:20.691539"
+        },
+        "assets/archlinux-logo-purple-background.png": {
+            "filename": "archlinux-logo-purple-background.png",
+            "title": "Archlinux Logo Purple Background",
+            "path": "wallpapers/operating-system/assets/archlinux-logo-purple-background.png",
+            "extension": "png",
+            "size_bytes": 152022,
+            "modified_at": "2026-09-06T23:51:20.691539"
+        },
+        "assets/fedora-logo.png": {
+            "filename": "fedora-logo.png",
+            "title": "Fedora Logo",
+            "path": "wallpapers/operating-system/assets/fedora-logo.png",
+            "extension": "png",
+            "size_bytes": 7881,
+            "modified_at": "2026-09-06T23:51:20.691539"
+        },
+        "assets/kali-logo.png": {
+            "filename": "kali-logo.png",
+            "title": "Kali Logo",
+            "path": "wallpapers/operating-system/assets/kali-logo.png",
+            "extension": "png",
+            "size_bytes": 1394754,
+            "modified_at": "2026-09-06T23:51:20.695539"
+        },
+        "assets/linux-retro-penguin-logo.jpeg": {
+            "filename": "linux-retro-penguin-logo.jpeg",
+            "title": "Linux Retro Penguin Logo",
+            "path": "wallpapers/operating-system/assets/linux-retro-penguin-logo.jpeg",
+            "extension": "jpeg",
+            "size_bytes": 927954,
+            "modified_at": "2026-09-06T23:51:20.696538"
+        },
+        "assets/linux-various-distro-minimal.png": {
+            "filename": "linux-various-distro-minimal.png",
+            "title": "Linux Various Distro Minimal",
+            "path": "wallpapers/operating-system/assets/linux-various-distro-minimal.png",
+            "extension": "png",
+            "size_bytes": 73330,
+            "modified_at": "2026-09-06T23:51:20.696538"
+        },
+        "assets/macos-blur-effect.jpg": {
+            "filename": "macos-blur-effect.jpg",
+            "title": "Macos Blur Effect",
+            "path": "wallpapers/operating-system/assets/macos-blur-effect.jpg",
+            "extension": "jpg",
+            "size_bytes": 194564,
+            "modified_at": "2026-09-06T23:51:20.697539"
+        },
+        "assets/macos-colorful-abstract-background.jpg": {
+            "filename": "macos-colorful-abstract-background.jpg",
+            "title": "Macos Colorful Abstract Background",
+            "path": "wallpapers/operating-system/assets/macos-colorful-abstract-background.jpg",
+            "extension": "jpg",
+            "size_bytes": 1208530,
+            "modified_at": "2026-09-06T23:51:20.700538"
+        },
+        "assets/macos-colorful-background.jpg": {
+            "filename": "macos-colorful-background.jpg",
+            "title": "Macos Colorful Background",
+            "path": "wallpapers/operating-system/assets/macos-colorful-background.jpg",
+            "extension": "jpg",
+            "size_bytes": 1977446,
+            "modified_at": "2026-09-06T23:51:20.706538"
+        },
+        "assets/nixos-declarative-boolean-logo.jpg": {
+            "filename": "nixos-declarative-boolean-logo.jpg",
+            "title": "Nixos Declarative Boolean Logo",
+            "path": "wallpapers/operating-system/assets/nixos-declarative-boolean-logo.jpg",
+            "extension": "jpg",
+            "size_bytes": 240777,
+            "modified_at": "2026-09-06T23:51:20.706538"
+        },
+        "assets/operating-system-various-logo.png": {
+            "filename": "operating-system-various-logo.png",
+            "title": "Operating System Various Logo",
+            "path": "wallpapers/operating-system/assets/operating-system-various-logo.png",
+            "extension": "png",
+            "size_bytes": 47883,
+            "modified_at": "2026-09-06T23:51:20.707538"
+        },
+        "assets/windows-colored-logo.png": {
+            "filename": "windows-colored-logo.png",
+            "title": "Windows Colored Logo",
+            "path": "wallpapers/operating-system/assets/windows-colored-logo.png",
+            "extension": "png",
+            "size_bytes": 36322,
+            "modified_at": "2026-09-06T23:51:20.707538"
+        },
+        "assets/windows-geometric-forms.jpg": {
+            "filename": "windows-geometric-forms.jpg",
+            "title": "Windows Geometric Forms",
+            "path": "wallpapers/operating-system/assets/windows-geometric-forms.jpg",
+            "extension": "jpg",
+            "size_bytes": 147628,
+            "modified_at": "2026-09-06T23:51:20.707538"
+        },
+        "assets/windows10-japanese-theme-logo.png": {
+            "filename": "windows10-japanese-theme-logo.png",
+            "title": "Windows10 Japanese Theme Logo",
+            "path": "wallpapers/operating-system/assets/windows10-japanese-theme-logo.png",
+            "extension": "png",
+            "size_bytes": 80741,
+            "modified_at": "2026-09-06T23:51:20.707538"
+        },
+        "assets/windows11-colorful-abstract.jpg": {
+            "filename": "windows11-colorful-abstract.jpg",
+            "title": "Windows11 Colorful Abstract",
+            "path": "wallpapers/operating-system/assets/windows11-colorful-abstract.jpg",
+            "extension": "jpg",
+            "size_bytes": 1239091,
+            "modified_at": "2026-09-06T23:51:20.710538"
+        },
+        "assets/windows11-microsoft-suite-background-logo.jpg": {
+            "filename": "windows11-microsoft-suite-background-logo.jpg",
+            "title": "Windows11 Microsoft Suite Background Logo",
+            "path": "wallpapers/operating-system/assets/windows11-microsoft-suite-background-logo.jpg",
+            "extension": "jpg",
+            "size_bytes": 957318,
+            "modified_at": "2026-09-06T23:51:20.713538"
+        },
+        "assets/windows11-minimalistic-purple-blue.jpg": {
+            "filename": "windows11-minimalistic-purple-blue.jpg",
+            "title": "Windows11 Minimalistic Purple Blue",
+            "path": "wallpapers/operating-system/assets/windows11-minimalistic-purple-blue.jpg",
+            "extension": "jpg",
+            "size_bytes": 483397,
+            "modified_at": "2026-09-06T23:51:20.714538"
+        },
+        "assets/windows7-colorful-logo.jpg": {
+            "filename": "windows7-colorful-logo.jpg",
+            "title": "Windows7 Colorful Logo",
+            "path": "wallpapers/operating-system/assets/windows7-colorful-logo.jpg",
+            "extension": "jpg",
+            "size_bytes": 1345655,
+            "modified_at": "2026-09-06T23:51:20.718538"
+        },
+        "assets/zorin-logo.png": {
+            "filename": "zorin-logo.png",
+            "title": "Zorin Logo",
+            "path": "wallpapers/operating-system/assets/zorin-logo.png",
+            "extension": "png",
+            "size_bytes": 16954,
+            "modified_at": "2026-09-06T23:51:20.718538"
+        }
+    }
+}

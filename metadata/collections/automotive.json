@@ -1,47 +1,47 @@
 {
     "category": "automotive",
-    "generated_at": "2026-07-27T18:36:54.218855",
+    "generated_at": "2026-09-07T19:33:13.292967",
     "total": 5,
     "wallpapers": {
-        "futuristic-car-sunset-mountain.jpg": {
+        "assets/futuristic-car-sunset-mountain.jpg": {
             "filename": "futuristic-car-sunset-mountain.jpg",
             "title": "Futuristic Car Sunset Mountain",
-            "path": "wallpapers/automotive/futuristic-car-sunset-mountain.jpg",
+            "path": "wallpapers/automotive/assets/futuristic-car-sunset-mountain.jpg",
             "extension": "jpg",
             "size_bytes": 1958171,
-            "modified_at": "2026-07-03T21:02:51.359099"
+            "modified_at": "2026-09-06T23:51:05.742682"
         },
-        "night-background-mazda-lights.jpg": {
+        "assets/night-background-mazda-lights.jpg": {
             "filename": "night-background-mazda-lights.jpg",
             "title": "Night Background Mazda Lights",
-            "path": "wallpapers/automotive/night-background-mazda-lights.jpg",
+            "path": "wallpapers/automotive/assets/night-background-mazda-lights.jpg",
             "extension": "jpg",
             "size_bytes": 691906,
-            "modified_at": "2026-07-03T21:02:51.369099"
+            "modified_at": "2026-09-06T23:51:05.744682"
         },
-        "nightcall-car-garage.jpg": {
+        "assets/nightcall-car-garage.jpg": {
             "filename": "nightcall-car-garage.jpg",
             "title": "Nightcall Car Garage",
-            "path": "wallpapers/automotive/nightcall-car-garage.jpg",
+            "path": "wallpapers/automotive/assets/nightcall-car-garage.jpg",
             "extension": "jpg",
             "size_bytes": 1017988,
-            "modified_at": "2026-07-03T23:38:12.991416"
+            "modified_at": "2026-09-06T23:51:05.746681"
         },
-        "sunset-city-car-road.jpg": {
+        "assets/sunset-city-car-road.jpg": {
             "filename": "sunset-city-car-road.jpg",
             "title": "Sunset City Car Road",
-            "path": "wallpapers/automotive/sunset-city-car-road.jpg",
+            "path": "wallpapers/automotive/assets/sunset-city-car-road.jpg",
             "extension": "jpg",
             "size_bytes": 1818179,
-            "modified_at": "2026-07-03T23:40:26.669793"
+            "modified_at": "2026-09-06T23:51:05.751681"
         },
-        "sunset-minimalist-sports-car.jpg": {
+        "assets/sunset-minimalist-sports-car.jpg": {
             "filename": "sunset-minimalist-sports-car.jpg",
             "title": "Sunset Minimalist Sports Car",
-            "path": "wallpapers/automotive/sunset-minimalist-sports-car.jpg",
+            "path": "wallpapers/automotive/assets/sunset-minimalist-sports-car.jpg",
             "extension": "jpg",
             "size_bytes": 1934868,
-            "modified_at": "2026-07-03T23:42:29.554350"
+            "modified_at": "2026-09-06T23:51:05.756681"
         }
     }
 }

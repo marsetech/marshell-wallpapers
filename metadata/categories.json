@@ -11,8 +11,8 @@
         "display_name": "Cityscape",
         "description": ""
     },
-    "os": {
-        "display_name": "Os",
+    "operating-system": {
+        "display_name": "Operating System",
         "description": ""
     }
 }

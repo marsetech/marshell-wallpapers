@@ -1,999 +1,919 @@
 {
     "category": "anime",
-    "generated_at": "2026-07-27T18:36:54.217816",
-    "total": 124,
+    "generated_at": "2026-09-07T19:33:13.291394",
+    "total": 114,
     "wallpapers": {
-        "chainsaw-man/aki-hayakawa-fox-devil.jpg": {
-            "filename": "aki-hayakawa-fox-devil.jpg",
-            "title": "Aki Hayakawa Fox Devil",
-            "path": "wallpapers/anime/chainsaw-man/aki-hayakawa-fox-devil.jpg",
-            "extension": "jpg",
-            "size_bytes": 1865684,
-            "modified_at": "2026-07-03T21:48:04.008980"
-        },
-        "chainsaw-man/angel-devil.jpg": {
-            "filename": "angel-devil.jpg",
-            "title": "Angel Devil",
-            "path": "wallpapers/anime/chainsaw-man/angel-devil.jpg",
-            "extension": "jpg",
-            "size_bytes": 1838009,
-            "modified_at": "2026-07-03T21:48:04.012980"
-        },
-        "chainsaw-man/denji-minimalist-artwork.jpg": {
-            "filename": "denji-minimalist-artwork.jpg",
-            "title": "Denji Minimalist Artwork",
-            "path": "wallpapers/anime/chainsaw-man/denji-minimalist-artwork.jpg",
-            "extension": "jpg",
-            "size_bytes": 1275117,
-            "modified_at": "2026-07-11T23:29:34.011226"
-        },
-        "chainsaw-man/himeno-dark.jpg": {
-            "filename": "himeno-dark.jpg",
-            "title": "Himeno Dark",
-            "path": "wallpapers/anime/chainsaw-man/himeno-dark.jpg",
-            "extension": "jpg",
-            "size_bytes": 2734313,
-            "modified_at": "2026-07-03T21:48:04.015980"
-        },
-        "chainsaw-man/makima-devil-wings.jpg": {
-            "filename": "makima-devil-wings.jpg",
-            "title": "Makima Devil Wings",
-            "path": "wallpapers/anime/chainsaw-man/makima-devil-wings.jpg",
-            "extension": "jpg",
-            "size_bytes": 1575788,
-            "modified_at": "2026-07-03T21:48:04.017980"
-        },
-        "chainsaw-man/makima-scary-eyes.jpg": {
-            "filename": "makima-scary-eyes.jpg",
-            "title": "Makima Scary Eyes",
-            "path": "wallpapers/anime/chainsaw-man/makima-scary-eyes.jpg",
-            "extension": "jpg",
-            "size_bytes": 1905409,
-            "modified_at": "2026-07-11T23:28:26.864891"
-        },
-        "chainsaw-man/monochrome-makima.png": {
-            "filename": "monochrome-makima.png",
-            "title": "Monochrome Makima",
-            "path": "wallpapers/anime/chainsaw-man/monochrome-makima.png",
-            "extension": "png",
-            "size_bytes": 876967,
-            "modified_at": "2026-07-06T12:57:29.819566"
-        },
-        "chainsaw-man/power-portrait.jpg": {
-            "filename": "power-portrait.jpg",
-            "title": "Power Portrait",
-            "path": "wallpapers/anime/chainsaw-man/power-portrait.jpg",
-            "extension": "jpg",
-            "size_bytes": 2005834,
-            "modified_at": "2026-07-03T21:48:04.021980"
-        },
-        "chainsaw-man/reze-arc-movie.jpg": {
-            "filename": "reze-arc-movie.jpg",
-            "title": "Reze Arc Movie",
-            "path": "wallpapers/anime/chainsaw-man/reze-arc-movie.jpg",
-            "extension": "jpg",
-            "size_bytes": 1945452,
-            "modified_at": "2026-07-11T23:25:39.656554"
-        },
-        "chainsaw-man/reze-beach-arc-movie.jpg": {
-            "filename": "reze-beach-arc-movie.jpg",
-            "title": "Reze Beach Arc Movie",
-            "path": "wallpapers/anime/chainsaw-man/reze-beach-arc-movie.jpg",
-            "extension": "jpg",
-            "size_bytes": 1847280,
-            "modified_at": "2026-07-03T21:48:04.024980"
-        },
-        "chainsaw-man/reze-bomb-devil.jpg": {
-            "filename": "reze-bomb-devil.jpg",
-            "title": "Reze Bomb Devil",
-            "path": "wallpapers/anime/chainsaw-man/reze-bomb-devil.jpg",
-            "extension": "jpg",
-            "size_bytes": 2789522,
-            "modified_at": "2026-07-11T23:27:10.140652"
-        },
-        "chainsaw-man/yoru-devil-war-fight.png": {
-            "filename": "yoru-devil-war-fight.png",
-            "title": "Yoru Devil War Fight",
-            "path": "wallpapers/anime/chainsaw-man/yoru-devil-war-fight.png",
-            "extension": "png",
-            "size_bytes": 911594,
-            "modified_at": "2026-07-04T19:11:11.442566"
-        },
-        "chainsaw-man/yoru-war-devil.jpg": {
-            "filename": "yoru-war-devil.jpg",
-            "title": "Yoru War Devil",
-            "path": "wallpapers/anime/chainsaw-man/yoru-war-devil.jpg",
-            "extension": "jpg",
-            "size_bytes": 1761162,
-            "modified_at": "2026-07-03T21:48:04.026980"
-        },
-        "darling-in-the-franxx/hiro-closeup-eyes.png": {
+        "darling-in-the-franxx/assets/hiro-closeup-eyes.png": {
             "filename": "hiro-closeup-eyes.png",
             "title": "Hiro Closeup Eyes",
-            "path": "wallpapers/anime/darling-in-the-franxx/hiro-closeup-eyes.png",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/hiro-closeup-eyes.png",
             "extension": "png",
             "size_bytes": 1571163,
-            "modified_at": "2026-07-03T21:48:04.028980"
+            "modified_at": "2026-09-06T23:50:49.961832"
         },
-        "darling-in-the-franxx/hiro-mecha-pilot.png": {
+        "darling-in-the-franxx/assets/hiro-mecha-pilot.png": {
             "filename": "hiro-mecha-pilot.png",
             "title": "Hiro Mecha Pilot",
-            "path": "wallpapers/anime/darling-in-the-franxx/hiro-mecha-pilot.png",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/hiro-mecha-pilot.png",
             "extension": "png",
             "size_bytes": 2672096,
-            "modified_at": "2026-07-03T21:48:04.029980"
+            "modified_at": "2026-09-06T23:50:49.963832"
         },
-        "darling-in-the-franxx/ichigo-school-uniform.jpg": {
+        "darling-in-the-franxx/assets/ichigo-school-uniform.jpg": {
             "filename": "ichigo-school-uniform.jpg",
             "title": "Ichigo School Uniform",
-            "path": "wallpapers/anime/darling-in-the-franxx/ichigo-school-uniform.jpg",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/ichigo-school-uniform.jpg",
             "extension": "jpg",
             "size_bytes": 1197111,
-            "modified_at": "2026-07-03T21:48:04.032980"
+            "modified_at": "2026-09-06T23:50:49.966832"
         },
-        "darling-in-the-franxx/mecha-anime-logo.jpg": {
+        "darling-in-the-franxx/assets/mecha-anime-logo.jpg": {
             "filename": "mecha-anime-logo.jpg",
             "title": "Mecha Anime Logo",
-            "path": "wallpapers/anime/darling-in-the-franxx/mecha-anime-logo.jpg",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/mecha-anime-logo.jpg",
             "extension": "jpg",
             "size_bytes": 873556,
-            "modified_at": "2026-07-03T21:48:04.035980"
+            "modified_at": "2026-09-06T23:50:49.969832"
         },
-        "darling-in-the-franxx/zero-two-dark-artwork.jpg": {
+        "darling-in-the-franxx/assets/zero-two-dark-artwork.jpg": {
             "filename": "zero-two-dark-artwork.jpg",
             "title": "Zero Two Dark Artwork",
-            "path": "wallpapers/anime/darling-in-the-franxx/zero-two-dark-artwork.jpg",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/zero-two-dark-artwork.jpg",
             "extension": "jpg",
             "size_bytes": 1274296,
-            "modified_at": "2026-07-11T23:57:47.144766"
+            "modified_at": "2026-09-06T23:50:49.972832"
         },
-        "darling-in-the-franxx/zero-two-demon-form.png": {
+        "darling-in-the-franxx/assets/zero-two-demon-form.png": {
             "filename": "zero-two-demon-form.png",
             "title": "Zero Two Demon Form",
-            "path": "wallpapers/anime/darling-in-the-franxx/zero-two-demon-form.png",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/zero-two-demon-form.png",
             "extension": "png",
             "size_bytes": 2629330,
-            "modified_at": "2026-07-03T21:48:04.036980"
+            "modified_at": "2026-09-06T23:50:49.973832"
         },
-        "darling-in-the-franxx/zero-two-fanart.png": {
+        "darling-in-the-franxx/assets/zero-two-fanart.png": {
             "filename": "zero-two-fanart.png",
             "title": "Zero Two Fanart",
-            "path": "wallpapers/anime/darling-in-the-franxx/zero-two-fanart.png",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/zero-two-fanart.png",
             "extension": "png",
             "size_bytes": 2491897,
-            "modified_at": "2026-07-03T21:48:04.037980"
+            "modified_at": "2026-09-06T23:50:49.974832"
         },
-        "darling-in-the-franxx/zero-two-graffiti.jpg": {
+        "darling-in-the-franxx/assets/zero-two-graffiti.jpg": {
             "filename": "zero-two-graffiti.jpg",
             "title": "Zero Two Graffiti",
-            "path": "wallpapers/anime/darling-in-the-franxx/zero-two-graffiti.jpg",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/zero-two-graffiti.jpg",
             "extension": "jpg",
             "size_bytes": 3456900,
-            "modified_at": "2026-07-03T21:48:04.039980"
+            "modified_at": "2026-09-06T23:50:49.975832"
         },
-        "darling-in-the-franxx/zero-two-monochrome-logo.jpg": {
+        "darling-in-the-franxx/assets/zero-two-monochrome-logo.jpg": {
             "filename": "zero-two-monochrome-logo.jpg",
             "title": "Zero Two Monochrome Logo",
-            "path": "wallpapers/anime/darling-in-the-franxx/zero-two-monochrome-logo.jpg",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/zero-two-monochrome-logo.jpg",
             "extension": "jpg",
             "size_bytes": 1521429,
-            "modified_at": "2026-07-11T23:54:29.274845"
+            "modified_at": "2026-09-06T23:50:49.979832"
         },
-        "darling-in-the-franxx/zero-two-sad-morning-background.png": {
+        "darling-in-the-franxx/assets/zero-two-sad-morning-background.png": {
             "filename": "zero-two-sad-morning-background.png",
             "title": "Zero Two Sad Morning Background",
-            "path": "wallpapers/anime/darling-in-the-franxx/zero-two-sad-morning-background.png",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/zero-two-sad-morning-background.png",
             "extension": "png",
             "size_bytes": 4175276,
-            "modified_at": "2026-07-06T12:58:07.420313"
+            "modified_at": "2026-09-06T23:50:49.989832"
         },
-        "darling-in-the-franxx/zero-two-streetwear-outfit.png": {
+        "darling-in-the-franxx/assets/zero-two-streetwear-outfit.png": {
             "filename": "zero-two-streetwear-outfit.png",
             "title": "Zero Two Streetwear Outfit",
-            "path": "wallpapers/anime/darling-in-the-franxx/zero-two-streetwear-outfit.png",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/zero-two-streetwear-outfit.png",
             "extension": "png",
             "size_bytes": 3381694,
-            "modified_at": "2026-07-03T21:48:04.041980"
+            "modified_at": "2026-09-06T23:50:49.991832"
         },
-        "darling-in-the-franxx/zero-two-waves-color.png": {
+        "darling-in-the-franxx/assets/zero-two-waves-color.png": {
             "filename": "zero-two-waves-color.png",
             "title": "Zero Two Waves Color",
-            "path": "wallpapers/anime/darling-in-the-franxx/zero-two-waves-color.png",
+            "path": "wallpapers/anime/darling-in-the-franxx/assets/zero-two-waves-color.png",
             "extension": "png",
             "size_bytes": 7718148,
-            "modified_at": "2026-07-11T23:53:45.296313"
+            "modified_at": "2026-09-06T23:50:50.012832"
         },
-        "demon-slayer/akaza-upper-rank-demon.jpg": {
-            "filename": "akaza-upper-rank-demon.jpg",
-            "title": "Akaza Upper Rank Demon",
-            "path": "wallpapers/anime/demon-slayer/akaza-upper-rank-demon.jpg",
+        "chainsaw-man/assets/aki-hayakawa-fox-devil.jpg": {
+            "filename": "aki-hayakawa-fox-devil.jpg",
+            "title": "Aki Hayakawa Fox Devil",
+            "path": "wallpapers/anime/chainsaw-man/assets/aki-hayakawa-fox-devil.jpg",
             "extension": "jpg",
-            "size_bytes": 1917514,
-            "modified_at": "2026-07-12T16:29:24.206579"
+            "size_bytes": 1865684,
+            "modified_at": "2026-09-06T23:50:49.918833"
         },
-        "demon-slayer/doma-demon-glowing-eyes.jpg": {
-            "filename": "doma-demon-glowing-eyes.jpg",
-            "title": "Doma Demon Glowing Eyes",
-            "path": "wallpapers/anime/demon-slayer/doma-demon-glowing-eyes.jpg",
+        "chainsaw-man/assets/angel-devil.jpg": {
+            "filename": "angel-devil.jpg",
+            "title": "Angel Devil",
+            "path": "wallpapers/anime/chainsaw-man/assets/angel-devil.jpg",
             "extension": "jpg",
-            "size_bytes": 1877581,
-            "modified_at": "2026-07-12T16:27:01.409645"
+            "size_bytes": 1838009,
+            "modified_at": "2026-09-06T23:50:49.921833"
         },
-        "demon-slayer/inosuke-hashibira-neon-amoled.png": {
-            "filename": "inosuke-hashibira-neon-amoled.png",
-            "title": "Inosuke Hashibira Neon Amoled",
-            "path": "wallpapers/anime/demon-slayer/inosuke-hashibira-neon-amoled.png",
+        "chainsaw-man/assets/denji-minimalist-artwork.jpg": {
+            "filename": "denji-minimalist-artwork.jpg",
+            "title": "Denji Minimalist Artwork",
+            "path": "wallpapers/anime/chainsaw-man/assets/denji-minimalist-artwork.jpg",
+            "extension": "jpg",
+            "size_bytes": 1275117,
+            "modified_at": "2026-09-06T23:50:49.924833"
+        },
+        "chainsaw-man/assets/himeno-dark.jpg": {
+            "filename": "himeno-dark.jpg",
+            "title": "Himeno Dark",
+            "path": "wallpapers/anime/chainsaw-man/assets/himeno-dark.jpg",
+            "extension": "jpg",
+            "size_bytes": 2734313,
+            "modified_at": "2026-09-06T23:50:49.927833"
+        },
+        "chainsaw-man/assets/makima-devil-wings.jpg": {
+            "filename": "makima-devil-wings.jpg",
+            "title": "Makima Devil Wings",
+            "path": "wallpapers/anime/chainsaw-man/assets/makima-devil-wings.jpg",
+            "extension": "jpg",
+            "size_bytes": 1575788,
+            "modified_at": "2026-09-06T23:50:49.929833"
+        },
+        "chainsaw-man/assets/makima-scary-eyes.jpg": {
+            "filename": "makima-scary-eyes.jpg",
+            "title": "Makima Scary Eyes",
+            "path": "wallpapers/anime/chainsaw-man/assets/makima-scary-eyes.jpg",
+            "extension": "jpg",
+            "size_bytes": 1905409,
+            "modified_at": "2026-09-06T23:50:49.934833"
+        },
+        "chainsaw-man/assets/monochrome-makima.png": {
+            "filename": "monochrome-makima.png",
+            "title": "Monochrome Makima",
+            "path": "wallpapers/anime/chainsaw-man/assets/monochrome-makima.png",
             "extension": "png",
-            "size_bytes": 2620436,
-            "modified_at": "2026-07-06T13:18:22.379019"
+            "size_bytes": 876967,
+            "modified_at": "2026-09-06T23:50:49.936833"
         },
-        "demon-slayer/kokushibo-minimalist-artwork.jpg": {
-            "filename": "kokushibo-minimalist-artwork.jpg",
-            "title": "Kokushibo Minimalist Artwork",
-            "path": "wallpapers/anime/demon-slayer/kokushibo-minimalist-artwork.jpg",
+        "chainsaw-man/assets/power-portrait.jpg": {
+            "filename": "power-portrait.jpg",
+            "title": "Power Portrait",
+            "path": "wallpapers/anime/chainsaw-man/assets/power-portrait.jpg",
             "extension": "jpg",
-            "size_bytes": 825792,
-            "modified_at": "2026-07-12T16:18:41.474776"
+            "size_bytes": 2005834,
+            "modified_at": "2026-09-06T23:50:49.940833"
         },
-        "demon-slayer/kyojuro-rengoku-angry-profile.jpg": {
-            "filename": "kyojuro-rengoku-angry-profile.jpg",
-            "title": "Kyojuro Rengoku Angry Profile",
-            "path": "wallpapers/anime/demon-slayer/kyojuro-rengoku-angry-profile.jpg",
+        "chainsaw-man/assets/reze-arc-movie.jpg": {
+            "filename": "reze-arc-movie.jpg",
+            "title": "Reze Arc Movie",
+            "path": "wallpapers/anime/chainsaw-man/assets/reze-arc-movie.jpg",
             "extension": "jpg",
-            "size_bytes": 1729297,
-            "modified_at": "2026-07-03T21:48:04.043980"
+            "size_bytes": 1945452,
+            "modified_at": "2026-09-06T23:50:49.945832"
         },
-        "demon-slayer/kyojuro-rengoku-flame-hashira.jpg": {
-            "filename": "kyojuro-rengoku-flame-hashira.jpg",
-            "title": "Kyojuro Rengoku Flame Hashira",
-            "path": "wallpapers/anime/demon-slayer/kyojuro-rengoku-flame-hashira.jpg",
+        "chainsaw-man/assets/reze-beach-arc-movie.jpg": {
+            "filename": "reze-beach-arc-movie.jpg",
+            "title": "Reze Beach Arc Movie",
+            "path": "wallpapers/anime/chainsaw-man/assets/reze-beach-arc-movie.jpg",
             "extension": "jpg",
-            "size_bytes": 2157756,
-            "modified_at": "2026-07-03T21:48:04.046980"
+            "size_bytes": 1847280,
+            "modified_at": "2026-09-06T23:50:49.948833"
         },
-        "demon-slayer/kyojuro-rengoku-flame-sword.jpg": {
-            "filename": "kyojuro-rengoku-flame-sword.jpg",
-            "title": "Kyojuro Rengoku Flame Sword",
-            "path": "wallpapers/anime/demon-slayer/kyojuro-rengoku-flame-sword.jpg",
+        "chainsaw-man/assets/reze-bomb-devil.jpg": {
+            "filename": "reze-bomb-devil.jpg",
+            "title": "Reze Bomb Devil",
+            "path": "wallpapers/anime/chainsaw-man/assets/reze-bomb-devil.jpg",
             "extension": "jpg",
-            "size_bytes": 1917044,
-            "modified_at": "2026-07-03T21:48:04.049980"
+            "size_bytes": 2789522,
+            "modified_at": "2026-09-06T23:50:49.955832"
         },
-        "demon-slayer/lightning-hashira-yellow-artwork.png": {
-            "filename": "lightning-hashira-yellow-artwork.png",
-            "title": "Lightning Hashira Yellow Artwork",
-            "path": "wallpapers/anime/demon-slayer/lightning-hashira-yellow-artwork.png",
+        "chainsaw-man/assets/yoru-devil-war-fight.png": {
+            "filename": "yoru-devil-war-fight.png",
+            "title": "Yoru Devil War Fight",
+            "path": "wallpapers/anime/chainsaw-man/assets/yoru-devil-war-fight.png",
             "extension": "png",
-            "size_bytes": 3611306,
-            "modified_at": "2026-07-06T13:25:58.683259"
+            "size_bytes": 911594,
+            "modified_at": "2026-09-06T23:50:49.957832"
         },
-        "demon-slayer/mitsuri-kanroji-love-hashira.jpg": {
-            "filename": "mitsuri-kanroji-love-hashira.jpg",
-            "title": "Mitsuri Kanroji Love Hashira",
-            "path": "wallpapers/anime/demon-slayer/mitsuri-kanroji-love-hashira.jpg",
+        "chainsaw-man/assets/yoru-war-devil.jpg": {
+            "filename": "yoru-war-devil.jpg",
+            "title": "Yoru War Devil",
+            "path": "wallpapers/anime/chainsaw-man/assets/yoru-war-devil.jpg",
             "extension": "jpg",
-            "size_bytes": 1925181,
-            "modified_at": "2026-07-03T21:48:04.052980"
+            "size_bytes": 1761162,
+            "modified_at": "2026-09-06T23:50:49.960832"
         },
-        "demon-slayer/muichiro-tokito-mist-hashira.jpg": {
-            "filename": "muichiro-tokito-mist-hashira.jpg",
-            "title": "Muichiro Tokito Mist Hashira",
-            "path": "wallpapers/anime/demon-slayer/muichiro-tokito-mist-hashira.jpg",
-            "extension": "jpg",
-            "size_bytes": 2084850,
-            "modified_at": "2026-07-06T13:22:10.276514"
-        },
-        "demon-slayer/muichiro-tokito-serious-face.jpg": {
-            "filename": "muichiro-tokito-serious-face.jpg",
-            "title": "Muichiro Tokito Serious Face",
-            "path": "wallpapers/anime/demon-slayer/muichiro-tokito-serious-face.jpg",
-            "extension": "jpg",
-            "size_bytes": 1669878,
-            "modified_at": "2026-07-06T13:25:16.472661"
-        },
-        "demon-slayer/muzan-kibutsuji-human-form.jpg": {
-            "filename": "muzan-kibutsuji-human-form.jpg",
-            "title": "Muzan Kibutsuji Human Form",
-            "path": "wallpapers/anime/demon-slayer/muzan-kibutsuji-human-form.jpg",
-            "extension": "jpg",
-            "size_bytes": 1970393,
-            "modified_at": "2026-07-03T21:48:04.055979"
-        },
-        "demon-slayer/nezuko-kamado-angry.jpg": {
-            "filename": "nezuko-kamado-angry.jpg",
-            "title": "Nezuko Kamado Angry",
-            "path": "wallpapers/anime/demon-slayer/nezuko-kamado-angry.jpg",
-            "extension": "jpg",
-            "size_bytes": 2024558,
-            "modified_at": "2026-07-03T21:48:04.057980"
-        },
-        "demon-slayer/nezuko-kamado-cute.jpg": {
-            "filename": "nezuko-kamado-cute.jpg",
-            "title": "Nezuko Kamado Cute",
-            "path": "wallpapers/anime/demon-slayer/nezuko-kamado-cute.jpg",
-            "extension": "jpg",
-            "size_bytes": 1901303,
-            "modified_at": "2026-07-03T21:48:04.061980"
-        },
-        "demon-slayer/obanai-iguro-angry.jpg": {
-            "filename": "obanai-iguro-angry.jpg",
-            "title": "Obanai Iguro Angry",
-            "path": "wallpapers/anime/demon-slayer/obanai-iguro-angry.jpg",
-            "extension": "jpg",
-            "size_bytes": 1912875,
-            "modified_at": "2026-07-03T21:48:04.064980"
-        },
-        "demon-slayer/obanai-iguro-snake-hashira.jpg": {
-            "filename": "obanai-iguro-snake-hashira.jpg",
-            "title": "Obanai Iguro Snake Hashira",
-            "path": "wallpapers/anime/demon-slayer/obanai-iguro-snake-hashira.jpg",
-            "extension": "jpg",
-            "size_bytes": 1980914,
-            "modified_at": "2026-07-03T21:48:04.066979"
-        },
-        "demon-slayer/sanemi-shinazugawa-deathstare.jpg": {
-            "filename": "sanemi-shinazugawa-deathstare.jpg",
-            "title": "Sanemi Shinazugawa Deathstare",
-            "path": "wallpapers/anime/demon-slayer/sanemi-shinazugawa-deathstare.jpg",
-            "extension": "jpg",
-            "size_bytes": 2037377,
-            "modified_at": "2026-07-06T13:21:23.584003"
-        },
-        "demon-slayer/sanemi-wind-hashira.jpg": {
-            "filename": "sanemi-wind-hashira.jpg",
-            "title": "Sanemi Wind Hashira",
-            "path": "wallpapers/anime/demon-slayer/sanemi-wind-hashira.jpg",
-            "extension": "jpg",
-            "size_bytes": 2016485,
-            "modified_at": "2026-07-03T21:48:04.068980"
-        },
-        "demon-slayer/shinobu-kocho-insect-hashira.jpg": {
-            "filename": "shinobu-kocho-insect-hashira.jpg",
-            "title": "Shinobu Kocho Insect Hashira",
-            "path": "wallpapers/anime/demon-slayer/shinobu-kocho-insect-hashira.jpg",
-            "extension": "jpg",
-            "size_bytes": 1855446,
-            "modified_at": "2026-07-03T21:48:04.071980"
-        },
-        "demon-slayer/shinobu-kocho-natural-background.jpg": {
-            "filename": "shinobu-kocho-natural-background.jpg",
-            "title": "Shinobu Kocho Natural Background",
-            "path": "wallpapers/anime/demon-slayer/shinobu-kocho-natural-background.jpg",
-            "extension": "jpg",
-            "size_bytes": 2224580,
-            "modified_at": "2026-07-03T21:48:04.075979"
-        },
-        "demon-slayer/tanjiro-kamado-flame-katana.jpg": {
-            "filename": "tanjiro-kamado-flame-katana.jpg",
-            "title": "Tanjiro Kamado Flame Katana",
-            "path": "wallpapers/anime/demon-slayer/tanjiro-kamado-flame-katana.jpg",
-            "extension": "jpg",
-            "size_bytes": 2024094,
-            "modified_at": "2026-07-03T21:48:04.079979"
-        },
-        "demon-slayer/tanjiro-kamado-hinokami-kagura.jpg": {
-            "filename": "tanjiro-kamado-hinokami-kagura.jpg",
-            "title": "Tanjiro Kamado Hinokami Kagura",
-            "path": "wallpapers/anime/demon-slayer/tanjiro-kamado-hinokami-kagura.jpg",
-            "extension": "jpg",
-            "size_bytes": 1904104,
-            "modified_at": "2026-07-06T13:24:25.117159"
-        },
-        "demon-slayer/tanjiro-kamado-sun-breathing.jpg": {
-            "filename": "tanjiro-kamado-sun-breathing.jpg",
-            "title": "Tanjiro Kamado Sun Breathing",
-            "path": "wallpapers/anime/demon-slayer/tanjiro-kamado-sun-breathing.jpg",
-            "extension": "jpg",
-            "size_bytes": 3112301,
-            "modified_at": "2026-07-06T13:24:47.351942"
-        },
-        "demon-slayer/tengen-sound-hashira-multicolor.jpg": {
-            "filename": "tengen-sound-hashira-multicolor.jpg",
-            "title": "Tengen Sound Hashira Multicolor",
-            "path": "wallpapers/anime/demon-slayer/tengen-sound-hashira-multicolor.jpg",
-            "extension": "jpg",
-            "size_bytes": 1037819,
-            "modified_at": "2026-07-06T13:24:08.550321"
-        },
-        "demon-slayer/yoriichi-sun-breathing-hashira.jpg": {
-            "filename": "yoriichi-sun-breathing-hashira.jpg",
-            "title": "Yoriichi Sun Breathing Hashira",
-            "path": "wallpapers/anime/demon-slayer/yoriichi-sun-breathing-hashira.jpg",
-            "extension": "jpg",
-            "size_bytes": 1891754,
-            "modified_at": "2026-07-06T13:19:18.295571"
-        },
-        "demon-slayer/zenitsu-agatsuma-artwork.png": {
-            "filename": "zenitsu-agatsuma-artwork.png",
-            "title": "Zenitsu Agatsuma Artwork",
-            "path": "wallpapers/anime/demon-slayer/zenitsu-agatsuma-artwork.png",
-            "extension": "png",
-            "size_bytes": 4765590,
-            "modified_at": "2026-07-06T13:25:42.478413"
-        },
-        "demon-slayer/zenitsu-agatsuma-infinity-castle.jpg": {
-            "filename": "zenitsu-agatsuma-infinity-castle.jpg",
-            "title": "Zenitsu Agatsuma Infinity Castle",
-            "path": "wallpapers/anime/demon-slayer/zenitsu-agatsuma-infinity-castle.jpg",
-            "extension": "jpg",
-            "size_bytes": 4240897,
-            "modified_at": "2026-07-06T13:26:33.970927"
-        },
-        "demon-slayer/zenitsu-lightning-breathing.jpg": {
-            "filename": "zenitsu-lightning-breathing.jpg",
-            "title": "Zenitsu Lightning Breathing",
-            "path": "wallpapers/anime/demon-slayer/zenitsu-lightning-breathing.jpg",
-            "extension": "jpg",
-            "size_bytes": 2129368,
-            "modified_at": "2026-07-06T13:17:53.436362"
-        },
-        "demon-slayer/zenitsu-lightning-god-stance.png": {
-            "filename": "zenitsu-lightning-god-stance.png",
-            "title": "Zenitsu Lightning God Stance",
-            "path": "wallpapers/anime/demon-slayer/zenitsu-lightning-god-stance.png",
-            "extension": "png",
-            "size_bytes": 1432537,
-            "modified_at": "2026-07-06T13:26:52.267757"
-        },
-        "jujutsu-kaisen/choso-blood-manipulation.jpg": {
-            "filename": "choso-blood-manipulation.jpg",
-            "title": "Choso Blood Manipulation",
-            "path": "wallpapers/anime/jujutsu-kaisen/choso-blood-manipulation.jpg",
-            "extension": "jpg",
-            "size_bytes": 1874251,
-            "modified_at": "2026-07-03T21:49:21.192216"
-        },
-        "jujutsu-kaisen/choso-technique-pose.jpg": {
-            "filename": "choso-technique-pose.jpg",
-            "title": "Choso Technique Pose",
-            "path": "wallpapers/anime/jujutsu-kaisen/choso-technique-pose.jpg",
-            "extension": "jpg",
-            "size_bytes": 1976645,
-            "modified_at": "2026-07-03T21:49:21.193216"
-        },
-        "jujutsu-kaisen/fushiguro-megumi-neon-outline.jpeg": {
-            "filename": "fushiguro-megumi-neon-outline.jpeg",
-            "title": "Fushiguro Megumi Neon Outline",
-            "path": "wallpapers/anime/jujutsu-kaisen/fushiguro-megumi-neon-outline.jpeg",
-            "extension": "jpeg",
-            "size_bytes": 4736527,
-            "modified_at": "2026-07-03T21:49:21.194216"
-        },
-        "jujutsu-kaisen/fushiguro-toji-katana-sword.jpg": {
-            "filename": "fushiguro-toji-katana-sword.jpg",
-            "title": "Fushiguro Toji Katana Sword",
-            "path": "wallpapers/anime/jujutsu-kaisen/fushiguro-toji-katana-sword.jpg",
-            "extension": "jpg",
-            "size_bytes": 1840595,
-            "modified_at": "2026-07-12T16:05:54.125314"
-        },
-        "jujutsu-kaisen/fushiguro-toji-spear-heaven.jpg": {
-            "filename": "fushiguro-toji-spear-heaven.jpg",
-            "title": "Fushiguro Toji Spear Heaven",
-            "path": "wallpapers/anime/jujutsu-kaisen/fushiguro-toji-spear-heaven.jpg",
-            "extension": "jpg",
-            "size_bytes": 1864950,
-            "modified_at": "2026-07-12T16:06:32.381699"
-        },
-        "jujutsu-kaisen/hajime-kashimo-lightning-god.jpg": {
-            "filename": "hajime-kashimo-lightning-god.jpg",
-            "title": "Hajime Kashimo Lightning God",
-            "path": "wallpapers/anime/jujutsu-kaisen/hajime-kashimo-lightning-god.jpg",
-            "extension": "jpg",
-            "size_bytes": 2032838,
-            "modified_at": "2026-07-03T21:48:04.154979"
-        },
-        "jujutsu-kaisen/hiromi-higuruma-domain.jpg": {
-            "filename": "hiromi-higuruma-domain.jpg",
-            "title": "Hiromi Higuruma Domain",
-            "path": "wallpapers/anime/jujutsu-kaisen/hiromi-higuruma-domain.jpg",
-            "extension": "jpg",
-            "size_bytes": 1922433,
-            "modified_at": "2026-07-03T21:49:21.194216"
-        },
-        "jujutsu-kaisen/ishigori-ryu-blast-canon.jpg": {
-            "filename": "ishigori-ryu-blast-canon.jpg",
-            "title": "Ishigori Ryu Blast Canon",
-            "path": "wallpapers/anime/jujutsu-kaisen/ishigori-ryu-blast-canon.jpg",
-            "extension": "jpg",
-            "size_bytes": 1902991,
-            "modified_at": "2026-07-12T16:32:41.342194"
-        },
-        "jujutsu-kaisen/itadori-yuji-black-flash.jpg": {
-            "filename": "itadori-yuji-black-flash.jpg",
-            "title": "Itadori Yuji Black Flash",
-            "path": "wallpapers/anime/jujutsu-kaisen/itadori-yuji-black-flash.jpg",
-            "extension": "jpg",
-            "size_bytes": 1908893,
-            "modified_at": "2026-07-12T16:35:24.671086"
-        },
-        "jujutsu-kaisen/itadori-yuji-modulo-dismantle.png": {
-            "filename": "itadori-yuji-modulo-dismantle.png",
-            "title": "Itadori Yuji Modulo Dismantle",
-            "path": "wallpapers/anime/jujutsu-kaisen/itadori-yuji-modulo-dismantle.png",
-            "extension": "png",
-            "size_bytes": 1523929,
-            "modified_at": "2026-07-12T15:06:38.721472"
-        },
-        "jujutsu-kaisen/kento-nanami-portrait.jpg": {
-            "filename": "kento-nanami-portrait.jpg",
-            "title": "Kento Nanami Portrait",
-            "path": "wallpapers/anime/jujutsu-kaisen/kento-nanami-portrait.jpg",
-            "extension": "jpg",
-            "size_bytes": 2007690,
-            "modified_at": "2026-07-03T21:49:21.195199"
-        },
-        "jujutsu-kaisen/maki-zenin-injured-portrait.jpg": {
-            "filename": "maki-zenin-injured-portrait.jpg",
-            "title": "Maki Zenin Injured Portrait",
-            "path": "wallpapers/anime/jujutsu-kaisen/maki-zenin-injured-portrait.jpg",
-            "extension": "jpg",
-            "size_bytes": 1854334,
-            "modified_at": "2026-07-03T21:49:21.195216"
-        },
-        "jujutsu-kaisen/megumi-fushiguro-shadow-technique.jpg": {
-            "filename": "megumi-fushiguro-shadow-technique.jpg",
-            "title": "Megumi Fushiguro Shadow Technique",
-            "path": "wallpapers/anime/jujutsu-kaisen/megumi-fushiguro-shadow-technique.jpg",
-            "extension": "jpg",
-            "size_bytes": 2008412,
-            "modified_at": "2026-07-12T16:08:36.750739"
-        },
-        "jujutsu-kaisen/megumi-nobara-yuji-happy-trio.jpg": {
-            "filename": "megumi-nobara-yuji-happy-trio.jpg",
-            "title": "Megumi Nobara Yuji Happy Trio",
-            "path": "wallpapers/anime/jujutsu-kaisen/megumi-nobara-yuji-happy-trio.jpg",
-            "extension": "jpg",
-            "size_bytes": 1903539,
-            "modified_at": "2026-07-03T21:49:21.195216"
-        },
-        "jujutsu-kaisen/mei-mei-moon-background.jpg": {
-            "filename": "mei-mei-moon-background.jpg",
-            "title": "Mei Mei Moon Background",
-            "path": "wallpapers/anime/jujutsu-kaisen/mei-mei-moon-background.jpg",
-            "extension": "jpg",
-            "size_bytes": 1945801,
-            "modified_at": "2026-07-12T16:31:16.989778"
-        },
-        "jujutsu-kaisen/satoru-gojo-blue-eyes.jpg": {
-            "filename": "satoru-gojo-blue-eyes.jpg",
-            "title": "Satoru Gojo Blue Eyes",
-            "path": "wallpapers/anime/jujutsu-kaisen/satoru-gojo-blue-eyes.jpg",
-            "extension": "jpg",
-            "size_bytes": 1807640,
-            "modified_at": "2026-07-03T21:48:04.157979"
-        },
-        "jujutsu-kaisen/satoru-gojo-hollow-purple.jpg": {
-            "filename": "satoru-gojo-hollow-purple.jpg",
-            "title": "Satoru Gojo Hollow Purple",
-            "path": "wallpapers/anime/jujutsu-kaisen/satoru-gojo-hollow-purple.jpg",
-            "extension": "jpg",
-            "size_bytes": 1780227,
-            "modified_at": "2026-07-12T16:09:27.545502"
-        },
-        "jujutsu-kaisen/satoru-gojo-kid-monochrome.png": {
-            "filename": "satoru-gojo-kid-monochrome.png",
-            "title": "Satoru Gojo Kid Monochrome",
-            "path": "wallpapers/anime/jujutsu-kaisen/satoru-gojo-kid-monochrome.png",
-            "extension": "png",
-            "size_bytes": 1663958,
-            "modified_at": "2026-07-06T12:58:50.340029"
-        },
-        "jujutsu-kaisen/satoru-gojo-sunglasses.jpg": {
-            "filename": "satoru-gojo-sunglasses.jpg",
-            "title": "Satoru Gojo Sunglasses",
-            "path": "wallpapers/anime/jujutsu-kaisen/satoru-gojo-sunglasses.jpg",
-            "extension": "jpg",
-            "size_bytes": 1791172,
-            "modified_at": "2026-07-03T21:48:04.159979"
-        },
-        "jujutsu-kaisen/shinjuku-showdown-domain-clash.jpeg": {
-            "filename": "shinjuku-showdown-domain-clash.jpeg",
-            "title": "Shinjuku Showdown Domain Clash",
-            "path": "wallpapers/anime/jujutsu-kaisen/shinjuku-showdown-domain-clash.jpeg",
-            "extension": "jpeg",
-            "size_bytes": 7237939,
-            "modified_at": "2026-07-03T21:49:21.198161"
-        },
-        "jujutsu-kaisen/suguru-geto-kenjaku-shikigami.jpg": {
-            "filename": "suguru-geto-kenjaku-shikigami.jpg",
-            "title": "Suguru Geto Kenjaku Shikigami",
-            "path": "wallpapers/anime/jujutsu-kaisen/suguru-geto-kenjaku-shikigami.jpg",
-            "extension": "jpg",
-            "size_bytes": 1800360,
-            "modified_at": "2026-07-12T16:41:36.237297"
-        },
-        "jujutsu-kaisen/sukuna-heian-form-trident.jpg": {
-            "filename": "sukuna-heian-form-trident.jpg",
-            "title": "Sukuna Heian Form Trident",
-            "path": "wallpapers/anime/jujutsu-kaisen/sukuna-heian-form-trident.jpg",
-            "extension": "jpg",
-            "size_bytes": 1978305,
-            "modified_at": "2026-07-03T21:49:21.198216"
-        },
-        "jujutsu-kaisen/sukuna-true-form.jpg": {
-            "filename": "sukuna-true-form.jpg",
-            "title": "Sukuna True Form",
-            "path": "wallpapers/anime/jujutsu-kaisen/sukuna-true-form.jpg",
-            "extension": "jpg",
-            "size_bytes": 1731493,
-            "modified_at": "2026-07-03T21:49:21.199216"
-        },
-        "jujutsu-kaisen/toji-monster-snow-background.png": {
-            "filename": "toji-monster-snow-background.png",
-            "title": "Toji Monster Snow Background",
-            "path": "wallpapers/anime/jujutsu-kaisen/toji-monster-snow-background.png",
-            "extension": "png",
-            "size_bytes": 5506910,
-            "modified_at": "2026-07-12T15:33:47.492760"
-        },
-        "jujutsu-kaisen/yuki-tsukumo-garuda-shikigami.jpg": {
-            "filename": "yuki-tsukumo-garuda-shikigami.jpg",
-            "title": "Yuki Tsukumo Garuda Shikigami",
-            "path": "wallpapers/anime/jujutsu-kaisen/yuki-tsukumo-garuda-shikigami.jpg",
-            "extension": "jpg",
-            "size_bytes": 2584920,
-            "modified_at": "2026-07-12T16:07:29.902143"
-        },
-        "jujutsu-kaisen/yuta-okkotsu-hollow-purple.jpg": {
-            "filename": "yuta-okkotsu-hollow-purple.jpg",
-            "title": "Yuta Okkotsu Hollow Purple",
-            "path": "wallpapers/anime/jujutsu-kaisen/yuta-okkotsu-hollow-purple.jpg",
-            "extension": "jpg",
-            "size_bytes": 1942769,
-            "modified_at": "2026-07-03T21:49:21.200216"
-        },
-        "jujutsu-kaisen/yuta-okkotsu-rika.jpg": {
-            "filename": "yuta-okkotsu-rika.jpg",
-            "title": "Yuta Okkotsu Rika",
-            "path": "wallpapers/anime/jujutsu-kaisen/yuta-okkotsu-rika.jpg",
-            "extension": "jpg",
-            "size_bytes": 2001659,
-            "modified_at": "2026-07-03T21:49:21.201216"
-        },
-        "my-dress-up-darling/gojo-marin-sleeping-scene.png": {
-            "filename": "gojo-marin-sleeping-scene.png",
-            "title": "Gojo Marin Sleeping Scene",
-            "path": "wallpapers/anime/my-dress-up-darling/gojo-marin-sleeping-scene.png",
-            "extension": "png",
-            "size_bytes": 2523959,
-            "modified_at": "2026-07-11T23:45:38.160732"
-        },
-        "my-dress-up-darling/marin-kitagawa-hand-sign.jpg": {
-            "filename": "marin-kitagawa-hand-sign.jpg",
-            "title": "Marin Kitagawa Hand Sign",
-            "path": "wallpapers/anime/my-dress-up-darling/marin-kitagawa-hand-sign.jpg",
-            "extension": "jpg",
-            "size_bytes": 1209416,
-            "modified_at": "2026-07-11T23:39:32.773334"
-        },
-        "my-dress-up-darling/marin-kitagawa-happy-face.jpg": {
-            "filename": "marin-kitagawa-happy-face.jpg",
-            "title": "Marin Kitagawa Happy Face",
-            "path": "wallpapers/anime/my-dress-up-darling/marin-kitagawa-happy-face.jpg",
-            "extension": "jpg",
-            "size_bytes": 4773748,
-            "modified_at": "2026-07-11T23:45:48.074616"
-        },
-        "my-dress-up-darling/marin-kitagawa-happy-singing.jpg": {
-            "filename": "marin-kitagawa-happy-singing.jpg",
-            "title": "Marin Kitagawa Happy Singing",
-            "path": "wallpapers/anime/my-dress-up-darling/marin-kitagawa-happy-singing.jpg",
-            "extension": "jpg",
-            "size_bytes": 1206671,
-            "modified_at": "2026-07-11T23:50:48.788219"
-        },
-        "my-dress-up-darling/marin-kitagawa-mirror-cosplay.jpg": {
-            "filename": "marin-kitagawa-mirror-cosplay.jpg",
-            "title": "Marin Kitagawa Mirror Cosplay",
-            "path": "wallpapers/anime/my-dress-up-darling/marin-kitagawa-mirror-cosplay.jpg",
-            "extension": "jpg",
-            "size_bytes": 1904069,
-            "modified_at": "2026-07-11T23:51:28.479786"
-        },
-        "my-dress-up-darling/marin-kitagawa-purple-neon.png": {
-            "filename": "marin-kitagawa-purple-neon.png",
-            "title": "Marin Kitagawa Purple Neon",
-            "path": "wallpapers/anime/my-dress-up-darling/marin-kitagawa-purple-neon.png",
-            "extension": "png",
-            "size_bytes": 2105955,
-            "modified_at": "2026-07-11T23:50:35.595364"
-        },
-        "my-dress-up-darling/marin-kitagawa-social-background.jpg": {
-            "filename": "marin-kitagawa-social-background.jpg",
-            "title": "Marin Kitagawa Social Background",
-            "path": "wallpapers/anime/my-dress-up-darling/marin-kitagawa-social-background.jpg",
-            "extension": "jpg",
-            "size_bytes": 3061342,
-            "modified_at": "2026-07-06T13:34:21.544791"
-        },
-        "my-hero-academia/bakugo-izuku-shoto-trio.jpg": {
+        "my-hero-academia/assets/bakugo-izuku-shoto-trio.jpg": {
             "filename": "bakugo-izuku-shoto-trio.jpg",
             "title": "Bakugo Izuku Shoto Trio",
-            "path": "wallpapers/anime/my-hero-academia/bakugo-izuku-shoto-trio.jpg",
+            "path": "wallpapers/anime/my-hero-academia/assets/bakugo-izuku-shoto-trio.jpg",
             "extension": "jpg",
             "size_bytes": 2371885,
-            "modified_at": "2026-07-06T12:59:25.308802"
+            "modified_at": "2026-09-06T23:50:50.309829"
         },
-        "my-hero-academia/dabi-blue-flame.jpg": {
+        "my-hero-academia/assets/dabi-blue-flame.jpg": {
             "filename": "dabi-blue-flame.jpg",
             "title": "Dabi Blue Flame",
-            "path": "wallpapers/anime/my-hero-academia/dabi-blue-flame.jpg",
+            "path": "wallpapers/anime/my-hero-academia/assets/dabi-blue-flame.jpg",
             "extension": "jpg",
             "size_bytes": 2082208,
-            "modified_at": "2026-07-06T12:59:25.308802"
+            "modified_at": "2026-09-06T23:50:50.314829"
         },
-        "my-hero-academia/dabi-villain-portrait.jpg": {
+        "my-hero-academia/assets/dabi-villain-portrait.jpg": {
             "filename": "dabi-villain-portrait.jpg",
             "title": "Dabi Villain Portrait",
-            "path": "wallpapers/anime/my-hero-academia/dabi-villain-portrait.jpg",
+            "path": "wallpapers/anime/my-hero-academia/assets/dabi-villain-portrait.jpg",
             "extension": "jpg",
             "size_bytes": 1788750,
-            "modified_at": "2026-07-06T12:59:25.309802"
+            "modified_at": "2026-09-06T23:50:50.319829"
         },
-        "my-hero-academia/deku-rage-mode-monochrome.jpg": {
+        "my-hero-academia/assets/deku-rage-mode-monochrome.jpg": {
             "filename": "deku-rage-mode-monochrome.jpg",
             "title": "Deku Rage Mode Monochrome",
-            "path": "wallpapers/anime/my-hero-academia/deku-rage-mode-monochrome.jpg",
+            "path": "wallpapers/anime/my-hero-academia/assets/deku-rage-mode-monochrome.jpg",
             "extension": "jpg",
             "size_bytes": 1833095,
-            "modified_at": "2026-07-06T12:59:25.309802"
+            "modified_at": "2026-09-06T23:50:50.324829"
         },
-        "my-hero-academia/hawks-keigo-takami.jpg": {
+        "my-hero-academia/assets/hawks-keigo-takami.jpg": {
             "filename": "hawks-keigo-takami.jpg",
             "title": "Hawks Keigo Takami",
-            "path": "wallpapers/anime/my-hero-academia/hawks-keigo-takami.jpg",
+            "path": "wallpapers/anime/my-hero-academia/assets/hawks-keigo-takami.jpg",
             "extension": "jpg",
             "size_bytes": 1609531,
-            "modified_at": "2026-07-06T12:59:25.309802"
+            "modified_at": "2026-09-06T23:50:50.328829"
         },
-        "my-hero-academia/izuku-midoriya-eri-quirks.jpg": {
+        "my-hero-academia/assets/izuku-midoriya-eri-quirks.jpg": {
             "filename": "izuku-midoriya-eri-quirks.jpg",
             "title": "Izuku Midoriya Eri Quirks",
-            "path": "wallpapers/anime/my-hero-academia/izuku-midoriya-eri-quirks.jpg",
+            "path": "wallpapers/anime/my-hero-academia/assets/izuku-midoriya-eri-quirks.jpg",
             "extension": "jpg",
             "size_bytes": 2828640,
-            "modified_at": "2026-07-06T12:59:25.310802"
+            "modified_at": "2026-09-06T23:50:50.335829"
         },
-        "my-hero-academia/monochrome-AFO-injured.png": {
+        "my-hero-academia/assets/monochrome-AFO-injured.png": {
             "filename": "monochrome-AFO-injured.png",
             "title": "Monochrome Afo Injured",
-            "path": "wallpapers/anime/my-hero-academia/monochrome-AFO-injured.png",
+            "path": "wallpapers/anime/my-hero-academia/assets/monochrome-AFO-injured.png",
             "extension": "png",
             "size_bytes": 5911741,
-            "modified_at": "2026-07-06T12:59:25.312802"
+            "modified_at": "2026-09-06T23:50:50.350829"
         },
-        "my-hero-academia/red-riot-kirishima.jpg": {
+        "my-hero-academia/assets/red-riot-kirishima.jpg": {
             "filename": "red-riot-kirishima.jpg",
             "title": "Red Riot Kirishima",
-            "path": "wallpapers/anime/my-hero-academia/red-riot-kirishima.jpg",
+            "path": "wallpapers/anime/my-hero-academia/assets/red-riot-kirishima.jpg",
             "extension": "jpg",
             "size_bytes": 1874711,
-            "modified_at": "2026-07-06T12:59:25.312802"
+            "modified_at": "2026-09-06T23:50:50.355829"
         },
-        "my-hero-academia/todoroki-shoto-portrait.jpg": {
+        "my-hero-academia/assets/todoroki-shoto-portrait.jpg": {
             "filename": "todoroki-shoto-portrait.jpg",
             "title": "Todoroki Shoto Portrait",
-            "path": "wallpapers/anime/my-hero-academia/todoroki-shoto-portrait.jpg",
+            "path": "wallpapers/anime/my-hero-academia/assets/todoroki-shoto-portrait.jpg",
             "extension": "jpg",
             "size_bytes": 2008765,
-            "modified_at": "2026-07-06T12:59:25.314404"
+            "modified_at": "2026-09-06T23:50:50.360829"
         },
-        "one-piece/luffy-elbaph-arc-aurora.jpg": {
+        "one-piece/assets/luffy-elbaph-arc-aurora.jpg": {
             "filename": "luffy-elbaph-arc-aurora.jpg",
             "title": "Luffy Elbaph Arc Aurora",
-            "path": "wallpapers/anime/one-piece/luffy-elbaph-arc-aurora.jpg",
+            "path": "wallpapers/anime/one-piece/assets/luffy-elbaph-arc-aurora.jpg",
             "extension": "jpg",
             "size_bytes": 2068330,
-            "modified_at": "2026-07-14T16:58:15.152237"
+            "modified_at": "2026-09-06T23:50:50.365829"
         },
-        "one-piece/luffy-gear-fifth-nika.jpg": {
+        "one-piece/assets/luffy-gear-fifth-nika.jpg": {
             "filename": "luffy-gear-fifth-nika.jpg",
             "title": "Luffy Gear Fifth Nika",
-            "path": "wallpapers/anime/one-piece/luffy-gear-fifth-nika.jpg",
+            "path": "wallpapers/anime/one-piece/assets/luffy-gear-fifth-nika.jpg",
             "extension": "jpg",
             "size_bytes": 1923947,
-            "modified_at": "2026-07-14T16:48:48.496171"
+            "modified_at": "2026-09-06T23:50:50.370828"
         },
-        "one-piece/luffy-smile-elbaph-arc.jpg": {
+        "one-piece/assets/luffy-smile-elbaph-arc.jpg": {
             "filename": "luffy-smile-elbaph-arc.jpg",
             "title": "Luffy Smile Elbaph Arc",
-            "path": "wallpapers/anime/one-piece/luffy-smile-elbaph-arc.jpg",
+            "path": "wallpapers/anime/one-piece/assets/luffy-smile-elbaph-arc.jpg",
             "extension": "jpg",
             "size_bytes": 1928101,
-            "modified_at": "2026-07-14T16:47:45.485837"
+            "modified_at": "2026-09-06T23:50:50.375829"
         },
-        "one-piece/luffy-snow-elbaph-mountains.jpg": {
+        "one-piece/assets/luffy-snow-elbaph-mountains.jpg": {
             "filename": "luffy-snow-elbaph-mountains.jpg",
             "title": "Luffy Snow Elbaph Mountains",
-            "path": "wallpapers/anime/one-piece/luffy-snow-elbaph-mountains.jpg",
+            "path": "wallpapers/anime/one-piece/assets/luffy-snow-elbaph-mountains.jpg",
             "extension": "jpg",
             "size_bytes": 1849457,
-            "modified_at": "2026-07-14T16:57:07.118946"
+            "modified_at": "2026-09-06T23:50:50.380828"
         },
-        "one-piece/roronoa-zoro-artwork-neon.jpg": {
+        "one-piece/assets/roronoa-zoro-artwork-neon.jpg": {
             "filename": "roronoa-zoro-artwork-neon.jpg",
             "title": "Roronoa Zoro Artwork Neon",
-            "path": "wallpapers/anime/one-piece/roronoa-zoro-artwork-neon.jpg",
+            "path": "wallpapers/anime/one-piece/assets/roronoa-zoro-artwork-neon.jpg",
             "extension": "jpg",
             "size_bytes": 1582355,
-            "modified_at": "2026-07-14T16:54:42.221457"
+            "modified_at": "2026-09-06T23:50:50.384828"
         },
-        "one-piece/shanks-scar-angry-face.jpg": {
+        "one-piece/assets/shanks-scar-angry-face.jpg": {
             "filename": "shanks-scar-angry-face.jpg",
             "title": "Shanks Scar Angry Face",
-            "path": "wallpapers/anime/one-piece/shanks-scar-angry-face.jpg",
+            "path": "wallpapers/anime/one-piece/assets/shanks-scar-angry-face.jpg",
             "extension": "jpg",
             "size_bytes": 1872362,
-            "modified_at": "2026-07-14T16:52:03.387120"
+            "modified_at": "2026-09-06T23:50:50.389828"
         },
-        "one-piece/trafalgar-law-devil-fruit.jpg": {
+        "one-piece/assets/trafalgar-law-devil-fruit.jpg": {
             "filename": "trafalgar-law-devil-fruit.jpg",
             "title": "Trafalgar Law Devil Fruit",
-            "path": "wallpapers/anime/one-piece/trafalgar-law-devil-fruit.jpg",
+            "path": "wallpapers/anime/one-piece/assets/trafalgar-law-devil-fruit.jpg",
             "extension": "jpg",
             "size_bytes": 1985314,
-            "modified_at": "2026-07-14T17:01:16.056356"
+            "modified_at": "2026-09-06T23:50:50.394828"
         },
-        "portraits/cat-girl-flowers-background.jpg": {
+        "demon-slayer/assets/akaza-upper-rank-demon.jpg": {
+            "filename": "akaza-upper-rank-demon.jpg",
+            "title": "Akaza Upper Rank Demon",
+            "path": "wallpapers/anime/demon-slayer/assets/akaza-upper-rank-demon.jpg",
+            "extension": "jpg",
+            "size_bytes": 1917514,
+            "modified_at": "2026-09-06T23:50:50.017832"
+        },
+        "demon-slayer/assets/doma-demon-glowing-eyes.jpg": {
+            "filename": "doma-demon-glowing-eyes.jpg",
+            "title": "Doma Demon Glowing Eyes",
+            "path": "wallpapers/anime/demon-slayer/assets/doma-demon-glowing-eyes.jpg",
+            "extension": "jpg",
+            "size_bytes": 1877581,
+            "modified_at": "2026-09-06T23:50:50.022832"
+        },
+        "demon-slayer/assets/inosuke-hashibira-neon-amoled.png": {
+            "filename": "inosuke-hashibira-neon-amoled.png",
+            "title": "Inosuke Hashibira Neon Amoled",
+            "path": "wallpapers/anime/demon-slayer/assets/inosuke-hashibira-neon-amoled.png",
+            "extension": "png",
+            "size_bytes": 2620436,
+            "modified_at": "2026-09-06T23:50:50.028832"
+        },
+        "demon-slayer/assets/kokushibo-minimalist-artwork.jpg": {
+            "filename": "kokushibo-minimalist-artwork.jpg",
+            "title": "Kokushibo Minimalist Artwork",
+            "path": "wallpapers/anime/demon-slayer/assets/kokushibo-minimalist-artwork.jpg",
+            "extension": "jpg",
+            "size_bytes": 825792,
+            "modified_at": "2026-09-06T23:50:50.031832"
+        },
+        "demon-slayer/assets/kyojuro-rengoku-angry-profile.jpg": {
+            "filename": "kyojuro-rengoku-angry-profile.jpg",
+            "title": "Kyojuro Rengoku Angry Profile",
+            "path": "wallpapers/anime/demon-slayer/assets/kyojuro-rengoku-angry-profile.jpg",
+            "extension": "jpg",
+            "size_bytes": 1729297,
+            "modified_at": "2026-09-06T23:50:50.033832"
+        },
+        "demon-slayer/assets/kyojuro-rengoku-flame-hashira.jpg": {
+            "filename": "kyojuro-rengoku-flame-hashira.jpg",
+            "title": "Kyojuro Rengoku Flame Hashira",
+            "path": "wallpapers/anime/demon-slayer/assets/kyojuro-rengoku-flame-hashira.jpg",
+            "extension": "jpg",
+            "size_bytes": 2157756,
+            "modified_at": "2026-09-06T23:50:50.036832"
+        },
+        "demon-slayer/assets/kyojuro-rengoku-flame-sword.jpg": {
+            "filename": "kyojuro-rengoku-flame-sword.jpg",
+            "title": "Kyojuro Rengoku Flame Sword",
+            "path": "wallpapers/anime/demon-slayer/assets/kyojuro-rengoku-flame-sword.jpg",
+            "extension": "jpg",
+            "size_bytes": 1917044,
+            "modified_at": "2026-09-06T23:50:50.039832"
+        },
+        "demon-slayer/assets/lightning-hashira-yellow-artwork.png": {
+            "filename": "lightning-hashira-yellow-artwork.png",
+            "title": "Lightning Hashira Yellow Artwork",
+            "path": "wallpapers/anime/demon-slayer/assets/lightning-hashira-yellow-artwork.png",
+            "extension": "png",
+            "size_bytes": 3611306,
+            "modified_at": "2026-09-06T23:50:50.049832"
+        },
+        "demon-slayer/assets/mitsuri-kanroji-love-hashira.jpg": {
+            "filename": "mitsuri-kanroji-love-hashira.jpg",
+            "title": "Mitsuri Kanroji Love Hashira",
+            "path": "wallpapers/anime/demon-slayer/assets/mitsuri-kanroji-love-hashira.jpg",
+            "extension": "jpg",
+            "size_bytes": 1925181,
+            "modified_at": "2026-09-06T23:50:50.052832"
+        },
+        "demon-slayer/assets/muichiro-tokito-mist-hashira.jpg": {
+            "filename": "muichiro-tokito-mist-hashira.jpg",
+            "title": "Muichiro Tokito Mist Hashira",
+            "path": "wallpapers/anime/demon-slayer/assets/muichiro-tokito-mist-hashira.jpg",
+            "extension": "jpg",
+            "size_bytes": 2084850,
+            "modified_at": "2026-09-06T23:50:50.057832"
+        },
+        "demon-slayer/assets/muichiro-tokito-serious-face.jpg": {
+            "filename": "muichiro-tokito-serious-face.jpg",
+            "title": "Muichiro Tokito Serious Face",
+            "path": "wallpapers/anime/demon-slayer/assets/muichiro-tokito-serious-face.jpg",
+            "extension": "jpg",
+            "size_bytes": 1669878,
+            "modified_at": "2026-09-06T23:50:50.061831"
+        },
+        "demon-slayer/assets/muzan-kibutsuji-human-form.jpg": {
+            "filename": "muzan-kibutsuji-human-form.jpg",
+            "title": "Muzan Kibutsuji Human Form",
+            "path": "wallpapers/anime/demon-slayer/assets/muzan-kibutsuji-human-form.jpg",
+            "extension": "jpg",
+            "size_bytes": 1970393,
+            "modified_at": "2026-09-06T23:50:50.064831"
+        },
+        "demon-slayer/assets/nezuko-kamado-angry.jpg": {
+            "filename": "nezuko-kamado-angry.jpg",
+            "title": "Nezuko Kamado Angry",
+            "path": "wallpapers/anime/demon-slayer/assets/nezuko-kamado-angry.jpg",
+            "extension": "jpg",
+            "size_bytes": 2024558,
+            "modified_at": "2026-09-06T23:50:50.067831"
+        },
+        "demon-slayer/assets/nezuko-kamado-cute.jpg": {
+            "filename": "nezuko-kamado-cute.jpg",
+            "title": "Nezuko Kamado Cute",
+            "path": "wallpapers/anime/demon-slayer/assets/nezuko-kamado-cute.jpg",
+            "extension": "jpg",
+            "size_bytes": 1901303,
+            "modified_at": "2026-09-06T23:50:50.071831"
+        },
+        "demon-slayer/assets/obanai-iguro-angry.jpg": {
+            "filename": "obanai-iguro-angry.jpg",
+            "title": "Obanai Iguro Angry",
+            "path": "wallpapers/anime/demon-slayer/assets/obanai-iguro-angry.jpg",
+            "extension": "jpg",
+            "size_bytes": 1912875,
+            "modified_at": "2026-09-06T23:50:50.074831"
+        },
+        "demon-slayer/assets/obanai-iguro-snake-hashira.jpg": {
+            "filename": "obanai-iguro-snake-hashira.jpg",
+            "title": "Obanai Iguro Snake Hashira",
+            "path": "wallpapers/anime/demon-slayer/assets/obanai-iguro-snake-hashira.jpg",
+            "extension": "jpg",
+            "size_bytes": 1980914,
+            "modified_at": "2026-09-06T23:50:50.076831"
+        },
+        "demon-slayer/assets/sanemi-shinazugawa-deathstare.jpg": {
+            "filename": "sanemi-shinazugawa-deathstare.jpg",
+            "title": "Sanemi Shinazugawa Deathstare",
+            "path": "wallpapers/anime/demon-slayer/assets/sanemi-shinazugawa-deathstare.jpg",
+            "extension": "jpg",
+            "size_bytes": 2037377,
+            "modified_at": "2026-09-06T23:50:50.081831"
+        },
+        "demon-slayer/assets/sanemi-wind-hashira.jpg": {
+            "filename": "sanemi-wind-hashira.jpg",
+            "title": "Sanemi Wind Hashira",
+            "path": "wallpapers/anime/demon-slayer/assets/sanemi-wind-hashira.jpg",
+            "extension": "jpg",
+            "size_bytes": 2016485,
+            "modified_at": "2026-09-06T23:50:50.084831"
+        },
+        "demon-slayer/assets/shinobu-kocho-insect-hashira.jpg": {
+            "filename": "shinobu-kocho-insect-hashira.jpg",
+            "title": "Shinobu Kocho Insect Hashira",
+            "path": "wallpapers/anime/demon-slayer/assets/shinobu-kocho-insect-hashira.jpg",
+            "extension": "jpg",
+            "size_bytes": 1855446,
+            "modified_at": "2026-09-06T23:50:50.086831"
+        },
+        "demon-slayer/assets/shinobu-kocho-natural-background.jpg": {
+            "filename": "shinobu-kocho-natural-background.jpg",
+            "title": "Shinobu Kocho Natural Background",
+            "path": "wallpapers/anime/demon-slayer/assets/shinobu-kocho-natural-background.jpg",
+            "extension": "jpg",
+            "size_bytes": 2224580,
+            "modified_at": "2026-09-06T23:50:50.090831"
+        },
+        "demon-slayer/assets/tanjiro-kamado-flame-katana.jpg": {
+            "filename": "tanjiro-kamado-flame-katana.jpg",
+            "title": "Tanjiro Kamado Flame Katana",
+            "path": "wallpapers/anime/demon-slayer/assets/tanjiro-kamado-flame-katana.jpg",
+            "extension": "jpg",
+            "size_bytes": 2024094,
+            "modified_at": "2026-09-06T23:50:50.094831"
+        },
+        "demon-slayer/assets/tanjiro-kamado-hinokami-kagura.jpg": {
+            "filename": "tanjiro-kamado-hinokami-kagura.jpg",
+            "title": "Tanjiro Kamado Hinokami Kagura",
+            "path": "wallpapers/anime/demon-slayer/assets/tanjiro-kamado-hinokami-kagura.jpg",
+            "extension": "jpg",
+            "size_bytes": 1904104,
+            "modified_at": "2026-09-06T23:50:50.099831"
+        },
+        "demon-slayer/assets/tanjiro-kamado-sun-breathing.jpg": {
+            "filename": "tanjiro-kamado-sun-breathing.jpg",
+            "title": "Tanjiro Kamado Sun Breathing",
+            "path": "wallpapers/anime/demon-slayer/assets/tanjiro-kamado-sun-breathing.jpg",
+            "extension": "jpg",
+            "size_bytes": 3112301,
+            "modified_at": "2026-09-06T23:50:50.107831"
+        },
+        "demon-slayer/assets/tengen-sound-hashira-multicolor.jpg": {
+            "filename": "tengen-sound-hashira-multicolor.jpg",
+            "title": "Tengen Sound Hashira Multicolor",
+            "path": "wallpapers/anime/demon-slayer/assets/tengen-sound-hashira-multicolor.jpg",
+            "extension": "jpg",
+            "size_bytes": 1037819,
+            "modified_at": "2026-09-06T23:50:50.110831"
+        },
+        "demon-slayer/assets/yoriichi-sun-breathing-hashira.jpg": {
+            "filename": "yoriichi-sun-breathing-hashira.jpg",
+            "title": "Yoriichi Sun Breathing Hashira",
+            "path": "wallpapers/anime/demon-slayer/assets/yoriichi-sun-breathing-hashira.jpg",
+            "extension": "jpg",
+            "size_bytes": 1891754,
+            "modified_at": "2026-09-06T23:50:50.115831"
+        },
+        "demon-slayer/assets/zenitsu-agatsuma-artwork.png": {
+            "filename": "zenitsu-agatsuma-artwork.png",
+            "title": "Zenitsu Agatsuma Artwork",
+            "path": "wallpapers/anime/demon-slayer/assets/zenitsu-agatsuma-artwork.png",
+            "extension": "png",
+            "size_bytes": 4765590,
+            "modified_at": "2026-09-06T23:50:50.127831"
+        },
+        "demon-slayer/assets/zenitsu-agatsuma-infinity-castle.jpg": {
+            "filename": "zenitsu-agatsuma-infinity-castle.jpg",
+            "title": "Zenitsu Agatsuma Infinity Castle",
+            "path": "wallpapers/anime/demon-slayer/assets/zenitsu-agatsuma-infinity-castle.jpg",
+            "extension": "jpg",
+            "size_bytes": 4240897,
+            "modified_at": "2026-09-06T23:50:50.137831"
+        },
+        "demon-slayer/assets/zenitsu-lightning-breathing.jpg": {
+            "filename": "zenitsu-lightning-breathing.jpg",
+            "title": "Zenitsu Lightning Breathing",
+            "path": "wallpapers/anime/demon-slayer/assets/zenitsu-lightning-breathing.jpg",
+            "extension": "jpg",
+            "size_bytes": 2129368,
+            "modified_at": "2026-09-06T23:50:50.143831"
+        },
+        "demon-slayer/assets/zenitsu-lightning-god-stance.png": {
+            "filename": "zenitsu-lightning-god-stance.png",
+            "title": "Zenitsu Lightning God Stance",
+            "path": "wallpapers/anime/demon-slayer/assets/zenitsu-lightning-god-stance.png",
+            "extension": "png",
+            "size_bytes": 1432537,
+            "modified_at": "2026-09-06T23:50:50.146831"
+        },
+        "jujutsu-kaisen/assets/choso-blood-manipulation.jpg": {
+            "filename": "choso-blood-manipulation.jpg",
+            "title": "Choso Blood Manipulation",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/choso-blood-manipulation.jpg",
+            "extension": "jpg",
+            "size_bytes": 1874251,
+            "modified_at": "2026-09-06T23:50:50.151831"
+        },
+        "jujutsu-kaisen/assets/choso-technique-pose.jpg": {
+            "filename": "choso-technique-pose.jpg",
+            "title": "Choso Technique Pose",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/choso-technique-pose.jpg",
+            "extension": "jpg",
+            "size_bytes": 1976645,
+            "modified_at": "2026-09-06T23:50:50.157830"
+        },
+        "jujutsu-kaisen/assets/fushiguro-megumi-neon-outline.jpeg": {
+            "filename": "fushiguro-megumi-neon-outline.jpeg",
+            "title": "Fushiguro Megumi Neon Outline",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/fushiguro-megumi-neon-outline.jpeg",
+            "extension": "jpeg",
+            "size_bytes": 4736527,
+            "modified_at": "2026-09-06T23:50:50.170830"
+        },
+        "jujutsu-kaisen/assets/fushiguro-toji-katana-sword.jpg": {
+            "filename": "fushiguro-toji-katana-sword.jpg",
+            "title": "Fushiguro Toji Katana Sword",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/fushiguro-toji-katana-sword.jpg",
+            "extension": "jpg",
+            "size_bytes": 1840595,
+            "modified_at": "2026-09-06T23:50:50.175830"
+        },
+        "jujutsu-kaisen/assets/fushiguro-toji-spear-heaven.jpg": {
+            "filename": "fushiguro-toji-spear-heaven.jpg",
+            "title": "Fushiguro Toji Spear Heaven",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/fushiguro-toji-spear-heaven.jpg",
+            "extension": "jpg",
+            "size_bytes": 1864950,
+            "modified_at": "2026-09-06T23:50:50.180830"
+        },
+        "jujutsu-kaisen/assets/hajime-kashimo-lightning-god.jpg": {
+            "filename": "hajime-kashimo-lightning-god.jpg",
+            "title": "Hajime Kashimo Lightning God",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/hajime-kashimo-lightning-god.jpg",
+            "extension": "jpg",
+            "size_bytes": 2032838,
+            "modified_at": "2026-09-06T23:50:50.183830"
+        },
+        "jujutsu-kaisen/assets/hiromi-higuruma-domain.jpg": {
+            "filename": "hiromi-higuruma-domain.jpg",
+            "title": "Hiromi Higuruma Domain",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/hiromi-higuruma-domain.jpg",
+            "extension": "jpg",
+            "size_bytes": 1922433,
+            "modified_at": "2026-09-06T23:50:50.187830"
+        },
+        "jujutsu-kaisen/assets/ishigori-ryu-blast-canon.jpg": {
+            "filename": "ishigori-ryu-blast-canon.jpg",
+            "title": "Ishigori Ryu Blast Canon",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/ishigori-ryu-blast-canon.jpg",
+            "extension": "jpg",
+            "size_bytes": 1902991,
+            "modified_at": "2026-09-06T23:50:50.192830"
+        },
+        "jujutsu-kaisen/assets/itadori-yuji-black-flash.jpg": {
+            "filename": "itadori-yuji-black-flash.jpg",
+            "title": "Itadori Yuji Black Flash",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/itadori-yuji-black-flash.jpg",
+            "extension": "jpg",
+            "size_bytes": 1908893,
+            "modified_at": "2026-09-06T23:50:50.197830"
+        },
+        "jujutsu-kaisen/assets/itadori-yuji-modulo-dismantle.png": {
+            "filename": "itadori-yuji-modulo-dismantle.png",
+            "title": "Itadori Yuji Modulo Dismantle",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/itadori-yuji-modulo-dismantle.png",
+            "extension": "png",
+            "size_bytes": 1523929,
+            "modified_at": "2026-09-06T23:50:50.201830"
+        },
+        "jujutsu-kaisen/assets/kento-nanami-portrait.jpg": {
+            "filename": "kento-nanami-portrait.jpg",
+            "title": "Kento Nanami Portrait",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/kento-nanami-portrait.jpg",
+            "extension": "jpg",
+            "size_bytes": 2007690,
+            "modified_at": "2026-09-06T23:50:50.206830"
+        },
+        "jujutsu-kaisen/assets/maki-zenin-injured-portrait.jpg": {
+            "filename": "maki-zenin-injured-portrait.jpg",
+            "title": "Maki Zenin Injured Portrait",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/maki-zenin-injured-portrait.jpg",
+            "extension": "jpg",
+            "size_bytes": 1854334,
+            "modified_at": "2026-09-06T23:50:50.211830"
+        },
+        "jujutsu-kaisen/assets/megumi-fushiguro-shadow-technique.jpg": {
+            "filename": "megumi-fushiguro-shadow-technique.jpg",
+            "title": "Megumi Fushiguro Shadow Technique",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/megumi-fushiguro-shadow-technique.jpg",
+            "extension": "jpg",
+            "size_bytes": 2008412,
+            "modified_at": "2026-09-06T23:50:50.216830"
+        },
+        "jujutsu-kaisen/assets/megumi-nobara-yuji-happy-trio.jpg": {
+            "filename": "megumi-nobara-yuji-happy-trio.jpg",
+            "title": "Megumi Nobara Yuji Happy Trio",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/megumi-nobara-yuji-happy-trio.jpg",
+            "extension": "jpg",
+            "size_bytes": 1903539,
+            "modified_at": "2026-09-06T23:50:50.221830"
+        },
+        "jujutsu-kaisen/assets/mei-mei-moon-background.jpg": {
+            "filename": "mei-mei-moon-background.jpg",
+            "title": "Mei Mei Moon Background",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/mei-mei-moon-background.jpg",
+            "extension": "jpg",
+            "size_bytes": 1945801,
+            "modified_at": "2026-09-06T23:50:50.226830"
+        },
+        "jujutsu-kaisen/assets/satoru-gojo-blue-eyes.jpg": {
+            "filename": "satoru-gojo-blue-eyes.jpg",
+            "title": "Satoru Gojo Blue Eyes",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/satoru-gojo-blue-eyes.jpg",
+            "extension": "jpg",
+            "size_bytes": 1807640,
+            "modified_at": "2026-09-06T23:50:50.229830"
+        },
+        "jujutsu-kaisen/assets/satoru-gojo-hollow-purple.jpg": {
+            "filename": "satoru-gojo-hollow-purple.jpg",
+            "title": "Satoru Gojo Hollow Purple",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/satoru-gojo-hollow-purple.jpg",
+            "extension": "jpg",
+            "size_bytes": 1780227,
+            "modified_at": "2026-09-06T23:50:50.234830"
+        },
+        "jujutsu-kaisen/assets/satoru-gojo-kid-monochrome.png": {
+            "filename": "satoru-gojo-kid-monochrome.png",
+            "title": "Satoru Gojo Kid Monochrome",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/satoru-gojo-kid-monochrome.png",
+            "extension": "png",
+            "size_bytes": 1663958,
+            "modified_at": "2026-09-06T23:50:50.238830"
+        },
+        "jujutsu-kaisen/assets/satoru-gojo-sunglasses.jpg": {
+            "filename": "satoru-gojo-sunglasses.jpg",
+            "title": "Satoru Gojo Sunglasses",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/satoru-gojo-sunglasses.jpg",
+            "extension": "jpg",
+            "size_bytes": 1791172,
+            "modified_at": "2026-09-06T23:50:50.240830"
+        },
+        "jujutsu-kaisen/assets/shinjuku-showdown-domain-clash.jpeg": {
+            "filename": "shinjuku-showdown-domain-clash.jpeg",
+            "title": "Shinjuku Showdown Domain Clash",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/shinjuku-showdown-domain-clash.jpeg",
+            "extension": "jpeg",
+            "size_bytes": 7237939,
+            "modified_at": "2026-09-06T23:50:50.258830"
+        },
+        "jujutsu-kaisen/assets/suguru-geto-kenjaku-shikigami.jpg": {
+            "filename": "suguru-geto-kenjaku-shikigami.jpg",
+            "title": "Suguru Geto Kenjaku Shikigami",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/suguru-geto-kenjaku-shikigami.jpg",
+            "extension": "jpg",
+            "size_bytes": 1800360,
+            "modified_at": "2026-09-06T23:50:50.263829"
+        },
+        "jujutsu-kaisen/assets/sukuna-heian-form-trident.jpg": {
+            "filename": "sukuna-heian-form-trident.jpg",
+            "title": "Sukuna Heian Form Trident",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/sukuna-heian-form-trident.jpg",
+            "extension": "jpg",
+            "size_bytes": 1978305,
+            "modified_at": "2026-09-06T23:50:50.268830"
+        },
+        "jujutsu-kaisen/assets/sukuna-true-form.jpg": {
+            "filename": "sukuna-true-form.jpg",
+            "title": "Sukuna True Form",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/sukuna-true-form.jpg",
+            "extension": "jpg",
+            "size_bytes": 1731493,
+            "modified_at": "2026-09-06T23:50:50.272830"
+        },
+        "jujutsu-kaisen/assets/toji-monster-snow-background.png": {
+            "filename": "toji-monster-snow-background.png",
+            "title": "Toji Monster Snow Background",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/toji-monster-snow-background.png",
+            "extension": "png",
+            "size_bytes": 5506910,
+            "modified_at": "2026-09-06T23:50:50.287829"
+        },
+        "jujutsu-kaisen/assets/yuki-tsukumo-garuda-shikigami.jpg": {
+            "filename": "yuki-tsukumo-garuda-shikigami.jpg",
+            "title": "Yuki Tsukumo Garuda Shikigami",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/yuki-tsukumo-garuda-shikigami.jpg",
+            "extension": "jpg",
+            "size_bytes": 2584920,
+            "modified_at": "2026-09-06T23:50:50.293829"
+        },
+        "jujutsu-kaisen/assets/yuta-okkotsu-hollow-purple.jpg": {
+            "filename": "yuta-okkotsu-hollow-purple.jpg",
+            "title": "Yuta Okkotsu Hollow Purple",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/yuta-okkotsu-hollow-purple.jpg",
+            "extension": "jpg",
+            "size_bytes": 1942769,
+            "modified_at": "2026-09-06T23:50:50.298829"
+        },
+        "jujutsu-kaisen/assets/yuta-okkotsu-rika.jpg": {
+            "filename": "yuta-okkotsu-rika.jpg",
+            "title": "Yuta Okkotsu Rika",
+            "path": "wallpapers/anime/jujutsu-kaisen/assets/yuta-okkotsu-rika.jpg",
+            "extension": "jpg",
+            "size_bytes": 2001659,
+            "modified_at": "2026-09-06T23:50:50.303829"
+        },
+        "portraits/assets/cat-girl-flowers-background.jpg": {
             "filename": "cat-girl-flowers-background.jpg",
             "title": "Cat Girl Flowers Background",
-            "path": "wallpapers/anime/portraits/cat-girl-flowers-background.jpg",
+            "path": "wallpapers/anime/portraits/assets/cat-girl-flowers-background.jpg",
             "extension": "jpg",
             "size_bytes": 2155615,
-            "modified_at": "2026-07-03T21:48:04.084979"
+            "modified_at": "2026-09-06T23:50:50.399828"
         },
-        "portraits/cyberpunk-girl-pink-theme.png": {
+        "portraits/assets/cyberpunk-girl-pink-theme.png": {
             "filename": "cyberpunk-girl-pink-theme.png",
             "title": "Cyberpunk Girl Pink Theme",
-            "path": "wallpapers/anime/portraits/cyberpunk-girl-pink-theme.png",
+            "path": "wallpapers/anime/portraits/assets/cyberpunk-girl-pink-theme.png",
             "extension": "png",
             "size_bytes": 10502722,
-            "modified_at": "2026-07-06T12:53:21.685544"
+            "modified_at": "2026-09-06T23:50:50.425828"
         },
-        "portraits/cyborg-squad-rainy-city.png": {
+        "portraits/assets/cyborg-squad-rainy-city.png": {
             "filename": "cyborg-squad-rainy-city.png",
             "title": "Cyborg Squad Rainy City",
-            "path": "wallpapers/anime/portraits/cyborg-squad-rainy-city.png",
+            "path": "wallpapers/anime/portraits/assets/cyborg-squad-rainy-city.png",
             "extension": "png",
             "size_bytes": 6873573,
-            "modified_at": "2026-07-06T12:53:21.687100"
+            "modified_at": "2026-09-06T23:50:50.443828"
         },
-        "portraits/dark-girl-angry.png": {
+        "portraits/assets/dark-girl-angry.png": {
             "filename": "dark-girl-angry.png",
             "title": "Dark Girl Angry",
-            "path": "wallpapers/anime/portraits/dark-girl-angry.png",
+            "path": "wallpapers/anime/portraits/assets/dark-girl-angry.png",
             "extension": "png",
             "size_bytes": 639573,
-            "modified_at": "2026-07-03T21:48:04.085979"
+            "modified_at": "2026-09-06T23:50:50.444828"
         },
-        "portraits/girl-nightblue-sky.jpg": {
+        "portraits/assets/girl-nightblue-sky.jpg": {
             "filename": "girl-nightblue-sky.jpg",
             "title": "Girl Nightblue Sky",
-            "path": "wallpapers/anime/portraits/girl-nightblue-sky.jpg",
+            "path": "wallpapers/anime/portraits/assets/girl-nightblue-sky.jpg",
             "extension": "jpg",
             "size_bytes": 1969934,
-            "modified_at": "2026-07-03T21:48:04.087979"
+            "modified_at": "2026-09-06T23:50:50.446828"
         },
-        "portraits/japanese-girl-smile-background.jpg": {
+        "portraits/assets/japanese-girl-smile-background.jpg": {
             "filename": "japanese-girl-smile-background.jpg",
             "title": "Japanese Girl Smile Background",
-            "path": "wallpapers/anime/portraits/japanese-girl-smile-background.jpg",
+            "path": "wallpapers/anime/portraits/assets/japanese-girl-smile-background.jpg",
             "extension": "jpg",
             "size_bytes": 3919555,
-            "modified_at": "2026-07-03T21:48:04.092979"
+            "modified_at": "2026-09-06T23:50:50.450828"
         },
-        "portraits/japanese-girl-smoking.png": {
+        "portraits/assets/japanese-girl-smoking.png": {
             "filename": "japanese-girl-smoking.png",
             "title": "Japanese Girl Smoking",
-            "path": "wallpapers/anime/portraits/japanese-girl-smoking.png",
+            "path": "wallpapers/anime/portraits/assets/japanese-girl-smoking.png",
             "extension": "png",
             "size_bytes": 1692196,
-            "modified_at": "2026-07-05T22:46:48.774372"
+            "modified_at": "2026-09-06T23:50:50.454828"
         },
-        "portraits/lofi-girl-sunlight.png": {
+        "portraits/assets/lofi-girl-sunlight.png": {
             "filename": "lofi-girl-sunlight.png",
             "title": "Lofi Girl Sunlight",
-            "path": "wallpapers/anime/portraits/lofi-girl-sunlight.png",
+            "path": "wallpapers/anime/portraits/assets/lofi-girl-sunlight.png",
             "extension": "png",
             "size_bytes": 13764316,
-            "modified_at": "2026-07-03T21:48:04.117979"
+            "modified_at": "2026-09-06T23:50:50.483827"
         },
-        "portraits/monochrome-anime-girl-serious.png": {
+        "portraits/assets/monochrome-anime-girl-serious.png": {
             "filename": "monochrome-anime-girl-serious.png",
             "title": "Monochrome Anime Girl Serious",
-            "path": "wallpapers/anime/portraits/monochrome-anime-girl-serious.png",
+            "path": "wallpapers/anime/portraits/assets/monochrome-anime-girl-serious.png",
             "extension": "png",
             "size_bytes": 2036477,
-            "modified_at": "2026-07-06T12:53:21.687543"
+            "modified_at": "2026-09-06T23:50:50.489827"
         },
-        "portraits/monochrome-anime-warrior-blades.png": {
+        "portraits/assets/monochrome-anime-warrior-blades.png": {
             "filename": "monochrome-anime-warrior-blades.png",
             "title": "Monochrome Anime Warrior Blades",
-            "path": "wallpapers/anime/portraits/monochrome-anime-warrior-blades.png",
+            "path": "wallpapers/anime/portraits/assets/monochrome-anime-warrior-blades.png",
             "extension": "png",
             "size_bytes": 1122898,
-            "modified_at": "2026-07-06T12:53:21.687543"
+            "modified_at": "2026-09-06T23:50:50.492827"
         },
-        "portraits/pink-green-eyes-focused.jpg": {
+        "portraits/assets/pink-green-eyes-focused.jpg": {
             "filename": "pink-green-eyes-focused.jpg",
             "title": "Pink Green Eyes Focused",
-            "path": "wallpapers/anime/portraits/pink-green-eyes-focused.jpg",
+            "path": "wallpapers/anime/portraits/assets/pink-green-eyes-focused.jpg",
             "extension": "jpg",
             "size_bytes": 2255505,
-            "modified_at": "2026-07-03T21:48:04.124979"
+            "modified_at": "2026-09-06T23:50:50.499827"
         },
-        "portraits/red-anime-guy-sunglasses.jpg": {
+        "portraits/assets/red-anime-guy-sunglasses.jpg": {
             "filename": "red-anime-guy-sunglasses.jpg",
             "title": "Red Anime Guy Sunglasses",
-            "path": "wallpapers/anime/portraits/red-anime-guy-sunglasses.jpg",
+            "path": "wallpapers/anime/portraits/assets/red-anime-guy-sunglasses.jpg",
             "extension": "jpg",
             "size_bytes": 1721197,
-            "modified_at": "2026-07-06T12:53:21.688543"
+            "modified_at": "2026-09-06T23:50:50.504827"
         },
-        "portraits/red-demon-horn-girl.jpg": {
+        "portraits/assets/red-demon-horn-girl.jpg": {
             "filename": "red-demon-horn-girl.jpg",
             "title": "Red Demon Horn Girl",
-            "path": "wallpapers/anime/portraits/red-demon-horn-girl.jpg",
+            "path": "wallpapers/anime/portraits/assets/red-demon-horn-girl.jpg",
             "extension": "jpg",
             "size_bytes": 2474749,
-            "modified_at": "2026-07-06T12:53:21.688543"
+            "modified_at": "2026-09-06T23:50:50.512692"
         },
-        "portraits/red-rose-girl.jpg": {
+        "portraits/assets/red-rose-girl.jpg": {
             "filename": "red-rose-girl.jpg",
             "title": "Red Rose Girl",
-            "path": "wallpapers/anime/portraits/red-rose-girl.jpg",
+            "path": "wallpapers/anime/portraits/assets/red-rose-girl.jpg",
             "extension": "jpg",
             "size_bytes": 1236431,
-            "modified_at": "2026-07-03T21:48:04.128979"
+            "modified_at": "2026-09-06T23:50:50.515827"
         },
-        "portraits/sakura-sad-girl.png": {
+        "portraits/assets/sakura-sad-girl.png": {
             "filename": "sakura-sad-girl.png",
             "title": "Sakura Sad Girl",
-            "path": "wallpapers/anime/portraits/sakura-sad-girl.png",
+            "path": "wallpapers/anime/portraits/assets/sakura-sad-girl.png",
             "extension": "png",
             "size_bytes": 7694356,
-            "modified_at": "2026-07-03T21:48:04.150979"
+            "modified_at": "2026-09-06T23:50:50.538827"
         },
-        "portraits/study-girl.jpeg": {
+        "portraits/assets/study-girl.jpeg": {
             "filename": "study-girl.jpeg",
             "title": "Study Girl",
-            "path": "wallpapers/anime/portraits/study-girl.jpeg",
+            "path": "wallpapers/anime/portraits/assets/study-girl.jpeg",
             "extension": "jpeg",
             "size_bytes": 309840,
-            "modified_at": "2026-07-03T21:48:04.151979"
+            "modified_at": "2026-09-06T23:50:50.539827"
         },
-        "portraits/sunset-anime-girl-glowing.png": {
+        "portraits/assets/sunset-anime-girl-glowing.png": {
             "filename": "sunset-anime-girl-glowing.png",
             "title": "Sunset Anime Girl Glowing",
-            "path": "wallpapers/anime/portraits/sunset-anime-girl-glowing.png",
+            "path": "wallpapers/anime/portraits/assets/sunset-anime-girl-glowing.png",
             "extension": "png",
             "size_bytes": 9369020,
-            "modified_at": "2026-07-06T12:53:21.691543"
-        },
-        "vinland-saga/monochrome-vinland-saga-logo.jpg": {
-            "filename": "monochrome-vinland-saga-logo.jpg",
-            "title": "Monochrome Vinland Saga Logo",
-            "path": "wallpapers/anime/vinland-saga/monochrome-vinland-saga-logo.jpg",
-            "extension": "jpg",
-            "size_bytes": 1081784,
-            "modified_at": "2026-07-06T13:32:04.974960"
-        },
-        "vinland-saga/thorfin-vinland-saga-logo.png": {
-            "filename": "thorfin-vinland-saga-logo.png",
-            "title": "Thorfin Vinland Saga Logo",
-            "path": "wallpapers/anime/vinland-saga/thorfin-vinland-saga-logo.png",
-            "extension": "png",
-            "size_bytes": 838422,
-            "modified_at": "2026-07-04T19:21:27.472512"
-        },
-        "vinland-saga/thorfinn-knife-rage-fight.jpg": {
-            "filename": "thorfinn-knife-rage-fight.jpg",
-            "title": "Thorfinn Knife Rage Fight",
-            "path": "wallpapers/anime/vinland-saga/thorfinn-knife-rage-fight.jpg",
-            "extension": "jpg",
-            "size_bytes": 1781447,
-            "modified_at": "2026-07-11T23:33:03.670156"
+            "modified_at": "2026-09-06T23:50:50.563827"
         }
     }
 }

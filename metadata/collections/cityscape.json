@@ -1,103 +1,103 @@
 {
     "category": "cityscape",
-    "generated_at": "2026-07-27T18:36:54.212858",
+    "generated_at": "2026-09-07T19:33:13.286131",
     "total": 12,
     "wallpapers": {
-        "balcony-girl-sunset.png": {
+        "assets/balcony-girl-sunset.png": {
             "filename": "balcony-girl-sunset.png",
             "title": "Balcony Girl Sunset",
-            "path": "wallpapers/cityscape/balcony-girl-sunset.png",
+            "path": "wallpapers/cityscape/assets/balcony-girl-sunset.png",
             "extension": "png",
             "size_bytes": 3045097,
-            "modified_at": "2026-07-03T21:48:04.161454"
+            "modified_at": "2026-09-06T23:51:20.275542"
         },
-        "cat-city-pixel-art.jpg": {
-            "filename": "cat-city-pixel-art.jpg",
-            "title": "Cat City Pixel Art",
-            "path": "wallpapers/cityscape/cat-city-pixel-art.jpg",
-            "extension": "jpg",
-            "size_bytes": 1924598,
-            "modified_at": "2026-07-06T12:49:06.217777"
-        },
-        "dynamic/dark/beach-purple-dark.png": {
+        "assets/beach-purple-dark.png": {
             "filename": "beach-purple-dark.png",
             "title": "Beach Purple Dark",
-            "path": "wallpapers/cityscape/dynamic/dark/beach-purple-dark.png",
+            "path": "wallpapers/cityscape/assets/beach-purple-dark.png",
             "extension": "png",
             "size_bytes": 4795564,
-            "modified_at": "2026-07-06T12:49:06.211777"
+            "modified_at": "2026-09-06T23:51:20.288543"
         },
-        "dynamic/light/beach-sun-light.png": {
+        "assets/beach-sun-light.png": {
             "filename": "beach-sun-light.png",
             "title": "Beach Sun Light",
-            "path": "wallpapers/cityscape/dynamic/light/beach-sun-light.png",
+            "path": "wallpapers/cityscape/assets/beach-sun-light.png",
             "extension": "png",
             "size_bytes": 5470263,
-            "modified_at": "2026-07-06T12:49:06.216777"
+            "modified_at": "2026-09-06T23:51:20.301542"
         },
-        "japanese-portal.png": {
+        "assets/cat-city-pixel-art.jpg": {
+            "filename": "cat-city-pixel-art.jpg",
+            "title": "Cat City Pixel Art",
+            "path": "wallpapers/cityscape/assets/cat-city-pixel-art.jpg",
+            "extension": "jpg",
+            "size_bytes": 1924598,
+            "modified_at": "2026-09-06T23:51:20.306542"
+        },
+        "assets/japanese-portal.png": {
             "filename": "japanese-portal.png",
             "title": "Japanese Portal",
-            "path": "wallpapers/cityscape/japanese-portal.png",
+            "path": "wallpapers/cityscape/assets/japanese-portal.png",
             "extension": "png",
             "size_bytes": 15842739,
-            "modified_at": "2026-07-03T21:48:04.170979"
+            "modified_at": "2026-09-06T23:51:20.315542"
         },
-        "monochrome-fuji-mountain.jpg": {
+        "assets/monochrome-fuji-mountain.jpg": {
             "filename": "monochrome-fuji-mountain.jpg",
             "title": "Monochrome Fuji Mountain",
-            "path": "wallpapers/cityscape/monochrome-fuji-mountain.jpg",
+            "path": "wallpapers/cityscape/assets/monochrome-fuji-mountain.jpg",
             "extension": "jpg",
             "size_bytes": 333078,
-            "modified_at": "2026-07-06T12:49:06.218777"
+            "modified_at": "2026-09-06T23:51:20.315542"
         },
-        "mountain-valley-night-clouds.jpg": {
+        "assets/mountain-valley-night-clouds.jpg": {
             "filename": "mountain-valley-night-clouds.jpg",
             "title": "Mountain Valley Night Clouds",
-            "path": "wallpapers/cityscape/mountain-valley-night-clouds.jpg",
+            "path": "wallpapers/cityscape/assets/mountain-valley-night-clouds.jpg",
             "extension": "jpg",
             "size_bytes": 1851174,
-            "modified_at": "2026-07-03T21:48:04.172978"
+            "modified_at": "2026-09-06T23:51:20.318542"
         },
-        "night-road-monochrome.jpg": {
+        "assets/night-road-monochrome.jpg": {
             "filename": "night-road-monochrome.jpg",
             "title": "Night Road Monochrome",
-            "path": "wallpapers/cityscape/night-road-monochrome.jpg",
+            "path": "wallpapers/cityscape/assets/night-road-monochrome.jpg",
             "extension": "jpg",
             "size_bytes": 748353,
-            "modified_at": "2026-07-03T21:48:04.174978"
+            "modified_at": "2026-09-06T23:51:20.320542"
         },
-        "northern-lights-nightsky.png": {
+        "assets/northern-lights-nightsky.png": {
             "filename": "northern-lights-nightsky.png",
             "title": "Northern Lights Nightsky",
-            "path": "wallpapers/cityscape/northern-lights-nightsky.png",
+            "path": "wallpapers/cityscape/assets/northern-lights-nightsky.png",
             "extension": "png",
             "size_bytes": 10295063,
-            "modified_at": "2026-07-03T21:48:04.179978"
+            "modified_at": "2026-09-06T23:51:20.325542"
         },
-        "pink-city.png": {
+        "assets/pink-city.png": {
             "filename": "pink-city.png",
             "title": "Pink City",
-            "path": "wallpapers/cityscape/pink-city.png",
+            "path": "wallpapers/cityscape/assets/pink-city.png",
             "extension": "png",
             "size_bytes": 1038964,
-            "modified_at": "2026-07-03T21:48:04.182978"
+            "modified_at": "2026-09-06T23:51:20.328542"
         },
-        "purple-city-girl.png": {
+        "assets/purple-city-girl.png": {
             "filename": "purple-city-girl.png",
             "title": "Purple City Girl",
-            "path": "wallpapers/cityscape/purple-city-girl.png",
+            "path": "wallpapers/cityscape/assets/purple-city-girl.png",
             "extension": "png",
             "size_bytes": 3127175,
-            "modified_at": "2026-07-03T21:48:04.184978"
+            "modified_at": "2026-09-06T23:51:20.329542"
         },
-        "sunrise-mountain-landscape.jpg": {
+        "assets/sunrise-mountain-landscape.jpg": {
             "filename": "sunrise-mountain-landscape.jpg",
             "title": "Sunrise Mountain Landscape",
-            "path": "wallpapers/cityscape/sunrise-mountain-landscape.jpg",
+            "path": "wallpapers/cityscape/assets/sunrise-mountain-landscape.jpg",
             "extension": "jpg",
             "size_bytes": 1438774,
-            "modified_at": "2026-07-03T21:48:04.188978"
+            "modified_at": "2026-09-06T23:51:20.333542"
         }
     }
 }
