@@ -2,16 +2,15 @@ import json
 from pathlib import Path
 
 WALLPAPER_ROOT = Path("collections")
-
 COLLECTIONS_ROOT = Path("metadata/collections")
 
 CATEGORIES_FILE = Path("metadata/categories.json")
-
 TEMPLATE_FILE = Path("templates/README_CATEGORY_WALLPAPERS.md")
-
 
 IMAGE_WIDTH = 450
 IMAGE_HEIGHT = 250
+
+IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 
 
 def load_json(path: Path):
@@ -76,48 +75,70 @@ def generate_section(title, images):
         content += f"### {title}\n\n"
 
     content += generate_grid(images)
-
     content += "\n\n"
 
     return content
 
 
+def get_images(directory: Path):
+
+    if not directory.is_dir():
+        return []
+
+    return [
+        file
+        for file in sorted(directory.iterdir())
+        if file.is_file() and file.suffix.lower() in IMAGE_EXTENSIONS
+    ]
+
+
 def build_gallery(category):
-
-    main_images = []
-
-    folders = {}
 
     category_path = WALLPAPER_ROOT / category
 
-    for file in sorted(category_path.rglob("*")):
-        if not file.is_file():
-            continue
+    # Categoria anime:
+    #
+    # collections/anime/{collection}/assets/*
+    #
+    if category == "anime":
+        gallery = ""
 
-        if file.suffix.lower() not in {".png", ".jpg", ".jpeg", ".webp"}:
-            continue
+        for collection_dir in sorted(category_path.iterdir()):
+            if not collection_dir.is_dir():
+                continue
 
-        relative = file.relative_to(category_path)
+            assets_dir = collection_dir / "assets"
 
-        image_html = generate_image(str(relative), file.name)
+            images = [
+                generate_image(
+                    str(file.relative_to(category_path)),
+                    file.name,
+                )
+                for file in get_images(assets_dir)
+            ]
 
-        if len(relative.parts) == 1:
-            main_images.append(image_html)
+            gallery += generate_section(
+                collection_dir.name.replace("-", " ").title(),
+                images,
+            )
 
-        else:
-            folder = relative.parts[0]
+        return gallery
 
-            folders.setdefault(folder, []).append(image_html)
+    # Tutte le altre categorie:
+    #
+    # collections/{category}/assets/*
+    #
+    assets_dir = category_path / "assets"
 
-    gallery = ""
+    images = [
+        generate_image(
+            str(file.relative_to(category_path)),
+            file.name,
+        )
+        for file in get_images(assets_dir)
+    ]
 
-    if main_images:
-        gallery += generate_section("", main_images)
-
-    for folder, images in folders.items():
-        gallery += generate_section(folder.title(), images)
-
-    return gallery
+    return generate_section("", images)
 
 
 def generate_readme(category):
@@ -129,16 +150,38 @@ def generate_readme(category):
     template = TEMPLATE_FILE.read_text(encoding="utf-8")
 
     content = template.replace(
-        "{{DISPLAY_NAME}}", collection_info.get("display_name", category.title())
+        "{{DISPLAY_NAME}}",
+        collection_info.get(
+            "display_name",
+            category.title(),
+        ),
     )
 
-    content = content.replace("{{DESCRIPTION}}", collection_info.get("description", ""))
+    content = content.replace(
+        "{{DESCRIPTION}}",
+        collection_info.get(
+            "description",
+            "",
+        ),
+    )
 
-    content = content.replace("{{GALLERY}}", build_gallery(category))
+    content = content.replace(
+        "{{GALLERY}}",
+        build_gallery(category),
+    )
 
     output = WALLPAPER_ROOT / category / "README.md"
 
-    output.write_text(content, encoding="utf-8")
+    # Assicura che la directory esista
+    output.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    output.write_text(
+        content,
+        encoding="utf-8",
+    )
 
 
 def main():

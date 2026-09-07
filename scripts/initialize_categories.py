@@ -30,10 +30,17 @@ def main():
                 "description": "",
             }
 
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
     OUTPUT.write_text(
-        json.dumps(dict(sorted(categories.items())), indent=4, ensure_ascii=False),
+        json.dumps(
+            dict(sorted(categories.items())),
+            indent=4,
+            ensure_ascii=False,
+        ),
         encoding="utf-8",
     )
 
