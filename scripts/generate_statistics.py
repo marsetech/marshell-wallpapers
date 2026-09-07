@@ -10,7 +10,6 @@ OUTPUT = Path("metadata/statistics.json")
 def main():
 
     statistics = {
-        "generated_at": datetime.now().isoformat(),
         "categories": 0,
         "wallpapers": 0,
         "total_size_bytes": 0,

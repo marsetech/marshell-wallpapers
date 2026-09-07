@@ -70,7 +70,6 @@ def generate_collection(category: Path):
 
     data = {
         "category": category.name,
-        "generated_at": datetime.now().isoformat(),
         "total": len(wallpapers),
         "wallpapers": wallpapers,
     }
