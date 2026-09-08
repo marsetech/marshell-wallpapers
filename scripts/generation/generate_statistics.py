@@ -1,47 +1,97 @@
-import json
-from datetime import datetime
-from pathlib import Path
+from scripts.libs.assets import (
+    get_image_metadata,
+    is_supported_asset,
+)
+from scripts.libs.metadata import write_json
+from scripts.libs.paths import (
+    COLLECTIONS_ROOT,
+    GENERATED_METADATA_ROOT,
+)
 
-COLLECTIONS_ROOT = Path("metadata/collections")
 
-OUTPUT = Path("metadata/statistics.json")
+def main() -> None:
+    categories = 0
+    collections = 0
+    assets = 0
+    animated = 0
+    total_size = 0
 
+    formats = {}
+    orientations = {}
 
-def main():
-
-    statistics = {
-        "generated_at": datetime.now().isoformat(),
-        "categories": 0,
-        "wallpapers": 0,
-        "total_size_bytes": 0,
-        "collections": {},
-    }
-
-    for file in sorted(COLLECTIONS_ROOT.glob("*.json")):
-        print(f"Loading {file}")
-
-        data = json.loads(file.read_text(encoding="utf-8"))
-
-        if "total" not in data:
+    for category in sorted(COLLECTIONS_ROOT.iterdir()):
+        if not category.is_dir():
             continue
 
-        category = data["category"]
+        categories += 1
 
-        total = data["total"]
+        for collection in sorted(category.iterdir()):
+            if not collection.is_dir():
+                continue
 
-        size = sum(wallpaper["size_bytes"] for wallpaper in data["wallpapers"].values())
+            collections += 1
 
-        statistics["categories"] += 1
+            asset_directory = collection / "assets"
 
-        statistics["wallpapers"] += total
+            if not asset_directory.exists():
+                continue
 
-        statistics["total_size_bytes"] += size
+            for asset in sorted(asset_directory.rglob("*")):
+                if not is_supported_asset(asset):
+                    continue
 
-        statistics["collections"][category] = total
+                metadata = get_image_metadata(asset)
 
-    OUTPUT.write_text(
-        json.dumps(statistics, indent=4, ensure_ascii=False), encoding="utf-8"
+                assets += 1
+                total_size += metadata["size_bytes"]
+
+                if metadata["animated"]:
+                    animated += 1
+
+                image_format = metadata["format"]
+
+                formats[image_format] = (
+                    formats.get(
+                        image_format,
+                        0,
+                    )
+                    + 1
+                )
+
+                orientation = metadata["orientation"]
+
+                orientations[orientation] = (
+                    orientations.get(
+                        orientation,
+                        0,
+                    )
+                    + 1
+                )
+
+    statistics = {
+        "schema_version": 1,
+        "categories": categories,
+        "collections": collections,
+        "assets": {
+            "total": assets,
+            "static": assets - animated,
+            "animated": animated,
+        },
+        "storage": {
+            "total_bytes": total_size,
+        },
+        "formats": dict(sorted(formats.items())),
+        "orientations": dict(sorted(orientations.items())),
+    }
+
+    output = GENERATED_METADATA_ROOT / "statistics.json"
+
+    write_json(
+        output,
+        statistics,
     )
+
+    print(f"Generated: {output}")
 
 
 if __name__ == "__main__":
