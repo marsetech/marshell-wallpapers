@@ -24,30 +24,24 @@ Each collection is self-contained and provides its own documentation and preview
 
 ## 🏗️ Repository Structure
 
-```text
-.
-├── collections/
-│   ├── anime/
-│   ├── automotive/
-│   ├── cityscape/
-│   └── operating-system/
-│
-├── metadata/
-│   └── ...
-│
-├── scripts/
-│   └── ...
-│
-├── .github/
-│   └── ...
-│
-├── .gitignore
-├── LICENSE
-└── README.md
-```
+The repository is organized into three main layers: **content**, **metadata**, and **automation**.
 
 > [!NOTE]
 > Each category contains curated high-quality wallpapers grouped by theme, series, or aesthetic.
+
+### Content
+
+| Path           | Description                                         |
+| -------------- | --------------------------------------------------- |
+| `collections/` | Curated wallpaper collections organized by category |
+| `metadata/`    | Manual and generated metadata for repository assets |
+
+### Tooling
+
+| Path         | Description                                                      |
+| ------------ | ---------------------------------------------------------------- |
+| `scripts/`   | Generation, validation, synchronization, and maintenance tooling |
+| `templates/` | Templates consumed by repository tooling                         |
 
 ---
 
