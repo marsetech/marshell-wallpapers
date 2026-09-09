@@ -19,7 +19,7 @@ def main() -> None:
     errors = []
 
     for directory in REQUIRED_DIRECTORIES:
-        if not directory.exists():
+        if not directory.is_dir():
             errors.append(f"Missing directory: {directory}")
 
     if errors:
