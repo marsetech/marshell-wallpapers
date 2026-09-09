@@ -11,6 +11,8 @@ START_MARKER = "<!-- GENERATED:GALLERY:START -->"
 
 END_MARKER = "<!-- GENERATED:GALLERY:END -->"
 
+from html import escape
+
 
 def build_gallery(
     metadata: dict,
@@ -23,12 +25,9 @@ def build_gallery(
     )
 
     for asset in assets.values():
-        lines.append(
-            f"<img "
-            f'src="./assets/{asset["filename"]}" '
-            f'alt="{asset.get("title", "")}" '
-            f'width="49%">'
-        )
+        filename = escape(str(asset["filename"]), quote=True)
+        title = escape(str(asset.get("title", "")), quote=True)
+        lines.append(f'<img src="./assets/{filename}" alt="{title}" width="49%">')
 
     return "\n".join(lines)
 
