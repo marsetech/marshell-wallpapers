@@ -2,12 +2,10 @@
 
 set -euo pipefail
 
-ROOT="$(
-    cd "$(dirname "${BASH_SOURCE[0]}")/../.."
-    pwd
-)"
+source "$(dirname -- "${BASH_SOURCE[0]}")/_lib.sh"
 
-cd "$ROOT"
+
+cd_root
 
 echo "==> Validating repository"
 ./scripts/run/validate.sh
