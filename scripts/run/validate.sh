@@ -2,14 +2,17 @@
 
 set -euo pipefail
 
-ROOT="$(
-    cd "$(dirname "${BASH_SOURCE[0]}")/../.."
-    pwd
-)"
+source "$(dirname -- "${BASH_SOURCE[0]}")/_lib.sh"
 
-cd "$ROOT"
 
-python -m scripts.validation.validate_repository
-python -m scripts.validation.validate_assets
-python -m scripts.validation.validate_manual_metadata
-python -m scripts.validation.validate_metadata
+readonly VALIDATION_MODULES=(
+    scripts.validation.validate_repository
+    scripts.validation.validate_assets
+    scripts.validation.validate_manual_metadata
+    scripts.validation.validate_metadata
+)
+
+
+cd_root
+
+run_modules "${VALIDATION_MODULES[@]}"
