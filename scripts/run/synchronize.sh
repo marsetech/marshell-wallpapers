@@ -6,6 +6,7 @@ source "$(dirname -- "${BASH_SOURCE[0]}")/_lib.sh"
 
 
 readonly SYNCHRONIZATION_MODULES=(
+    scripts.maintenance.convert_images
     scripts.maintenance.normalize_filenames
     scripts.generation.generate_categories
     scripts.generation.generate_collection_metadata
