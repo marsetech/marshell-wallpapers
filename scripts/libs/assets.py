@@ -11,6 +11,13 @@ SUPPORTED_EXTENSIONS = {
     ".apng",
 }
 
+CONVERTIBLE_EXTENSIONS = {
+    ".jpg",
+    ".jpeg",
+    ".png",
+}
+
+TARGET_EXTENSION = ".webp"
 
 MIME_TYPES = {
     ".jpg": "image/jpeg",
@@ -23,7 +30,20 @@ MIME_TYPES = {
 
 
 def is_supported_asset(path: Path) -> bool:
+
     return path.is_file() and path.suffix.lower() in SUPPORTED_EXTENSIONS
+
+
+def is_convertible_asset(path: Path) -> bool:
+    return path.is_file() and path.suffix.lower() in CONVERTIBLE_EXTENSIONS
+
+
+def is_webp(path: Path) -> bool:
+    return path.suffix.lower() == TARGET_EXTENSION
+
+
+def get_webp_path(path: Path) -> Path:
+    return path.with_suffix(TARGET_EXTENSION)
 
 
 def get_mime_type(path: Path) -> str:
@@ -61,7 +81,7 @@ def get_image_metadata(
         orientation = "square"
 
     return {
-        "extension": (path.suffix.lower().lstrip(".")),
+        "extension": path.suffix.lower().lstrip("."),
         "mime_type": get_mime_type(path),
         "format": image_format,
         "size_bytes": stat.st_size,
