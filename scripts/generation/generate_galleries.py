@@ -47,7 +47,7 @@ def build_gallery(
             )
 
             lines.append(
-                f'<a href="./assets/{filename}">'
+                f'  <a href="./assets/{filename}">'
                 f'<img src="./previews/{filename}" '
                 f'alt="{title}" '
                 f'width="49%">'
