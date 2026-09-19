@@ -1,3 +1,5 @@
+from html import escape
+
 from scripts.libs.metadata import (
     load_json,
 )
@@ -11,23 +13,48 @@ START_MARKER = "<!-- GENERATED:GALLERY:START -->"
 
 END_MARKER = "<!-- GENERATED:GALLERY:END -->"
 
-from html import escape
-
 
 def build_gallery(
     metadata: dict,
 ) -> str:
-    lines = []
-
-    assets = metadata.get(
-        "assets",
-        {},
+    assets = list(
+        metadata.get(
+            "assets",
+            {},
+        ).values()
     )
 
-    for asset in assets.values():
-        filename = escape(str(asset["filename"]), quote=True)
-        title = escape(str(asset.get("title", "")), quote=True)
-        lines.append(f'<img src="./assets/{filename}" alt="{title}" width="49%">')
+    lines = []
+
+    for index in range(
+        0,
+        len(assets),
+        2,
+    ):
+        row = assets[index : index + 2]
+
+        lines.append('<div align="center">')
+
+        for asset in row:
+            filename = escape(
+                str(asset["filename"]),
+                quote=True,
+            )
+
+            title = escape(
+                str(asset.get("title", "")),
+                quote=True,
+            )
+
+            lines.append(
+                f'  <a href="./assets/{filename}">'
+                f'<img src="./previews/{filename}" '
+                f'alt="{title}" '
+                f'width="49%">'
+                f"</a>"
+            )
+
+        lines.append("</div>")
 
     return "\n".join(lines)
 

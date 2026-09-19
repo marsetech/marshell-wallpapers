@@ -1,14 +1,12 @@
-# {{DISPLAY_NAME}} Wallpapers
+# <Collection Name>
 
-{{DESCRIPTION}}
-
----
+<Collection Description>
 
 ## Gallery
 
-{{GALLERY}}
+<!-- GENERATED:GALLERY:START -->
 
----
+<!-- GENERATED:GALLERY:END -->
 
 <p align="center">
   Generated automatically by <code>marshell-wallpapers</code>
