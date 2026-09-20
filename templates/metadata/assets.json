@@ -1,6 +1,7 @@
 {
   "assets": {
     "<asset-id>": {
+      "title": "",
       "description": "",
       "characters": [],
       "scenes": [],

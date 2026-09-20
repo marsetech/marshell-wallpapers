@@ -10,6 +10,7 @@ from scripts.libs.paths import (
 
 def create_asset_template() -> dict:
     return {
+        "title": "",
         "description": "",
         "characters": [],
         "scenes": [],
