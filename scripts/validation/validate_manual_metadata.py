@@ -5,11 +5,11 @@ from scripts.libs.paths import (
     MANUAL_METADATA_ROOT,
 )
 
-REQUIRED_FIELDS = ("description",)
+REQUIRED_FIELDS = ("title",)
 
 OPTIONAL_FIELDS = (
-    "characters",
-    "scenes",
+    "description",
+    "subjects",
     "environments",
 )
 
