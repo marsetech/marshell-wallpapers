@@ -28,6 +28,11 @@ def merge_asset(
             [],
         )
 
+    result["monochrome"] = manual.get(
+        "monochrome",
+        False,
+    )
+
     return result
 
 

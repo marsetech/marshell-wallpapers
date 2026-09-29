@@ -4,7 +4,8 @@
       "title": "",
       "description": "",
       "subjects": [],
-      "environments": []
+      "environments": [],
+      "monochrome": false
     }
   }
 }

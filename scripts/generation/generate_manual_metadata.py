@@ -14,6 +14,7 @@ def create_asset_template() -> dict:
         "description": "",
         "subjects": [],
         "environments": [],
+        "monochrome": False,
     }
 
 
