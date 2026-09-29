@@ -11,8 +11,8 @@ readonly GENERATION_MODULES=(
     scripts.generation.generate_manual_metadata
     scripts.generation.generate_statistics
     scripts.generation.generate_indexes
-    scripts.generation.generate_galleries
     scripts.generation.merge_metadata
+    scripts.generation.generate_galleries
 )
 
 
