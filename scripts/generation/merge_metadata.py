@@ -81,7 +81,20 @@ def main() -> None:
                 "schema_version": 1,
                 "category": category,
                 "collection": collection,
-                "generated_at": generated.get("generated_at"),
+                "title": manual.get(
+                    "title",
+                    collection.replace(
+                        "-",
+                        " ",
+                    ).title(),
+                ),
+                "description": manual.get(
+                    "description",
+                    "",
+                ),
+                "generated_at": generated.get(
+                    "generated_at",
+                ),
                 "total": len(merged_assets),
                 "assets": merged_assets,
             },
