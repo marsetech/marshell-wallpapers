@@ -8,7 +8,6 @@ from scripts.libs.paths import (
 )
 
 OPTIONAL_FIELDS = (
-    "description",
     "subjects",
     "environments",
 )
@@ -21,6 +20,11 @@ def merge_asset(
     result = dict(generated)
 
     result["title"] = manual["title"]
+
+    result["description"] = manual.get(
+        "description",
+        "",
+    )
 
     for field in OPTIONAL_FIELDS:
         result[field] = manual.get(
