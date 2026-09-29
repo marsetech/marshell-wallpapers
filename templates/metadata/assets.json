@@ -3,9 +3,9 @@
     "<asset-id>": {
       "title": "",
       "description": "",
-      "characters": [],
-      "scenes": [],
-      "environments": []
+      "subjects": [],
+      "environments": [],
+      "monochrome": false
     }
   }
 }

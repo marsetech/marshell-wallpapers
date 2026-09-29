@@ -28,7 +28,7 @@ def write_json(
     path.write_text(
         json.dumps(
             data,
-            indent=4,
+            indent=2,
             ensure_ascii=False,
         )
         + "\n",

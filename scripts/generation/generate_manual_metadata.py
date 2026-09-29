@@ -12,9 +12,9 @@ def create_asset_template() -> dict:
     return {
         "title": "",
         "description": "",
-        "characters": [],
-        "scenes": [],
+        "subjects": [],
         "environments": [],
+        "monochrome": False,
     }
 
 

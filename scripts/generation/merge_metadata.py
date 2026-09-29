@@ -8,8 +8,7 @@ from scripts.libs.paths import (
 )
 
 OPTIONAL_FIELDS = (
-    "characters",
-    "scenes",
+    "subjects",
     "environments",
 )
 
@@ -21,13 +20,22 @@ def merge_asset(
     result = dict(generated)
 
     result["title"] = manual["title"]
-    result["description"] = manual["description"]
+
+    result["description"] = manual.get(
+        "description",
+        "",
+    )
 
     for field in OPTIONAL_FIELDS:
         result[field] = manual.get(
             field,
             [],
         )
+
+    result["monochrome"] = manual.get(
+        "monochrome",
+        False,
+    )
 
     return result
 
@@ -77,7 +85,20 @@ def main() -> None:
                 "schema_version": 1,
                 "category": category,
                 "collection": collection,
-                "generated_at": generated.get("generated_at"),
+                "title": manual.get(
+                    "title",
+                    collection.replace(
+                        "-",
+                        " ",
+                    ).title(),
+                ),
+                "description": manual.get(
+                    "description",
+                    "",
+                ),
+                "generated_at": generated.get(
+                    "generated_at",
+                ),
                 "total": len(merged_assets),
                 "assets": merged_assets,
             },

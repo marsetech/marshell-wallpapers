@@ -94,15 +94,40 @@ def main() -> None:
 
         readme = collection_dir / "README.md"
 
+        collection_title = escape(
+            str(
+                metadata.get(
+                    "title",
+                    collection.replace(
+                        "-",
+                        " ",
+                    ).title(),
+                )
+            ),
+            quote=False,
+        )
+
+        collection_description = escape(
+            str(
+                metadata.get(
+                    "description",
+                    "",
+                )
+            ),
+            quote=False,
+        )
+
         if readme.exists():
-            content = readme.read_text(encoding="utf-8")
+            content = readme.read_text(
+                encoding="utf-8",
+            )
         else:
             content = template.replace(
                 "<Collection Name>",
-                collection.replace(
-                    "-",
-                    " ",
-                ).title(),
+                collection_title,
+            ).replace(
+                "<Collection Description>",
+                collection_description,
             )
 
         gallery = build_gallery(metadata)

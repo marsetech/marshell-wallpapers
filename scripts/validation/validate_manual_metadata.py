@@ -5,11 +5,10 @@ from scripts.libs.paths import (
     MANUAL_METADATA_ROOT,
 )
 
-REQUIRED_FIELDS = ("description",)
+REQUIRED_FIELDS = ("title",)
 
 OPTIONAL_FIELDS = (
-    "characters",
-    "scenes",
+    "subjects",
     "environments",
 )
 
@@ -37,6 +36,12 @@ def main() -> None:
 
                 elif not value.strip():
                     errors.append(f"{file}: {asset_id}: '{field}' cannot be empty")
+
+            if "description" in asset and not isinstance(
+                asset["description"],
+                str,
+            ):
+                errors.append(f"{file}: {asset_id}: 'description' must be a string")
 
             for field in OPTIONAL_FIELDS:
                 if field not in asset:
