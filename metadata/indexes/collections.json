@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "collections": {
+    "abstract/geometry": {
+      "category": "abstract",
+      "collection": "geometry",
+      "total": 1
+    },
+    "anime/chainsaw-man": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "total": 13
+    },
+    "anime/darling-in-the-franxx": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "total": 12
+    },
+    "anime/demon-slayer": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "total": 29
+    },
+    "anime/jujutsu-kaisen": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "total": 27
+    },
+    "anime/my-hero-academia": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "total": 9
+    },
+    "anime/one-piece": {
+      "category": "anime",
+      "collection": "one-piece",
+      "total": 7
+    },
+    "anime/portraits": {
+      "category": "anime",
+      "collection": "portraits",
+      "total": 17
+    },
+    "automotive/cars": {
+      "category": "automotive",
+      "collection": "cars",
+      "total": 5
+    },
+    "nature/landscapes": {
+      "category": "nature",
+      "collection": "landscapes",
+      "total": 6
+    },
+    "operating-systems/apple": {
+      "category": "operating-systems",
+      "collection": "apple",
+      "total": 6
+    },
+    "operating-systems/linux": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "total": 9
+    },
+    "operating-systems/misc": {
+      "category": "operating-systems",
+      "collection": "misc",
+      "total": 1
+    },
+    "operating-systems/windows": {
+      "category": "operating-systems",
+      "collection": "windows",
+      "total": 6
+    },
+    "places/architecture": {
+      "category": "places",
+      "collection": "architecture",
+      "total": 1
+    },
+    "places/cities": {
+      "category": "places",
+      "collection": "cities",
+      "total": 5
+    }
+  }
+}
