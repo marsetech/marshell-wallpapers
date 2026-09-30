@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "category": "anime",
+  "collection": "my-hero-academia",
+  "title": "My Hero Academia",
+  "description": "Wallpapers set in the world of _My Hero Academia_, where most people are born with special abilities known as Quirks. The collection features hero-themed imagery, school and city environments, and the bright, energetic visual style associated with the series.",
+  "generated_at": "2026-09-30T19:54:12.376893+00:00",
+  "total": 9,
+  "assets": {
+    "my-hero-academia-000001": {
+      "id": "my-hero-academia-000001",
+      "filename": "my-hero-academia-000001.webp",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 735652,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T22:03:47.763228+00:00",
+      "title": "Deku, Todoroki & Bakugo",
+      "description": "my hero academia trio in their UA uniform launching a combined attack.",
+      "subjects": [
+        "katsuki bakugo",
+        "shoto todoroki",
+        "izuku midoriya",
+        "deku"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "my-hero-academia-000002": {
+      "id": "my-hero-academia-000002",
+      "filename": "my-hero-academia-000002.webp",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000002.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 644590,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T22:03:47.865227+00:00",
+      "title": "Dabi — Blue Flames",
+      "description": "dabi using his quirk",
+      "subjects": [
+        "shoto todoroki",
+        "dabi"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "my-hero-academia-000003": {
+      "id": "my-hero-academia-000003",
+      "filename": "my-hero-academia-000003.webp",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000003.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 648068,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:43:59.514397+00:00",
+      "title": "Dabi",
+      "description": "dabi with blue glowing eyes and burned face surrounded by blue flames",
+      "subjects": [
+        "shoto todoroki",
+        "dabi"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "my-hero-academia-000004": {
+      "id": "my-hero-academia-000004",
+      "filename": "my-hero-academia-000004.webp",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000004.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 720328,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:00.337389+00:00",
+      "title": "Deku — Rage Mode",
+      "description": "furious deku looking back to him surrounded by black flashes and destruction",
+      "subjects": [
+        "izuku midoriya",
+        "deku"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": true
+    },
+    "my-hero-academia-000005": {
+      "id": "my-hero-academia-000005",
+      "filename": "my-hero-academia-000005.webp",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000005.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 457838,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:01.069382+00:00",
+      "title": "Hawks",
+      "description": "pro hero hawks looking at the camera while holding his quirk's feather",
+      "subjects": [
+        "keigo takami",
+        "hawks"
+      ],
+      "environments": [
+        "black background"
+      ],
+      "monochrome": false
+    },
+    "my-hero-academia-000006": {
+      "id": "my-hero-academia-000006",
+      "filename": "my-hero-academia-000006.webp",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000006.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 882536,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T22:03:47.963227+00:00",
+      "title": "Deku & Eri",
+      "description": "izuku midoriya holding eri while she's using her quirk",
+      "subjects": [
+        "izuku midoriya",
+        "deku",
+        "eri"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "my-hero-academia-000007": {
+      "id": "my-hero-academia-000007",
+      "filename": "my-hero-academia-000007.webp",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000007.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 561164,
+      "width": 2560,
+      "height": 1440,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:02.429369+00:00",
+      "title": "All for One",
+      "description": "zen shigaraki aka All for One injured with burnt face",
+      "subjects": [
+        "zen shigaraki",
+        "all for one"
+      ],
+      "environments": [
+        "white background"
+      ],
+      "monochrome": true
+    },
+    "my-hero-academia-000008": {
+      "id": "my-hero-academia-000008",
+      "filename": "my-hero-academia-000008.webp",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000008.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 455774,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:03.212362+00:00",
+      "title": "Red Riot — Unbreakable",
+      "description": "UA student and hero red riot awakening his quirk power",
+      "subjects": [
+        "eijiro kirishima",
+        "red riot"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "my-hero-academia-000009": {
+      "id": "my-hero-academia-000009",
+      "filename": "my-hero-academia-000009.webp",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000009.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 992612,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:04.100354+00:00",
+      "title": "Shoko Todoroki",
+      "description": "shoko todoroki using his flame and ice double quirk.",
+      "subjects": [
+        "shoko todoroki"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    }
+  }
+}

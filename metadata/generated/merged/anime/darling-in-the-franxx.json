@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "category": "anime",
+  "collection": "darling-in-the-franxx",
+  "title": "Darling In The Franxx",
+  "description": "Artwork drawn from _Darling in the FranXX_, a mecha anime with a distinctive futuristic setting. The collection includes giant mechs, desolate landscapes, and the series' bold color palette, reflecting its blend of science fiction and youthful, emotional themes.",
+  "generated_at": "2026-09-30T19:54:12.241414+00:00",
+  "total": 12,
+  "assets": {
+    "darling-in-the-franxx-000001": {
+      "id": "darling-in-the-franxx-000001",
+      "filename": "darling-in-the-franxx-000001.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 685090,
+      "width": 4800,
+      "height": 3200,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:48:22.113934+00:00",
+      "title": "Code 16 — Demon",
+      "description": "hiro riding the FRANXX in his demon form",
+      "subjects": [],
+      "environments": [],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000002": {
+      "id": "darling-in-the-franxx-000002",
+      "filename": "darling-in-the-franxx-000002.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000002.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 201564,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:53.609010+00:00",
+      "title": "Code 16 — Sad",
+      "description": "hiro depressed, unable to ride the FRANXX",
+      "subjects": [],
+      "environments": [],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000003": {
+      "id": "darling-in-the-franxx-000003",
+      "filename": "darling-in-the-franxx-000003.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000003.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 281188,
+      "width": 2150,
+      "height": 1000,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:53.845008+00:00",
+      "title": "Code 15",
+      "description": "ichigo in her school uniform thinking in the sunset while grabbing the iron fence",
+      "subjects": [],
+      "environments": [],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000004": {
+      "id": "darling-in-the-franxx-000004",
+      "filename": "darling-in-the-franxx-000004.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000004.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 202560,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:54.042006+00:00",
+      "title": "Strelizia",
+      "description": "strelizia with the anime logo next to it",
+      "subjects": [
+        "franxx",
+        "strelizia"
+      ],
+      "environments": [
+        "logo"
+      ],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000005": {
+      "id": "darling-in-the-franxx-000005",
+      "filename": "darling-in-the-franxx-000005.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000005.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 489852,
+      "width": 4452,
+      "height": 2676,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:54.846999+00:00",
+      "title": "Zero Two — Demon",
+      "description": "zero-two in her demoniac form pointing to you",
+      "subjects": [
+        "zero two",
+        "code 002"
+      ],
+      "environments": [
+        "black background"
+      ],
+      "monochrome": true
+    },
+    "darling-in-the-franxx-000006": {
+      "id": "darling-in-the-franxx-000006",
+      "filename": "darling-in-the-franxx-000006.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000006.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 75668,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:55.075996+00:00",
+      "title": "Zero Two",
+      "description": "zero-two death stare with her glowing eyes",
+      "subjects": [
+        "zero two",
+        "code 002"
+      ],
+      "environments": [
+        "laboratory"
+      ],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000007": {
+      "id": "darling-in-the-franxx-000007",
+      "filename": "darling-in-the-franxx-000007.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000007.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 209138,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:55.318994+00:00",
+      "title": "Zero Two — Artwork",
+      "description": "fancy fanart based on purple background of zero-two with happy face holding a lollipop",
+      "subjects": [
+        "zero two",
+        "code 002"
+      ],
+      "environments": [
+        "artwork"
+      ],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000008": {
+      "id": "darling-in-the-franxx-000008",
+      "filename": "darling-in-the-franxx-000008.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000008.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 403658,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:56.028988+00:00",
+      "title": "Zero Two — Graffiti",
+      "description": "zero-two happy in streetwear outfit with graffiti on the background making a peace sign on her forehead",
+      "subjects": [
+        "zero two",
+        "code 002"
+      ],
+      "environments": [
+        "urban"
+      ],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000009": {
+      "id": "darling-in-the-franxx-000009",
+      "filename": "darling-in-the-franxx-000009.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000009.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 356958,
+      "width": 4480,
+      "height": 2520,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:56.706981+00:00",
+      "title": "Zero Two — Logo",
+      "description": "zero-two with her parasyte uniform in a white background anime logo next to her",
+      "subjects": [
+        "zero two",
+        "code 002"
+      ],
+      "environments": [
+        "white background",
+        "logo"
+      ],
+      "monochrome": true
+    },
+    "darling-in-the-franxx-000010": {
+      "id": "darling-in-the-franxx-000010",
+      "filename": "darling-in-the-franxx-000010.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000010.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 267366,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:57.401975+00:00",
+      "title": "Zero Two — Sunrise",
+      "description": "zero-two in her bedroom during sunrise with a sad contemplating face",
+      "subjects": [
+        "zero two",
+        "code 002"
+      ],
+      "environments": [
+        "bedroom"
+      ],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000011": {
+      "id": "darling-in-the-franxx-000011",
+      "filename": "darling-in-the-franxx-000011.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000011.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 347516,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:58.218967+00:00",
+      "title": "Zero Two — Street",
+      "description": "zero-two in streetwear uniform looking far away with the japanese anime name and logo in the background",
+      "subjects": [
+        "zero two",
+        "code 002"
+      ],
+      "environments": [
+        "logo"
+      ],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000012": {
+      "id": "darling-in-the-franxx-000012",
+      "filename": "darling-in-the-franxx-000012.webp",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000012.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 575534,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:59.075959+00:00",
+      "title": "Zero Two — Code",
+      "description": "zero-two in a proud stance in a blue and red paintings background with her code on the side",
+      "subjects": [
+        "zero two",
+        "code 002"
+      ],
+      "environments": [
+        "logo"
+      ],
+      "monochrome": false
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "categories": {
+    "abstract": {
+      "display_name": "Abstract"
+    },
+    "anime": {
+      "display_name": "Anime"
+    },
+    "automotive": {
+      "display_name": "Automotive"
+    },
+    "nature": {
+      "display_name": "Nature"
+    },
+    "operating-systems": {
+      "display_name": "Operating Systems"
+    },
+    "places": {
+      "display_name": "Places"
+    }
+  }
+}

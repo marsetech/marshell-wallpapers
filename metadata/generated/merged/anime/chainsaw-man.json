@@ -1,0 +1,328 @@
+{
+  "schema_version": 1,
+  "category": "anime",
+  "collection": "chainsaw-man",
+  "title": "Chainsaw Man",
+  "description": "A collection reflecting the gritty tone of _Chainsaw Man_, which combines horror, dark comedy, and action. It draws on devil-themed imagery, urban Japanese environments, and a raw, high-contrast visual style that sets the series apart from more conventional shonen anime.",
+  "generated_at": "2026-09-30T19:54:12.222337+00:00",
+  "total": 13,
+  "assets": {
+    "chainsaw-man-000001": {
+      "id": "chainsaw-man-000001",
+      "filename": "chainsaw-man-000001.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 842536,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:42.235116+00:00",
+      "title": "Aki Hayakawa — Fox Devil",
+      "description": "Aki Hayakawa summons the Fox Devil using its hand sign.",
+      "subjects": [
+        "aki hayakawa",
+        "fox devil"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "chainsaw-man-000002": {
+      "id": "chainsaw-man-000002",
+      "filename": "chainsaw-man-000002.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000002.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 379310,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:42.983109+00:00",
+      "title": "Angel",
+      "description": "Angel Devil with a sad and contemplative expression.",
+      "subjects": [
+        "angel devil"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "chainsaw-man-000003": {
+      "id": "chainsaw-man-000003",
+      "filename": "chainsaw-man-000003.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000003.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 266572,
+      "width": 7680,
+      "height": 4320,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:44.920091+00:00",
+      "title": "Denji — Artwork",
+      "description": "Minimalist artwork of Denji in his Chainsaw Devil form, with the devil's cord depicted inside his chest.",
+      "subjects": [
+        "denji",
+        "chainsaw devil"
+      ],
+      "environments": [
+        "fan art",
+        "black background"
+      ],
+      "monochrome": false
+    },
+    "chainsaw-man-000004": {
+      "id": "chainsaw-man-000004",
+      "filename": "chainsaw-man-000004.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000004.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 1590430,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:45:49.930369+00:00",
+      "title": "Himeno in the Graveyard",
+      "description": "An injured Himeno surrounded by crows while looking toward a friend's grave.",
+      "subjects": [
+        "himeno",
+        "ghost devil"
+      ],
+      "environments": [
+        "graveyard"
+      ],
+      "monochrome": false
+    },
+    "chainsaw-man-000005": {
+      "id": "chainsaw-man-000005",
+      "filename": "chainsaw-man-000005.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000005.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 376168,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:46.778074+00:00",
+      "title": "Makima — Control Devil",
+      "description": "Fan art depicting Makima in her Control Devil form, with demonic wings and an angelic halo, wearing a Devil Hunter uniform.",
+      "subjects": [
+        "makima",
+        "control devil"
+      ],
+      "environments": [
+        "hell",
+        "fanart"
+      ],
+      "monochrome": false
+    },
+    "chainsaw-man-000006": {
+      "id": "chainsaw-man-000006",
+      "filename": "chainsaw-man-000006.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000006.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 737644,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:47.579066+00:00",
+      "title": "Makima",
+      "description": "A close-up of Makima's eyes rendered in a vibrant purple and blue color palette.",
+      "subjects": [
+        "makima",
+        "control devil"
+      ],
+      "environments": [
+        "colorful"
+      ],
+      "monochrome": false
+    },
+    "chainsaw-man-000007": {
+      "id": "chainsaw-man-000007",
+      "filename": "chainsaw-man-000007.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000007.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 115688,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:47.747065+00:00",
+      "title": "Makima — Death Stare",
+      "description": "Makima with a serious expression against a white background.",
+      "subjects": [
+        "makima",
+        "control devil"
+      ],
+      "environments": [
+        "white background"
+      ],
+      "monochrome": true
+    },
+    "chainsaw-man-000008": {
+      "id": "chainsaw-man-000008",
+      "filename": "chainsaw-man-000008.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000008.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 597132,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:48.538057+00:00",
+      "title": "Power — Blood Manipulation",
+      "description": "Power using her Blood Devil abilities with a cheerful expression.",
+      "subjects": [
+        "power",
+        "blood devil"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "chainsaw-man-000009": {
+      "id": "chainsaw-man-000009",
+      "filename": "chainsaw-man-000009.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000009.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 625988,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:49.339050+00:00",
+      "title": "Reze among Flowers",
+      "description": "Reze lying on the ground surrounded by flowers, inspired by the Reze Arc movie poster.",
+      "subjects": [
+        "reze",
+        "bomb devil"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "chainsaw-man-000010": {
+      "id": "chainsaw-man-000010",
+      "filename": "chainsaw-man-000010.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000010.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 748604,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:50.111043+00:00",
+      "title": "Reze — In the Sea",
+      "description": "Reze lying injured on the beach after her battle with Denji.",
+      "subjects": [
+        "reze",
+        "bomb devil"
+      ],
+      "environments": [
+        "reze movie"
+      ],
+      "monochrome": false
+    },
+    "chainsaw-man-000011": {
+      "id": "chainsaw-man-000011",
+      "filename": "chainsaw-man-000011.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000011.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 999430,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:46:23.158060+00:00",
+      "title": "Reze — Bomb Devil",
+      "description": "Reze with an unsettling expression — depicting her dual nature — inspired by the pool scene.",
+      "subjects": [
+        "reze",
+        "bomb devil"
+      ],
+      "environments": [
+        "reze movie"
+      ],
+      "monochrome": false
+    },
+    "chainsaw-man-000012": {
+      "id": "chainsaw-man-000012",
+      "filename": "chainsaw-man-000012.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000012.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 89362,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:51.351031+00:00",
+      "title": "Yoru",
+      "description": "Yoru launching an attack by pointing her finger toward an enemy during a fight.",
+      "subjects": [
+        "yoru",
+        "war devil"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "chainsaw-man-000013": {
+      "id": "chainsaw-man-000013",
+      "filename": "chainsaw-man-000013.webp",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000013.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 588082,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:42:52.022025+00:00",
+      "title": "Yoru — War Devil",
+      "description": "A portrait of Yoru smiling with scars across her face.",
+      "subjects": [],
+      "environments": [
+        "white background"
+      ],
+      "monochrome": true
+    }
+  }
+}

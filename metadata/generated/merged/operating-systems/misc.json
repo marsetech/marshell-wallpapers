@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "category": "operating-systems",
+  "collection": "misc",
+  "title": "Misc",
+  "description": "A mixed collection of operating system wallpapers that combine several platforms in a single image. It brings together the logos and visual identities of systems such as Linux, Windows, and Apple within a shared composition.",
+  "generated_at": "2026-09-30T19:54:12.454980+00:00",
+  "total": 1,
+  "assets": {
+    "misc-000001": {
+      "id": "misc-000001",
+      "filename": "misc-000001.webp",
+      "path": "operating-systems/misc/assets/misc-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 24828,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:39.891021+00:00",
+      "title": "Software — Workspace",
+      "description": "list of most famous os aligned in the center",
+      "subjects": [
+        "android",
+        "windows",
+        "linux",
+        "apple"
+      ],
+      "environments": [],
+      "monochrome": false
+    }
+  }
+}

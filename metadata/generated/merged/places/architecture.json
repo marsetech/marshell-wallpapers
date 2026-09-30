@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "category": "places",
+  "collection": "architecture",
+  "title": "Architecture",
+  "description": "A collection focused on architecture, from modern buildings and interior spaces to historical structures and traditional design. Some wallpapers draw on Japanese or anime-inspired aesthetics, while the collection remains centered on built environments, form, structure, and lighting.",
+  "generated_at": "2026-09-30T19:54:12.460180+00:00",
+  "total": 1,
+  "assets": {
+    "architecture-000001": {
+      "id": "architecture-000001",
+      "filename": "architecture-000001.webp",
+      "path": "places/architecture/assets/architecture-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 1176598,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T22:03:48.066226+00:00",
+      "title": "Circular Torii Gate",
+      "description": "a japanese torii gate surrounded by sakura flowers with a panda and human inside",
+      "subjects": [
+        "torii",
+        "sakura flowers"
+      ],
+      "environments": [
+        "japanese style",
+        "nature"
+      ],
+      "monochrome": false
+    }
+  }
+}
