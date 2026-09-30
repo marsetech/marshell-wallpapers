@@ -1,0 +1,48 @@
+{
+  "title": "Landscapes",
+  "description": "A collection of natural scenery, including mountains, forests, coastlines, lakes, and open plains. The wallpapers capture different seasons, times of day, and weather conditions, ranging from wide panoramic views to quieter, more detailed scenes of the natural world.",
+  "assets": {
+    "landscapes-000001": {
+      "title": "Beach during Night",
+      "description": "A beautiful beach surrounded by nature.",
+      "subjects": ["beach", "flowers"],
+      "environments": [],
+      "monochrome": false
+    },
+    "landscapes-000002": {
+      "title": "Beach during Daylight",
+      "description": "A beautiful beach surrounded by nature.",
+      "subjects": ["beach", "flowers"],
+      "environments": [],
+      "monochrome": false
+    },
+    "landscapes-000003": {
+      "title": "Mount Fuji above the Clouds",
+      "description": "Japan's Mount Fuji with smoke rising above the clouds.",
+      "subjects": ["mount fuji", "clouds"],
+      "environments": ["sky"],
+      "monochrome": true
+    },
+    "landscapes-000004": {
+      "title": "Fantasy Mountain Lake",
+      "description": "A colorful mountain with a river in a fantasy world.",
+      "subjects": ["mountains", "river"],
+      "environments": ["fantasy"],
+      "monochrome": false
+    },
+    "landscapes-000005": {
+      "title": "Northern Lights",
+      "description": "Green aurora borealis in a forest.",
+      "subjects": ["northern lights"],
+      "environments": ["forest"],
+      "monochrome": false
+    },
+    "landscapes-000006": {
+      "title": "Countryside at Sunrise",
+      "description": "Artwork of a countryside with a small forest and mountains in the background.",
+      "subjects": ["mountains"],
+      "environments": ["forest"],
+      "monochrome": false
+    }
+  }
+}

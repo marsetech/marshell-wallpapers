@@ -1,0 +1,41 @@
+{
+  "title": "Cars",
+  "description": "A collection dedicated to automobiles, covering sports cars, classic models, and modern vehicles. The wallpapers focus on design, motion, and setting, from studio-style shots and street scenes to night photography and open-road compositions.",
+  "assets": {
+    "cars-000001": {
+      "title": "Futuristic Car in the Mountains",
+      "description": "A sporty futuristic car driving along a road beside mountains at sunset.",
+      "subjects": ["futuristic car"],
+      "environments": ["mountains", "sunset"],
+      "monochrome": false
+    },
+    "cars-000002": {
+      "title": "Mazda in the Street",
+      "description": "A sporty parked Mazda with its headlights on.",
+      "subjects": ["mazda"],
+      "environments": ["urban", "night"],
+      "monochrome": false
+    },
+    "cars-000003": {
+      "title": "Parked Car in the Garage",
+      "description": "A parked car inside a mechanic's garage at night.",
+      "subjects": ["car"],
+      "environments": ["garage", "night"],
+      "monochrome": false
+    },
+    "cars-000004": {
+      "title": "Car in the Sunset",
+      "description": "A car driving through a Los Angeles street, with the skyline in the background.",
+      "subjects": ["car"],
+      "environments": ["urban", "sunset"],
+      "monochrome": false
+    },
+    "cars-000005": {
+      "title": "Supercar — Minimalist",
+      "description": "Artwork of a beautiful supercar moving between palm trees, with a sunset in the background.",
+      "subjects": ["car"],
+      "environments": ["sunset"],
+      "monochrome": false
+    }
+  }
+}

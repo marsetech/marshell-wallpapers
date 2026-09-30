@@ -1,0 +1,13 @@
+{
+  "title": "Architecture",
+  "description": "A collection focused on architecture, from modern buildings and interior spaces to historical structures and traditional design. Some wallpapers draw on Japanese or anime-inspired aesthetics, while the collection remains centered on built environments, form, structure, and lighting.",
+  "assets": {
+    "architecture-000001": {
+      "title": "Circular Torii Gate",
+      "description": "A Japanese torii gate surrounded by sakura flowers, with a panda and a human inside.",
+      "subjects": ["torii", "sakura flowers"],
+      "environments": ["japanese style", "nature"],
+      "monochrome": false
+    }
+  }
+}

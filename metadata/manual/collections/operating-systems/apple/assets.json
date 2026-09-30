@@ -1,0 +1,48 @@
+{
+  "title": "Apple",
+  "description": "A collection tied to _Apple_'s operating systems and hardware, including macOS, iOS, and related branding. The wallpapers reflect the company's clean, minimal design language, with gradients, abstract forms, and system-inspired compositions.",
+  "assets": {
+    "apple-000001": {
+      "title": "Apple — 3D Variant",
+      "description": "Colorful Apple logo creating a 3D effect.",
+      "subjects": ["apple"],
+      "environments": [],
+      "monochrome": false
+    },
+    "apple-000002": {
+      "title": "Apple — Abstract",
+      "description": "Apple logo with an abstract texture.",
+      "subjects": ["apple"],
+      "environments": [],
+      "monochrome": false
+    },
+    "apple-000003": {
+      "title": "Apple — Space",
+      "description": "Space-themed Apple logo inspired by the WWDC logo.",
+      "subjects": ["apple"],
+      "environments": [],
+      "monochrome": false
+    },
+    "apple-000004": {
+      "title": "macOS — Wallpaper I",
+      "description": "Default Apple wallpaper for macOS.",
+      "subjects": ["macOS"],
+      "environments": [],
+      "monochrome": false
+    },
+    "apple-000005": {
+      "title": "macOS — Wallpaper II",
+      "description": "Default Apple wallpaper for macOS.",
+      "subjects": ["macOS"],
+      "environments": [],
+      "monochrome": false
+    },
+    "apple-000006": {
+      "title": "Apple — Rainbow",
+      "description": "Apple logo with colorful diagonal lines in the background.",
+      "subjects": ["apple"],
+      "environments": [],
+      "monochrome": false
+    }
+  }
+}

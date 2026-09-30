@@ -1,0 +1,55 @@
+{
+  "title": "One Piece",
+  "description": "A collection centered on the pirate adventure of _One Piece_. It draws on sea voyages, island environments, ships, and the series' colorful, expressive art style, capturing the sense of exploration and open horizons that runs through the Grand Line.",
+  "assets": {
+    "one-piece-000001": {
+      "title": "Monkey D. Luffy in the Snowy Forest",
+      "description": "Luffy looking happy while watching the aurora in the sky.",
+      "subjects": ["monkey d. luffy"],
+      "environments": ["Elbaph", "snowy forest"],
+      "monochrome": false
+    },
+    "one-piece-000002": {
+      "title": "Monkey D. Luffy — Gear Fifth",
+      "description": "Gear Fifth Luffy, warrior of liberation, with glowing eyes, launching a lightning strike.",
+      "subjects": ["monkey d. luffy", "sun god nika"],
+      "environments": ["Elbaph", "battlefield"],
+      "monochrome": false
+    },
+    "one-piece-000003": {
+      "title": "Monkey D. Luffy on the Grass",
+      "description": "Luffy smiling while watching the sky, surrounded by grass.",
+      "subjects": ["monkey d. luffy"],
+      "environments": ["Elbaph", "sunlight"],
+      "monochrome": false
+    },
+    "one-piece-000004": {
+      "title": "Monkey D. Luffy in the Snowy Mountains",
+      "description": "Luffy climbing Elbaph's chains during a snowstorm.",
+      "subjects": ["monkey d. luffy"],
+      "environments": ["Elbaph", "snowy mountains"],
+      "monochrome": false
+    },
+    "one-piece-000005": {
+      "title": "Roronoa Zoro — Neon",
+      "description": "Pirate Hunter Roronoa Zoro in a glowing neon-style artwork.",
+      "subjects": ["roronoa zoro"],
+      "environments": ["black background", "neon"],
+      "monochrome": false
+    },
+    "one-piece-000006": {
+      "title": "Red-Haired Shanks",
+      "description": "Angry Shanks, Emperor of the Sea, looking at the camera.",
+      "subjects": ["red-haired shanks"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "one-piece-000007": {
+      "title": "Trafalgar D. Law",
+      "description": "Trafalgar Law with a proud expression, preparing to launch a blast attack.",
+      "subjects": ["trafalgar d. law"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    }
+  }
+}

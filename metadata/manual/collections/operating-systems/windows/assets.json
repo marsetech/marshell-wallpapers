@@ -1,0 +1,48 @@
+{
+  "title": "Windows",
+  "description": "A collection related to _Microsoft Windows_, featuring its logos, interface elements, and design styles associated with different versions of the system. The wallpapers range from classic looks to more modern releases, reflecting how the visual identity has evolved over time.",
+  "assets": {
+    "windows-000001": {
+      "title": "Windows 11",
+      "description": "Minimalist Windows 11 logo on a blank dark background.",
+      "subjects": ["microsoft"],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000002": {
+      "title": "Windows 10 — Japanese",
+      "description": "Windows 10 logo with Japanese text and a humorous phrase below.",
+      "subjects": ["microsoft"],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000003": {
+      "title": "Windows 11 — Wallpaper I",
+      "description": "Default Windows 11 wallpaper.",
+      "subjects": ["microsoft"],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000004": {
+      "title": "Windows 11 — Office",
+      "description": "Windows 11 logo surrounded by Microsoft's default applications.",
+      "subjects": ["microsoft"],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000005": {
+      "title": "Windows 11 — Waves",
+      "description": "Windows 11 logo surrounded by geometric wave shapes.",
+      "subjects": ["microsoft"],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000006": {
+      "title": "Windows 7 — Wallpaper I",
+      "description": "Default Windows 7 wallpaper.",
+      "subjects": ["microsoft"],
+      "environments": [],
+      "monochrome": false
+    }
+  }
+}

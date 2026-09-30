@@ -1,0 +1,125 @@
+{
+  "title": "Portraits",
+  "description": "A general collection of character-focused wallpapers that are not tied to a specific series. The artwork spans a range of anime-inspired styles, with an emphasis on expression, lighting, and mood rather than on any particular setting or story.",
+  "assets": {
+    "portraits-000001": {
+      "title": "Cat Girl among Flowers",
+      "description": "Cat girl in a school uniform, surrounded by flowers.",
+      "subjects": ["cat girl"],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000002": {
+      "title": "Anime Girl — Neon",
+      "description": "Anime girl with glowing eyes, looking away, in a pink style.",
+      "subjects": ["anime girl"],
+      "environments": ["urban", "cyberpunk"],
+      "monochrome": false
+    },
+    "portraits-000003": {
+      "title": "Anime Squad in the City",
+      "description": "Anime cyborg squad standing proudly after a fight.",
+      "subjects": ["anime girls", "anime boys", "cyborgs"],
+      "environments": ["urban", "battlefield"],
+      "monochrome": false
+    },
+    "portraits-000004": {
+      "title": "Anime Girl — Demon",
+      "description": "Anime girl with a demonic face, preparing to attack during a fight.",
+      "subjects": ["anime girl"],
+      "environments": ["battlefield"],
+      "monochrome": true
+    },
+    "portraits-000005": {
+      "title": "Anime Girl at Night",
+      "description": "Anime girl sitting on the ground, looking up at the shining sky, with a city in the background at night.",
+      "subjects": ["anime girl"],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000006": {
+      "title": "Anime Girl — Smiley",
+      "description": "Anime girl covering her face and smiling in front of a garage, next to a bicycle.",
+      "subjects": ["anime girl"],
+      "environments": ["urban"],
+      "monochrome": false
+    },
+    "portraits-000007": {
+      "title": "Anime Girl — Smoke",
+      "description": "Tattooed anime girl holding a cigarette in her mouth.",
+      "subjects": ["anime girl"],
+      "environments": ["white background"],
+      "monochrome": true
+    },
+    "portraits-000008": {
+      "title": "Lofi Anime Girl",
+      "description": "Anime girl looking at the camera while reading a book, with a coffee.",
+      "subjects": ["anime girl"],
+      "environments": ["living room"],
+      "monochrome": false
+    },
+    "portraits-000009": {
+      "title": "Anime Girl — Asian",
+      "description": "Photorealistic Asian anime girl looking seriously at the camera.",
+      "subjects": ["anime girl"],
+      "environments": ["white background"],
+      "monochrome": true
+    },
+    "portraits-000010": {
+      "title": "Anime Man",
+      "description": "Anime man surrounded by mist, preparing to launch an attack during a fight.",
+      "subjects": ["anime man"],
+      "environments": ["battlefield", "white background"],
+      "monochrome": true
+    },
+    "portraits-000011": {
+      "title": "Anime Girl — Cyberpunk",
+      "description": "Close-up of an anime girl looking at the sky under pink cyberpunk-style lighting.",
+      "subjects": ["anime girl"],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000012": {
+      "title": "Anime Man — Sunglasses",
+      "description": "Anime man wearing red sunglasses, holding his sword and looking toward the camera.",
+      "subjects": ["anime man"],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000013": {
+      "title": "Anime Girl — Oni",
+      "description": "Anime girl with oni and devil horns, wearing a Japanese kimono.",
+      "subjects": ["anime girl"],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000014": {
+      "title": "Anime Girl — Sakura I",
+      "description": "Happy anime girl surrounded by flowers.",
+      "subjects": ["anime girl"],
+      "environments": ["nature"],
+      "monochrome": false
+    },
+    "portraits-000015": {
+      "title": "Anime Girl — Sakura II",
+      "description": "Happy anime girl surrounded by flowers.",
+      "subjects": ["anime girl"],
+      "environments": ["nature"],
+      "monochrome": false
+    },
+    "portraits-000016": {
+      "title": "Anime Girl in the Bedroom",
+      "description": "Anime girl wearing glasses, looking away bored while studying in her room.",
+      "subjects": ["anime girl"],
+      "environments": ["bedroom"],
+      "monochrome": false
+    },
+    "portraits-000017": {
+      "title": "Anime Girl — Wanderer",
+      "description": "Anime girl wandering a wasteland at sunset, looking at the horizon, surrounded by fireflies.",
+      "subjects": ["anime girl"],
+      "environments": ["nature", "sunset"],
+      "monochrome": false
+    }
+  }
+}

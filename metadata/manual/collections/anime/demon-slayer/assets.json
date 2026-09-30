@@ -1,0 +1,209 @@
+{
+  "title": "Demon Slayer",
+  "description": "A collection inspired by _Demon Slayer: Kimetsu no Yaiba_, set in Taisho-era Japan. It draws on traditional villages, forests, and mountain landscapes, along with the breathing-technique visual effects and demon-hunting atmosphere that define the series' mix of historical setting and dark fantasy.",
+  "assets": {
+    "demon-slayer-000001": {
+      "title": "Akaza",
+      "description": "Akaza with an excited expression, showing his demon art techniques.",
+      "subjects": ["akaza", "uppermoon 3"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000002": {
+      "title": "Douma",
+      "description": "Douma with colorful eyes, looking away with a bored expression.",
+      "subjects": ["douma", "uppermoon 2"],
+      "environments": [],
+      "monochrome": false
+    },
+    "demon-slayer-000003": {
+      "title": "Inosuke Hashibira",
+      "description": "Inosuke wearing his mask in a cyberpunk-style artwork.",
+      "subjects": ["inosuke hashibira"],
+      "environments": ["cyberpunk", "black background"],
+      "monochrome": false
+    },
+    "demon-slayer-000004": {
+      "title": "Kokushibo — Upper Moon 1",
+      "description": "Fan art of Kokushibo with his creepy sword and six eyes against a black background.",
+      "subjects": ["kokushibo", "uppermoon 1"],
+      "environments": ["black background"],
+      "monochrome": false
+    },
+    "demon-slayer-000005": {
+      "title": "Kyojuro Rengoku in the Forest",
+      "description": "Kyojuro Rengoku hunting demons in a snowy forest with a serious expression.",
+      "subjects": ["kyojuro rengoku", "flame hashira"],
+      "environments": ["forest"],
+      "monochrome": false
+    },
+    "demon-slayer-000006": {
+      "title": "Kyojuro Rengoku — Flame Style",
+      "description": "Kyojuro Rengoku using his Total Concentration Flame Breathing.",
+      "subjects": ["kyojuro rengoku", "flame hashira"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000007": {
+      "title": "Kyojuro Rengoku — Katana",
+      "description": "",
+      "subjects": ["kyojuro rengoku", "flame hashira"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000008": {
+      "title": "Zenitsu Agatsuma — Artwork I",
+      "description": "Fan art of Zenitsu standing proudly, looking down with no expression.",
+      "subjects": ["zenitsu agatsuma"],
+      "environments": [],
+      "monochrome": false
+    },
+    "demon-slayer-000009": {
+      "title": "Mitsuri Kanroji — Love Style",
+      "description": "Mitsuri Kanroji using her Love Breathing with an excited expression.",
+      "subjects": ["mitsuri kanroji", "love hashira"],
+      "environments": [],
+      "monochrome": false
+    },
+    "demon-slayer-000010": {
+      "title": "Muichiro Tokito in the Battlefield",
+      "description": "An exhausted Muichiro Tokito wandering with a blank stare, surrounded by butterflies.",
+      "subjects": ["muichiro tokito", "mist hashira"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000011": {
+      "title": "Muichiro Tokito — Death Stare",
+      "description": "Muichiro Tokito looking down with a death stare against a rainy background.",
+      "subjects": ["muichiro tokito", "mist hashira"],
+      "environments": [],
+      "monochrome": false
+    },
+    "demon-slayer-000012": {
+      "title": "Kibutsuji Muzan",
+      "description": "Demon king Kibutsuji Muzan with glowing red eyes and an evil expression, surrounded by bats.",
+      "subjects": ["kibutsuji muzan", "demon king"],
+      "environments": ["dark"],
+      "monochrome": false
+    },
+    "demon-slayer-000013": {
+      "title": "Nezuko Kamado — Demon Form",
+      "description": "Angry Nezuko Kamado in her demon form, surrounded by butterflies.",
+      "subjects": ["nezuko kamado"],
+      "environments": ["butterflies"],
+      "monochrome": false
+    },
+    "demon-slayer-000014": {
+      "title": "Nezuko Kamado — Baby Form",
+      "description": "Nezuko Kamado with a cute, blushing face and large glowing eyes, surrounded by petals.",
+      "subjects": ["nezuko kamado"],
+      "environments": ["flowers"],
+      "monochrome": false
+    },
+    "demon-slayer-000015": {
+      "title": "Obanai Iguro — Snake Style",
+      "description": "Angry Obanai Iguro holding his katana while performing his Serpent Breathing technique.",
+      "subjects": ["obanai iguro", "snake hashira"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000016": {
+      "title": "Obanai Iguro — Eyes",
+      "description": "Obanai Iguro with a serious look and a snake around his neck.",
+      "subjects": ["obanai iguro", "snake hashira"],
+      "environments": [],
+      "monochrome": false
+    },
+    "demon-slayer-000017": {
+      "title": "Sanemi Shinazugawa in the Battlefield",
+      "description": "Heavily injured Sanemi Shinazugawa on the battlefield, with blood across his body.",
+      "subjects": ["sanemi shinazugawa", "wind hashira"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000018": {
+      "title": "Sanemi Shinazugawa — Wind Style",
+      "description": "Sanemi Shinazugawa with a sadistic expression and glowing eyes, performing his Wind Breathing technique.",
+      "subjects": ["sanemi shinazugawa", "wind hashira"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000019": {
+      "title": "Shinobu Kocho",
+      "description": "Profile view of Shinobu Kocho with a serious expression, surrounded by butterflies.",
+      "subjects": ["shinobu kocho", "insect hashira"],
+      "environments": ["butterflies"],
+      "monochrome": false
+    },
+    "demon-slayer-000020": {
+      "title": "Shinobu Kocho in the Mountains",
+      "description": "Worried Shinobu Kocho in her Demon Slayer Corps uniform, looking away, with mountains in the background.",
+      "subjects": ["shinobu kocho", "insect hashira"],
+      "environments": ["mountains", "flowers"],
+      "monochrome": false
+    },
+    "demon-slayer-000021": {
+      "title": "Tanjiro Kamado — Sun Style",
+      "description": "Angry Tanjiro Kamado with his facial scar, performing Hinokami Kagura.",
+      "subjects": ["tanjiro kamado"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000022": {
+      "title": "Tanjiro Kamado — Flame Sword",
+      "description": "Tanjiro Kamado with a serious expression, holding his flame sword while performing a breathing technique.",
+      "subjects": ["tanjiro kamado"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000023": {
+      "title": "Tanjiro Kamado — Water Style",
+      "description": "Tanjiro Kamado with a serious expression, performing Water Breathing against a sunlit background.",
+      "subjects": ["tanjiro kamado"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000024": {
+      "title": "Tengen Uzui",
+      "description": "Tengen Uzui in his flashy Demon Slayer Corps uniform against a black background.",
+      "subjects": ["tengen uzui", "sound hashira"],
+      "environments": ["black background"],
+      "monochrome": false
+    },
+    "demon-slayer-000025": {
+      "title": "Yoriichi Tsugikuni",
+      "description": "Angry Yoriichi Tsugikuni with glowing eyes, holding his katana and surrounded by flames.",
+      "subjects": ["yoriichi tsugikuni", "sun hashira"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000026": {
+      "title": "Zenitsu Agatsuma — Artwork II",
+      "description": "Fan art of Zenitsu standing proudly to one side of the screen, looking up with no expression.",
+      "subjects": ["zenitsu agatsuma"],
+      "environments": [],
+      "monochrome": false
+    },
+    "demon-slayer-000027": {
+      "title": "Zenitsu Agatsuma — Death Stare",
+      "description": "Death-stare fan art of Zenitsu Agatsuma, inspired by a scene from Infinity Castle Part I, with his name in the background.",
+      "subjects": ["zenitsu agatsuma"],
+      "environments": ["infinity castle"],
+      "monochrome": false
+    },
+    "demon-slayer-000028": {
+      "title": "Zenitsu Agatsuma",
+      "description": "Zenitsu Agatsuma with a serious expression, holding his katana and surrounded by lightning.",
+      "subjects": ["zenitsu agatsuma"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "demon-slayer-000029": {
+      "title": "Zenitsu Agatsuma — First Form",
+      "description": "Zenitsu Agatsuma in total concentration, performing the first form of Thunder Breathing.",
+      "subjects": ["zenitsu agatsuma"],
+      "environments": ["black background"],
+      "monochrome": false
+    }
+  }
+}
