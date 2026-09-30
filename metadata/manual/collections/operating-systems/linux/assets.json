@@ -1,0 +1,77 @@
+{
+  "title": "Linux",
+  "description": "A collection centered on the _Linux_ ecosystem, featuring Tux, distribution branding, desktop environments, terminals, and open-source themes. The wallpapers reflect the variety of the Linux world, from minimal desktop setups to designs tied to individual distributions.",
+  "assets": {
+    "linux-000001": {
+      "title": "Arch Linux — Rainbow",
+      "description": "Arch Linux logo with a rainbow on both sides, inspired by the Catppuccin color scheme.",
+      "subjects": ["arch"],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000002": {
+      "title": "Arch Linux — Wings",
+      "description": "Arch Linux logo surrounded by terminal commands forming a wing shape.",
+      "subjects": ["arch"],
+      "environments": ["terminal"],
+      "monochrome": false
+    },
+    "linux-000003": {
+      "title": "Arch Linux — Japanese",
+      "description": "Minimalist Arch Linux logo with a Japanese word below.",
+      "subjects": ["arch"],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000004": {
+      "title": "Fedora",
+      "description": "Minimalist Fedora logo on a blank dark background.",
+      "subjects": ["fedora"],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000005": {
+      "title": "Kali",
+      "description": "Minimalist Kali Linux logo on a blank dark background.",
+      "subjects": ["kali"],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000006": {
+      "title": "Linux — Gruvbox",
+      "description": "Linux penguin logo inspired by the Gruvbox color palette.",
+      "subjects": ["linux logo"],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000007": {
+      "title": "Linux — Workspace",
+      "description": "The most popular Linux distributions aligned in the center.",
+      "subjects": [
+        "fedora",
+        "mint",
+        "debian",
+        "arch",
+        "steamos",
+        "ubuntu",
+        "nixos"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000008": {
+      "title": "NixOS",
+      "description": "Minimalist NixOS logo on a blank dark background.",
+      "subjects": ["nixos"],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000009": {
+      "title": "ZorinOS",
+      "description": "Minimalist ZorinOS logo on a blank dark background.",
+      "subjects": ["zorin"],
+      "environments": [],
+      "monochrome": false
+    }
+  }
+}

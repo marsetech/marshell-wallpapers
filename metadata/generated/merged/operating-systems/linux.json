@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "category": "operating-systems",
+  "collection": "linux",
+  "title": "Linux",
+  "description": "A collection centered on the _Linux_ ecosystem, featuring Tux, distribution branding, desktop environments, terminals, and open-source themes. The wallpapers reflect the variety of the Linux world, from minimal desktop setups to designs tied to individual distributions.",
+  "generated_at": "2026-09-30T19:54:12.454623+00:00",
+  "total": 9,
+  "assets": {
+    "linux-000001": {
+      "id": "linux-000001",
+      "filename": "linux-000001.webp",
+      "path": "operating-systems/linux/assets/linux-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 14338,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:36.813049+00:00",
+      "title": "Arch Linux — Rainbow",
+      "description": "archlinux logo with rainbow at both lane inspired by catppuccin colorscheme",
+      "subjects": [
+        "arch"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000002": {
+      "id": "linux-000002",
+      "filename": "linux-000002.webp",
+      "path": "operating-systems/linux/assets/linux-000002.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 24986,
+      "width": 814,
+      "height": 458,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:36.856049+00:00",
+      "title": "Arch Linux — Wings",
+      "description": "archlinux logo surrounded by terminal's commands forming a wings shape",
+      "subjects": [
+        "arch"
+      ],
+      "environments": [
+        "terminal"
+      ],
+      "monochrome": false
+    },
+    "linux-000003": {
+      "id": "linux-000003",
+      "filename": "linux-000003.webp",
+      "path": "operating-systems/linux/assets/linux-000003.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 52116,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:37.011048+00:00",
+      "title": "Arch Linux — Japanese",
+      "description": "minimalist archlinux logo with japanese word below",
+      "subjects": [
+        "arch"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000004": {
+      "id": "linux-000004",
+      "filename": "linux-000004.webp",
+      "path": "operating-systems/linux/assets/linux-000004.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 9300,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:37.127046+00:00",
+      "title": "Fedora",
+      "description": "minimalist fedora logo in a blank dark background",
+      "subjects": [
+        "fedora"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000005": {
+      "id": "linux-000005",
+      "filename": "linux-000005.webp",
+      "path": "operating-systems/linux/assets/linux-000005.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 168944,
+      "width": 2560,
+      "height": 1600,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:37.483043+00:00",
+      "title": "Kali",
+      "description": "minimalist kali linux logo in a blank dark background",
+      "subjects": [
+        "kali"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000006": {
+      "id": "linux-000006",
+      "filename": "linux-000006.webp",
+      "path": "operating-systems/linux/assets/linux-000006.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 97122,
+      "width": 5120,
+      "height": 2880,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:38.264036+00:00",
+      "title": "Linux — Gruvbox",
+      "description": "linux's penguin logo inspired by gruvbox colors palette",
+      "subjects": [
+        "linux logo"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000007": {
+      "id": "linux-000007",
+      "filename": "linux-000007.webp",
+      "path": "operating-systems/linux/assets/linux-000007.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 40924,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:38.691032+00:00",
+      "title": "Linux — Workspace",
+      "description": "linux's most famous os aligned in the center",
+      "subjects": [
+        "fedora",
+        "mint",
+        "debian",
+        "arch",
+        "steamos",
+        "ubuntu",
+        "nixos"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000008": {
+      "id": "linux-000008",
+      "filename": "linux-000008.webp",
+      "path": "operating-systems/linux/assets/linux-000008.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 35858,
+      "width": 3200,
+      "height": 1800,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:39.044029+00:00",
+      "title": "NixOS",
+      "description": "minimalist nixos logo in a blank dark background",
+      "subjects": [
+        "nixos"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "linux-000009": {
+      "id": "linux-000009",
+      "filename": "linux-000009.webp",
+      "path": "operating-systems/linux/assets/linux-000009.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 21242,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:39.444025+00:00",
+      "title": "ZorinOS",
+      "description": "minimalist zorinos logo in a blank dark background",
+      "subjects": [
+        "zorin"
+      ],
+      "environments": [],
+      "monochrome": false
+    }
+  }
+}

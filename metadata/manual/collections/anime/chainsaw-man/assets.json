@@ -1,0 +1,97 @@
+{
+  "title": "Chainsaw Man",
+  "description": "A collection reflecting the gritty tone of _Chainsaw Man_, which combines horror, dark comedy, and action. It draws on devil-themed imagery, urban Japanese environments, and a raw, high-contrast visual style that sets the series apart from more conventional shonen anime.",
+  "assets": {
+    "chainsaw-man-000001": {
+      "title": "Aki Hayakawa — Fox Devil",
+      "description": "Aki Hayakawa summons the Fox Devil using its hand sign.",
+      "subjects": ["aki hayakawa", "fox devil"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "chainsaw-man-000002": {
+      "title": "Angel",
+      "description": "Angel Devil with a sad, contemplative expression.",
+      "subjects": ["angel devil"],
+      "environments": [],
+      "monochrome": false
+    },
+    "chainsaw-man-000003": {
+      "title": "Denji — Artwork",
+      "description": "Minimalist artwork of Denji in his Chainsaw Devil form, with the devil's cord depicted inside his chest.",
+      "subjects": ["denji", "chainsaw devil"],
+      "environments": ["black background"],
+      "monochrome": false
+    },
+    "chainsaw-man-000004": {
+      "title": "Himeno in the Graveyard",
+      "description": "An injured Himeno surrounded by crows, looking toward a friend's grave.",
+      "subjects": ["himeno", "ghost devil"],
+      "environments": ["graveyard"],
+      "monochrome": false
+    },
+    "chainsaw-man-000005": {
+      "title": "Makima — Control Devil",
+      "description": "Fan art of Makima in her Control Devil form, with demonic wings and an angelic halo, wearing a Devil Hunter uniform.",
+      "subjects": ["makima", "control devil"],
+      "environments": ["hell"],
+      "monochrome": false
+    },
+    "chainsaw-man-000006": {
+      "title": "Makima",
+      "description": "A close-up of Makima's eyes rendered in a vibrant purple and blue color palette.",
+      "subjects": ["makima", "control devil"],
+      "environments": [],
+      "monochrome": false
+    },
+    "chainsaw-man-000007": {
+      "title": "Makima — Death Stare",
+      "description": "Makima with a serious expression against a white background.",
+      "subjects": ["makima", "control devil"],
+      "environments": ["white background"],
+      "monochrome": true
+    },
+    "chainsaw-man-000008": {
+      "title": "Power — Blood Manipulation",
+      "description": "Power using her Blood Devil abilities with a cheerful expression.",
+      "subjects": ["power", "blood devil"],
+      "environments": [],
+      "monochrome": false
+    },
+    "chainsaw-man-000009": {
+      "title": "Reze among Flowers",
+      "description": "Reze lying on the ground surrounded by flowers, inspired by the Reze Arc movie poster.",
+      "subjects": ["reze", "bomb devil"],
+      "environments": [],
+      "monochrome": false
+    },
+    "chainsaw-man-000010": {
+      "title": "Reze — In the Sea",
+      "description": "Reze lying injured on the beach after her battle with Denji, inspired by the Reze Arc movie.",
+      "subjects": ["reze", "bomb devil"],
+      "environments": ["beach"],
+      "monochrome": false
+    },
+    "chainsaw-man-000011": {
+      "title": "Reze — Bomb Devil",
+      "description": "Reze with an unsettling expression depicting her dual nature, inspired by the pool scene of the Reze Arc movie.",
+      "subjects": ["reze", "bomb devil"],
+      "environments": [],
+      "monochrome": false
+    },
+    "chainsaw-man-000012": {
+      "title": "Yoru",
+      "description": "Yoru launching an attack by pointing her finger at an enemy during a fight.",
+      "subjects": ["yoru", "war devil"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "chainsaw-man-000013": {
+      "title": "Yoru — War Devil",
+      "description": "A portrait of Yoru smiling, with scars across her face.",
+      "subjects": ["yoru", "war devil"],
+      "environments": ["white background"],
+      "monochrome": true
+    }
+  }
+}

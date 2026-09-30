@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "category": "anime",
+  "collection": "one-piece",
+  "title": "One Piece",
+  "description": "A collection centered on the pirate adventure of _One Piece_. It draws on sea voyages, island environments, ships, and the series' colorful, expressive art style, capturing the sense of exploration and open horizons that runs through the Grand Line.",
+  "generated_at": "2026-09-30T19:54:12.386873+00:00",
+  "total": 7,
+  "assets": {
+    "one-piece-000001": {
+      "id": "one-piece-000001",
+      "filename": "one-piece-000001.webp",
+      "path": "anime/one-piece/assets/one-piece-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 997098,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:04.975346+00:00",
+      "title": "Monkey D. Luffy in the Snowy Forest",
+      "description": "luffy looking happy in the sky watching aurora in snowy elbaph territory",
+      "subjects": [
+        "monkey d.luffy"
+      ],
+      "environments": [
+        "Elbaph",
+        "snowy forest"
+      ],
+      "monochrome": false
+    },
+    "one-piece-000002": {
+      "id": "one-piece-000002",
+      "filename": "one-piece-000002.webp",
+      "path": "anime/one-piece/assets/one-piece-000002.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 765922,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:05.794338+00:00",
+      "title": "Monkey D. Luffy — Gear Fifth",
+      "description": "warrior of the liberation gear fifth luffy with glowing eyes launching a lightning strike",
+      "subjects": [
+        "monkey d.luffy",
+        "sun god nika"
+      ],
+      "environments": [
+        "Elbaph",
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "one-piece-000003": {
+      "id": "one-piece-000003",
+      "filename": "one-piece-000003.webp",
+      "path": "anime/one-piece/assets/one-piece-000003.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 966712,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:06.651330+00:00",
+      "title": "Monkey D. Luffy on the Grass",
+      "description": "luffy smiling while watching the sky surrounded by grass",
+      "subjects": [
+        "monkey d.luffy"
+      ],
+      "environments": [
+        "Elbaph",
+        "sunlight"
+      ],
+      "monochrome": false
+    },
+    "one-piece-000004": {
+      "id": "one-piece-000004",
+      "filename": "one-piece-000004.webp",
+      "path": "anime/one-piece/assets/one-piece-000004.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 815054,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:07.504322+00:00",
+      "title": "Monkey D. Luffy in the Snowy Mountains",
+      "description": "luffy climbing elbaph chains during a snowstorm",
+      "subjects": [
+        "monkey d.luffy"
+      ],
+      "environments": [
+        "Elbaph",
+        "snowy mountains"
+      ],
+      "monochrome": false
+    },
+    "one-piece-000005": {
+      "id": "one-piece-000005",
+      "filename": "one-piece-000005.webp",
+      "path": "anime/one-piece/assets/one-piece-000005.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 459722,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:08.079317+00:00",
+      "title": "Zoro Roronoa — Neon",
+      "description": "pirate hunter roronoa zoro with a glowing neon style artwork",
+      "subjects": [
+        "roronoa zoro"
+      ],
+      "environments": [
+        "black background",
+        "colorful",
+        "artwork",
+        "neon"
+      ],
+      "monochrome": false
+    },
+    "one-piece-000006": {
+      "id": "one-piece-000006",
+      "filename": "one-piece-000006.webp",
+      "path": "anime/one-piece/assets/one-piece-000006.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 524956,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:08.845310+00:00",
+      "title": "Red-Haired Shanks",
+      "description": "angry emperor of the sea shanks looking to the camera",
+      "subjects": [
+        "red-haired shanks"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "one-piece-000007": {
+      "id": "one-piece-000007",
+      "filename": "one-piece-000007.webp",
+      "path": "anime/one-piece/assets/one-piece-000007.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 921844,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:09.701302+00:00",
+      "title": "Trafalgar D. Law",
+      "description": "trafalgar law with proud face preparing to launch his blast attack",
+      "subjects": [
+        "tralgar d.law"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": false
+    }
+  }
+}

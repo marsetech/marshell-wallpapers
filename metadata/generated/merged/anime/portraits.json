@@ -1,0 +1,415 @@
+{
+  "schema_version": 1,
+  "category": "anime",
+  "collection": "portraits",
+  "title": "Portraits",
+  "description": "A general collection of character-focused wallpapers that are not tied to a specific series. The artwork spans a range of anime-inspired styles, with an emphasis on expression, lighting, and mood rather than on any particular setting or story.",
+  "generated_at": "2026-09-30T19:54:12.410976+00:00",
+  "total": 17,
+  "assets": {
+    "portraits-000001": {
+      "id": "portraits-000001",
+      "filename": "portraits-000001.webp",
+      "path": "anime/portraits/assets/portraits-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 1838092,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T22:04:43.663706+00:00",
+      "title": "Cat Girl among Flowers",
+      "description": "cat girl with school uniform surrounded by flowers.",
+      "subjects": [
+        "cat girl"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000002": {
+      "id": "portraits-000002",
+      "filename": "portraits-000002.webp",
+      "path": "anime/portraits/assets/portraits-000002.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 781512,
+      "width": 4072,
+      "height": 2280,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:11.901281+00:00",
+      "title": "Anime Girl — Neon",
+      "description": "anime girl with glowing eyes looking away in a pink style.",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "urban",
+        "cyberpunk"
+      ],
+      "monochrome": false
+    },
+    "portraits-000003": {
+      "id": "portraits-000003",
+      "filename": "portraits-000003.webp",
+      "path": "anime/portraits/assets/portraits-000003.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 398706,
+      "width": 2560,
+      "height": 1440,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:12.335277+00:00",
+      "title": "Anime Squad in the City",
+      "description": "anime cyborg squad standing proud after a fight.",
+      "subjects": [
+        "anime girls",
+        "anime boys",
+        "cyborgs"
+      ],
+      "environments": [
+        "urban",
+        "battlefield"
+      ],
+      "monochrome": false
+    },
+    "portraits-000004": {
+      "id": "portraits-000004",
+      "filename": "portraits-000004.webp",
+      "path": "anime/portraits/assets/portraits-000004.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 925754,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:13.019271+00:00",
+      "title": "Anime Girl — Demon",
+      "description": "anime girl with demoniac face preparing to attack during a fight.",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "battlefield"
+      ],
+      "monochrome": true
+    },
+    "portraits-000005": {
+      "id": "portraits-000005",
+      "filename": "portraits-000005.webp",
+      "path": "anime/portraits/assets/portraits-000005.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 239220,
+      "width": 1952,
+      "height": 1120,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:13.286268+00:00",
+      "title": "Anime Girl at Night",
+      "description": "anime girl sitted on the ground looking up to the shining sky with city in the background during night.",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000006": {
+      "id": "portraits-000006",
+      "filename": "portraits-000006.webp",
+      "path": "anime/portraits/assets/portraits-000006.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 839204,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:13.612265+00:00",
+      "title": "Anime Girl - Smiley",
+      "description": "anime girl covering her face in front of a garage with a smile, next to a bicycle.",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "urban"
+      ],
+      "monochrome": false
+    },
+    "portraits-000007": {
+      "id": "portraits-000007",
+      "filename": "portraits-000007.webp",
+      "path": "anime/portraits/assets/portraits-000007.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 126174,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:13.787264+00:00",
+      "title": "Anime Girl — Smoke",
+      "description": "tatooed anime girl holding a cigarette in his mouth.",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "white background"
+      ],
+      "monochrome": true
+    },
+    "portraits-000008": {
+      "id": "portraits-000008",
+      "filename": "portraits-000008.webp",
+      "path": "anime/portraits/assets/portraits-000008.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 485582,
+      "width": 4072,
+      "height": 2280,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T22:03:47.569230+00:00",
+      "title": "Lofi Anime Girl",
+      "description": "anime girl looking in the camera with a coffee and a book reading.",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "living room"
+      ],
+      "monochrome": false
+    },
+    "portraits-000009": {
+      "id": "portraits-000009",
+      "filename": "portraits-000009.webp",
+      "path": "anime/portraits/assets/portraits-000009.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 219546,
+      "width": 7680,
+      "height": 4320,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:16.716236+00:00",
+      "title": "Anime Girl — Asian",
+      "description": "Asian photorealistic anime girl looking seriously in the camera.",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "white background"
+      ],
+      "monochrome": true
+    },
+    "portraits-000010": {
+      "id": "portraits-000010",
+      "filename": "portraits-000010.webp",
+      "path": "anime/portraits/assets/portraits-000010.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 101656,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:16.913235+00:00",
+      "title": "Anime Man",
+      "description": "anime man, surrounded by mist, preparing to launch his attack during a fight.",
+      "subjects": [
+        "anime man"
+      ],
+      "environments": [
+        "battlefield",
+        "white background"
+      ],
+      "monochrome": true
+    },
+    "portraits-000011": {
+      "id": "portraits-000011",
+      "filename": "portraits-000011.webp",
+      "path": "anime/portraits/assets/portraits-000011.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 759932,
+      "width": 7680,
+      "height": 4320,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:19.105214+00:00",
+      "title": "Anime Girl — Cyberpunk",
+      "description": "close-up anime girl looking in the sky with pink cyberpunk style lighting",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000012": {
+      "id": "portraits-000012",
+      "filename": "portraits-000012.webp",
+      "path": "anime/portraits/assets/portraits-000012.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 765402,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:19.928206+00:00",
+      "title": "Anime Man — Sunglasses",
+      "description": "anime man wearing red sunglasses holding his sword and looking towards the camera",
+      "subjects": [
+        "anime man"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000013": {
+      "id": "portraits-000013",
+      "filename": "portraits-000013.webp",
+      "path": "anime/portraits/assets/portraits-000013.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 921134,
+      "width": 7680,
+      "height": 4320,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:22.359184+00:00",
+      "title": "Anime Girl — Oni",
+      "description": "anime girl with oni and devil horns wearing japanese kimono",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "portraits-000014": {
+      "id": "portraits-000014",
+      "filename": "portraits-000014.webp",
+      "path": "anime/portraits/assets/portraits-000014.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 578134,
+      "width": 6496,
+      "height": 3648,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T22:03:47.667229+00:00",
+      "title": "Anime Girl — Sakura I",
+      "description": "happy anime girl surrounded by flowers",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "nature"
+      ],
+      "monochrome": false
+    },
+    "portraits-000015": {
+      "id": "portraits-000015",
+      "filename": "portraits-000015.webp",
+      "path": "anime/portraits/assets/portraits-000015.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 459160,
+      "width": 3588,
+      "height": 1884,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:24.761162+00:00",
+      "title": "Anime Girl — Sakura II",
+      "description": "happy anime girl surrounded by flowers",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "nature"
+      ],
+      "monochrome": false
+    },
+    "portraits-000016": {
+      "id": "portraits-000016",
+      "filename": "portraits-000016.webp",
+      "path": "anime/portraits/assets/portraits-000016.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 237640,
+      "width": 2565,
+      "height": 1447,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:25.072159+00:00",
+      "title": "Anime Girl in the Bedroom",
+      "description": "anime girl wearing glasses looking away bored while studying in her room",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "bedroom"
+      ],
+      "monochrome": false
+    },
+    "portraits-000017": {
+      "id": "portraits-000017",
+      "filename": "portraits-000017.webp",
+      "path": "anime/portraits/assets/portraits-000017.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 496900,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:25.904151+00:00",
+      "title": "Anime Girl — Wanderer",
+      "description": "anime girl wandering in waste land at sunset looking in the horizon surrounded by fireflies",
+      "subjects": [
+        "anime girl"
+      ],
+      "environments": [
+        "nature",
+        "sunset"
+      ],
+      "monochrome": false
+    }
+  }
+}

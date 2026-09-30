@@ -1,0 +1,41 @@
+{
+  "title": "Cities",
+  "description": "A collection of urban scenes, covering skylines, streets, and nighttime cityscapes from different parts of the world. Some wallpapers draw on Japanese or anime-inspired aesthetics, though the collection as a whole is not limited to that style.",
+  "assets": {
+    "cities-000001": {
+      "title": "Japanese City at Sunset",
+      "description": "A girl sitting on a balcony, watching the city at sunset.",
+      "subjects": ["japanese city", "girl"],
+      "environments": ["urban", "sunset"],
+      "monochrome": false
+    },
+    "cities-000002": {
+      "title": "Japanese City at Daylight",
+      "description": "A cat sitting on a balcony, watching the city in the sunlight, surrounded by flowers.",
+      "subjects": ["japanese city", "cat"],
+      "environments": ["urban", "sunlight"],
+      "monochrome": false
+    },
+    "cities-000003": {
+      "title": "Street Road at Night",
+      "description": "A scary desert road at night, lit by streetlamps.",
+      "subjects": ["road", "streetlamps"],
+      "environments": ["urban", "night", "black background"],
+      "monochrome": true
+    },
+    "cities-000004": {
+      "title": "Tokyo City at Night",
+      "description": "An illustrated Tokyo cityscape at night, illuminated by vibrant pink lights.",
+      "subjects": ["tokyo"],
+      "environments": ["urban", "night"],
+      "monochrome": false
+    },
+    "cities-000005": {
+      "title": "Tokyo City at Night",
+      "description": "A girl with headphones looking around at Tokyo's buildings, in a purple style.",
+      "subjects": ["tokyo"],
+      "environments": ["urban", "night"],
+      "monochrome": false
+    }
+  }
+}

@@ -1,0 +1,775 @@
+{
+  "schema_version": 1,
+  "assets": {
+    "geometry-000001": {
+      "category": "abstract",
+      "collection": "geometry",
+      "path": "abstract/geometry/assets/geometry-000001.webp"
+    },
+    "chainsaw-man-000001": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000001.webp"
+    },
+    "chainsaw-man-000002": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000002.webp"
+    },
+    "chainsaw-man-000003": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000003.webp"
+    },
+    "chainsaw-man-000004": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000004.webp"
+    },
+    "chainsaw-man-000005": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000005.webp"
+    },
+    "chainsaw-man-000006": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000006.webp"
+    },
+    "chainsaw-man-000007": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000007.webp"
+    },
+    "chainsaw-man-000008": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000008.webp"
+    },
+    "chainsaw-man-000009": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000009.webp"
+    },
+    "chainsaw-man-000010": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000010.webp"
+    },
+    "chainsaw-man-000011": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000011.webp"
+    },
+    "chainsaw-man-000012": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000012.webp"
+    },
+    "chainsaw-man-000013": {
+      "category": "anime",
+      "collection": "chainsaw-man",
+      "path": "anime/chainsaw-man/assets/chainsaw-man-000013.webp"
+    },
+    "darling-in-the-franxx-000001": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000001.webp"
+    },
+    "darling-in-the-franxx-000002": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000002.webp"
+    },
+    "darling-in-the-franxx-000003": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000003.webp"
+    },
+    "darling-in-the-franxx-000004": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000004.webp"
+    },
+    "darling-in-the-franxx-000005": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000005.webp"
+    },
+    "darling-in-the-franxx-000006": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000006.webp"
+    },
+    "darling-in-the-franxx-000007": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000007.webp"
+    },
+    "darling-in-the-franxx-000008": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000008.webp"
+    },
+    "darling-in-the-franxx-000009": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000009.webp"
+    },
+    "darling-in-the-franxx-000010": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000010.webp"
+    },
+    "darling-in-the-franxx-000011": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000011.webp"
+    },
+    "darling-in-the-franxx-000012": {
+      "category": "anime",
+      "collection": "darling-in-the-franxx",
+      "path": "anime/darling-in-the-franxx/assets/darling-in-the-franxx-000012.webp"
+    },
+    "demon-slayer-000001": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000001.webp"
+    },
+    "demon-slayer-000002": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000002.webp"
+    },
+    "demon-slayer-000003": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000003.webp"
+    },
+    "demon-slayer-000004": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000004.webp"
+    },
+    "demon-slayer-000005": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000005.webp"
+    },
+    "demon-slayer-000006": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000006.webp"
+    },
+    "demon-slayer-000007": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000007.webp"
+    },
+    "demon-slayer-000008": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000008.webp"
+    },
+    "demon-slayer-000009": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000009.webp"
+    },
+    "demon-slayer-000010": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000010.webp"
+    },
+    "demon-slayer-000011": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000011.webp"
+    },
+    "demon-slayer-000012": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000012.webp"
+    },
+    "demon-slayer-000013": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000013.webp"
+    },
+    "demon-slayer-000014": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000014.webp"
+    },
+    "demon-slayer-000015": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000015.webp"
+    },
+    "demon-slayer-000016": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000016.webp"
+    },
+    "demon-slayer-000017": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000017.webp"
+    },
+    "demon-slayer-000018": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000018.webp"
+    },
+    "demon-slayer-000019": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000019.webp"
+    },
+    "demon-slayer-000020": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000020.webp"
+    },
+    "demon-slayer-000021": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000021.webp"
+    },
+    "demon-slayer-000022": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000022.webp"
+    },
+    "demon-slayer-000023": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000023.webp"
+    },
+    "demon-slayer-000024": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000024.webp"
+    },
+    "demon-slayer-000025": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000025.webp"
+    },
+    "demon-slayer-000026": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000026.webp"
+    },
+    "demon-slayer-000027": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000027.webp"
+    },
+    "demon-slayer-000028": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000028.webp"
+    },
+    "demon-slayer-000029": {
+      "category": "anime",
+      "collection": "demon-slayer",
+      "path": "anime/demon-slayer/assets/demon-slayer-000029.webp"
+    },
+    "jujutsu-kaisen-000001": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000001.webp"
+    },
+    "jujutsu-kaisen-000002": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000002.webp"
+    },
+    "jujutsu-kaisen-000003": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000003.webp"
+    },
+    "jujutsu-kaisen-000004": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000004.webp"
+    },
+    "jujutsu-kaisen-000005": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000005.webp"
+    },
+    "jujutsu-kaisen-000006": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000006.webp"
+    },
+    "jujutsu-kaisen-000007": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000007.webp"
+    },
+    "jujutsu-kaisen-000008": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000008.webp"
+    },
+    "jujutsu-kaisen-000009": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000009.webp"
+    },
+    "jujutsu-kaisen-000010": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000010.webp"
+    },
+    "jujutsu-kaisen-000011": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000011.webp"
+    },
+    "jujutsu-kaisen-000012": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000012.webp"
+    },
+    "jujutsu-kaisen-000013": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000013.webp"
+    },
+    "jujutsu-kaisen-000014": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000014.webp"
+    },
+    "jujutsu-kaisen-000015": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000015.webp"
+    },
+    "jujutsu-kaisen-000016": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000016.webp"
+    },
+    "jujutsu-kaisen-000017": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000017.webp"
+    },
+    "jujutsu-kaisen-000018": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000018.webp"
+    },
+    "jujutsu-kaisen-000019": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000019.webp"
+    },
+    "jujutsu-kaisen-000020": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000020.webp"
+    },
+    "jujutsu-kaisen-000021": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000021.webp"
+    },
+    "jujutsu-kaisen-000022": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000022.webp"
+    },
+    "jujutsu-kaisen-000023": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000023.webp"
+    },
+    "jujutsu-kaisen-000024": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000024.webp"
+    },
+    "jujutsu-kaisen-000025": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000025.webp"
+    },
+    "jujutsu-kaisen-000026": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000026.webp"
+    },
+    "jujutsu-kaisen-000027": {
+      "category": "anime",
+      "collection": "jujutsu-kaisen",
+      "path": "anime/jujutsu-kaisen/assets/jujutsu-kaisen-000027.webp"
+    },
+    "my-hero-academia-000001": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000001.webp"
+    },
+    "my-hero-academia-000002": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000002.webp"
+    },
+    "my-hero-academia-000003": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000003.webp"
+    },
+    "my-hero-academia-000004": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000004.webp"
+    },
+    "my-hero-academia-000005": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000005.webp"
+    },
+    "my-hero-academia-000006": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000006.webp"
+    },
+    "my-hero-academia-000007": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000007.webp"
+    },
+    "my-hero-academia-000008": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000008.webp"
+    },
+    "my-hero-academia-000009": {
+      "category": "anime",
+      "collection": "my-hero-academia",
+      "path": "anime/my-hero-academia/assets/my-hero-academia-000009.webp"
+    },
+    "one-piece-000001": {
+      "category": "anime",
+      "collection": "one-piece",
+      "path": "anime/one-piece/assets/one-piece-000001.webp"
+    },
+    "one-piece-000002": {
+      "category": "anime",
+      "collection": "one-piece",
+      "path": "anime/one-piece/assets/one-piece-000002.webp"
+    },
+    "one-piece-000003": {
+      "category": "anime",
+      "collection": "one-piece",
+      "path": "anime/one-piece/assets/one-piece-000003.webp"
+    },
+    "one-piece-000004": {
+      "category": "anime",
+      "collection": "one-piece",
+      "path": "anime/one-piece/assets/one-piece-000004.webp"
+    },
+    "one-piece-000005": {
+      "category": "anime",
+      "collection": "one-piece",
+      "path": "anime/one-piece/assets/one-piece-000005.webp"
+    },
+    "one-piece-000006": {
+      "category": "anime",
+      "collection": "one-piece",
+      "path": "anime/one-piece/assets/one-piece-000006.webp"
+    },
+    "one-piece-000007": {
+      "category": "anime",
+      "collection": "one-piece",
+      "path": "anime/one-piece/assets/one-piece-000007.webp"
+    },
+    "portraits-000001": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000001.webp"
+    },
+    "portraits-000002": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000002.webp"
+    },
+    "portraits-000003": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000003.webp"
+    },
+    "portraits-000004": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000004.webp"
+    },
+    "portraits-000005": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000005.webp"
+    },
+    "portraits-000006": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000006.webp"
+    },
+    "portraits-000007": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000007.webp"
+    },
+    "portraits-000008": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000008.webp"
+    },
+    "portraits-000009": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000009.webp"
+    },
+    "portraits-000010": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000010.webp"
+    },
+    "portraits-000011": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000011.webp"
+    },
+    "portraits-000012": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000012.webp"
+    },
+    "portraits-000013": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000013.webp"
+    },
+    "portraits-000014": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000014.webp"
+    },
+    "portraits-000015": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000015.webp"
+    },
+    "portraits-000016": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000016.webp"
+    },
+    "portraits-000017": {
+      "category": "anime",
+      "collection": "portraits",
+      "path": "anime/portraits/assets/portraits-000017.webp"
+    },
+    "cars-000001": {
+      "category": "automotive",
+      "collection": "cars",
+      "path": "automotive/cars/assets/cars-000001.webp"
+    },
+    "cars-000002": {
+      "category": "automotive",
+      "collection": "cars",
+      "path": "automotive/cars/assets/cars-000002.webp"
+    },
+    "cars-000003": {
+      "category": "automotive",
+      "collection": "cars",
+      "path": "automotive/cars/assets/cars-000003.webp"
+    },
+    "cars-000004": {
+      "category": "automotive",
+      "collection": "cars",
+      "path": "automotive/cars/assets/cars-000004.webp"
+    },
+    "cars-000005": {
+      "category": "automotive",
+      "collection": "cars",
+      "path": "automotive/cars/assets/cars-000005.webp"
+    },
+    "landscapes-000001": {
+      "category": "nature",
+      "collection": "landscapes",
+      "path": "nature/landscapes/assets/landscapes-000001.webp"
+    },
+    "landscapes-000002": {
+      "category": "nature",
+      "collection": "landscapes",
+      "path": "nature/landscapes/assets/landscapes-000002.webp"
+    },
+    "landscapes-000003": {
+      "category": "nature",
+      "collection": "landscapes",
+      "path": "nature/landscapes/assets/landscapes-000003.webp"
+    },
+    "landscapes-000004": {
+      "category": "nature",
+      "collection": "landscapes",
+      "path": "nature/landscapes/assets/landscapes-000004.webp"
+    },
+    "landscapes-000005": {
+      "category": "nature",
+      "collection": "landscapes",
+      "path": "nature/landscapes/assets/landscapes-000005.webp"
+    },
+    "landscapes-000006": {
+      "category": "nature",
+      "collection": "landscapes",
+      "path": "nature/landscapes/assets/landscapes-000006.webp"
+    },
+    "apple-000001": {
+      "category": "operating-systems",
+      "collection": "apple",
+      "path": "operating-systems/apple/assets/apple-000001.webp"
+    },
+    "apple-000002": {
+      "category": "operating-systems",
+      "collection": "apple",
+      "path": "operating-systems/apple/assets/apple-000002.webp"
+    },
+    "apple-000003": {
+      "category": "operating-systems",
+      "collection": "apple",
+      "path": "operating-systems/apple/assets/apple-000003.webp"
+    },
+    "apple-000004": {
+      "category": "operating-systems",
+      "collection": "apple",
+      "path": "operating-systems/apple/assets/apple-000004.webp"
+    },
+    "apple-000005": {
+      "category": "operating-systems",
+      "collection": "apple",
+      "path": "operating-systems/apple/assets/apple-000005.webp"
+    },
+    "apple-000006": {
+      "category": "operating-systems",
+      "collection": "apple",
+      "path": "operating-systems/apple/assets/apple-000006.webp"
+    },
+    "linux-000001": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "path": "operating-systems/linux/assets/linux-000001.webp"
+    },
+    "linux-000002": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "path": "operating-systems/linux/assets/linux-000002.webp"
+    },
+    "linux-000003": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "path": "operating-systems/linux/assets/linux-000003.webp"
+    },
+    "linux-000004": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "path": "operating-systems/linux/assets/linux-000004.webp"
+    },
+    "linux-000005": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "path": "operating-systems/linux/assets/linux-000005.webp"
+    },
+    "linux-000006": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "path": "operating-systems/linux/assets/linux-000006.webp"
+    },
+    "linux-000007": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "path": "operating-systems/linux/assets/linux-000007.webp"
+    },
+    "linux-000008": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "path": "operating-systems/linux/assets/linux-000008.webp"
+    },
+    "linux-000009": {
+      "category": "operating-systems",
+      "collection": "linux",
+      "path": "operating-systems/linux/assets/linux-000009.webp"
+    },
+    "misc-000001": {
+      "category": "operating-systems",
+      "collection": "misc",
+      "path": "operating-systems/misc/assets/misc-000001.webp"
+    },
+    "windows-000001": {
+      "category": "operating-systems",
+      "collection": "windows",
+      "path": "operating-systems/windows/assets/windows-000001.webp"
+    },
+    "windows-000002": {
+      "category": "operating-systems",
+      "collection": "windows",
+      "path": "operating-systems/windows/assets/windows-000002.webp"
+    },
+    "windows-000003": {
+      "category": "operating-systems",
+      "collection": "windows",
+      "path": "operating-systems/windows/assets/windows-000003.webp"
+    },
+    "windows-000004": {
+      "category": "operating-systems",
+      "collection": "windows",
+      "path": "operating-systems/windows/assets/windows-000004.webp"
+    },
+    "windows-000005": {
+      "category": "operating-systems",
+      "collection": "windows",
+      "path": "operating-systems/windows/assets/windows-000005.webp"
+    },
+    "windows-000006": {
+      "category": "operating-systems",
+      "collection": "windows",
+      "path": "operating-systems/windows/assets/windows-000006.webp"
+    },
+    "architecture-000001": {
+      "category": "places",
+      "collection": "architecture",
+      "path": "places/architecture/assets/architecture-000001.webp"
+    },
+    "cities-000001": {
+      "category": "places",
+      "collection": "cities",
+      "path": "places/cities/assets/cities-000001.webp"
+    },
+    "cities-000002": {
+      "category": "places",
+      "collection": "cities",
+      "path": "places/cities/assets/cities-000002.webp"
+    },
+    "cities-000003": {
+      "category": "places",
+      "collection": "cities",
+      "path": "places/cities/assets/cities-000003.webp"
+    },
+    "cities-000004": {
+      "category": "places",
+      "collection": "cities",
+      "path": "places/cities/assets/cities-000004.webp"
+    },
+    "cities-000005": {
+      "category": "places",
+      "collection": "cities",
+      "path": "places/cities/assets/cities-000005.webp"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "category": "places",
+  "collection": "cities",
+  "title": "Cities",
+  "description": "A collection of urban scenes, covering skylines, streets, and nighttime cityscapes from different parts of the world. Some wallpapers draw on Japanese or anime-inspired aesthetics, though the collection as a whole is not limited to that style.",
+  "generated_at": "2026-09-30T19:54:12.473220+00:00",
+  "total": 5,
+  "assets": {
+    "cities-000001": {
+      "id": "cities-000001",
+      "filename": "cities-000001.webp",
+      "path": "places/cities/assets/cities-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 263136,
+      "width": 1920,
+      "height": 1080,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:44.502978+00:00",
+      "title": "Japanese City at Sunset",
+      "description": "girl sitted on a balcony watching the city during sunset.",
+      "subjects": [
+        "japanese city",
+        "girl"
+      ],
+      "environments": [
+        "urban",
+        "sunset"
+      ],
+      "monochrome": false
+    },
+    "cities-000002": {
+      "id": "cities-000002",
+      "filename": "cities-000002.webp",
+      "path": "places/cities/assets/cities-000002.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 528752,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:45.228971+00:00",
+      "title": "Japanese City at Daylight",
+      "description": "cat sitted on a balcony watching the city at sunlight surrounded by flowers.",
+      "subjects": [
+        "japanese city",
+        "cat"
+      ],
+      "environments": [
+        "urban",
+        "sunlight"
+      ],
+      "monochrome": false
+    },
+    "cities-000003": {
+      "id": "cities-000003",
+      "filename": "cities-000003.webp",
+      "path": "places/cities/assets/cities-000003.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 236486,
+      "width": 3854,
+      "height": 1975,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:45.769966+00:00",
+      "title": "Street Road at Night",
+      "description": "a scary desert street road at night time lighted by streetlamps.",
+      "subjects": [
+        "road",
+        "streetlamps"
+      ],
+      "environments": [
+        "urban",
+        "night",
+        "black background"
+      ],
+      "monochrome": true
+    },
+    "cities-000004": {
+      "id": "cities-000004",
+      "filename": "cities-000004.webp",
+      "path": "places/cities/assets/cities-000004.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 833462,
+      "width": 5120,
+      "height": 2880,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T22:03:48.164225+00:00",
+      "title": "Tokyo City at Night",
+      "description": "illustrated night time tokyo city illuminated by vibrant pink lights.",
+      "subjects": [
+        "tokyo"
+      ],
+      "environments": [
+        "urban",
+        "night"
+      ],
+      "monochrome": false
+    },
+    "cities-000005": {
+      "id": "cities-000005",
+      "filename": "cities-000005.webp",
+      "path": "places/cities/assets/cities-000005.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 424490,
+      "width": 2345,
+      "height": 1286,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:47.126953+00:00",
+      "title": "Tokyo City at Night",
+      "description": "girl with headphones looking around Tokyo's buildings featured a purple style.",
+      "subjects": [
+        "tokyo"
+      ],
+      "environments": [
+        "urban",
+        "night"
+      ],
+      "monochrome": false
+    }
+  }
+}

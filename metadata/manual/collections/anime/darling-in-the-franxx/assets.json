@@ -1,0 +1,90 @@
+{
+  "title": "Darling In The Franxx",
+  "description": "Artwork drawn from _Darling in the FranXX_, a mecha anime with a distinctive futuristic setting. The collection includes giant mechs, desolate landscapes, and the series' bold color palette, reflecting its blend of science fiction and youthful, emotional themes.",
+  "assets": {
+    "darling-in-the-franxx-000001": {
+      "title": "Code 16 — Demon",
+      "description": "Hiro riding the FRANXX in his demon form.",
+      "characters": ["hiro", "code 16"],
+      "environments": [],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000002": {
+      "title": "Code 16 — Sad",
+      "description": "A depressed Hiro, unable to ride the FRANXX.",
+      "characters": ["hiro", "code 16"],
+      "environments": [],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000003": {
+      "title": "Code 15",
+      "description": "Ichigo in her school uniform, gripping an iron fence and lost in thought at sunset.",
+      "characters": ["ichigo", "code 15"],
+      "environments": [],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000004": {
+      "title": "Strelizia",
+      "description": "Strelizia with the anime logo beside it.",
+      "subjects": ["franxx", "strelizia"],
+      "environments": [],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000005": {
+      "title": "Zero Two — Demon",
+      "description": "Zero Two in her demonic form, pointing at the viewer.",
+      "subjects": ["zero two", "code 002"],
+      "environments": ["black background"],
+      "monochrome": true
+    },
+    "darling-in-the-franxx-000006": {
+      "title": "Zero Two",
+      "description": "Zero Two with a death stare and glowing eyes.",
+      "subjects": ["zero two", "code 002"],
+      "environments": ["laboratory"],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000007": {
+      "title": "Zero Two — Artwork",
+      "description": "Stylish fan art of Zero Two smiling and holding a lollipop against a purple background.",
+      "subjects": ["zero two", "code 002"],
+      "environments": ["purple background"],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000008": {
+      "title": "Zero Two — Graffiti",
+      "description": "Zero Two smiling in a streetwear outfit and making a peace sign on her forehead, with graffiti in the background.",
+      "subjects": ["zero two", "code 002"],
+      "environments": ["urban"],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000009": {
+      "title": "Zero Two — Logo",
+      "description": "Zero Two in her Parasite uniform against a white background, with the anime logo beside her.",
+      "subjects": ["zero two", "code 002"],
+      "environments": ["white background"],
+      "monochrome": true
+    },
+    "darling-in-the-franxx-000010": {
+      "title": "Zero Two — Sunrise",
+      "description": "Zero Two in her bedroom at sunrise, with a sad, contemplative expression.",
+      "subjects": ["zero two", "code 002"],
+      "environments": ["bedroom"],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000011": {
+      "title": "Zero Two — Street",
+      "description": "Zero Two in a streetwear uniform looking into the distance, with the Japanese anime title and logo in the background.",
+      "subjects": ["zero two", "code 002"],
+      "environments": [],
+      "monochrome": false
+    },
+    "darling-in-the-franxx-000012": {
+      "title": "Zero Two — Code",
+      "description": "Zero Two in a proud stance against a blue and red painted background, with her code on the side.",
+      "subjects": ["zero two", "code 002"],
+      "environments": [],
+      "monochrome": false
+    }
+  }
+}

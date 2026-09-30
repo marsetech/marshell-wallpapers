@@ -1,0 +1,195 @@
+{
+  "title": "Jujutsu Kaisen",
+  "description": "Wallpapers based on _Jujutsu Kaisen_, centered on its cursed energy and sorcery themes. The collection covers contemporary Japanese urban settings, shadowy supernatural environments, and the contrast the series draws between ordinary daily life and its darker, more violent side.",
+  "assets": {
+    "jujutsu-kaisen-000001": {
+      "title": "Choso — Blood Manipulation",
+      "description": "Angry Choso with glowing red eyes, surrounded by blood.",
+      "subjects": ["choso"],
+      "environments": [],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000002": {
+      "title": "Choso",
+      "description": "Choso in his Piercing Blood stance against a double blue and red background, representing his dual nature.",
+      "subjects": ["choso"],
+      "environments": [],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000003": {
+      "title": "Megumi Fushiguro — Neon",
+      "description": "Megumi Fushiguro in a purple neon-style artwork.",
+      "subjects": ["megumi fushiguro"],
+      "environments": ["neon", "black background"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000004": {
+      "title": "Toji Fushiguro — Split Soul Katana",
+      "description": "Angry Toji Fushiguro holding his cursed weapon against a destroyed battlefield.",
+      "subjects": ["toji fushiguro"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000005": {
+      "title": "Toji Fushiguro — Inverted Spear of Heaven",
+      "description": "Smiling Toji Fushiguro holding his cursed weapon, with a cursed spirit around his neck, in moonlight.",
+      "subjects": ["toji fushiguro"],
+      "environments": ["battlefield", "night"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000006": {
+      "title": "Hajime Kashimo — Lightning God",
+      "description": "Excited Hajime Kashimo preparing to launch a lightning strike during a fight.",
+      "subjects": ["hajime kashimo"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000007": {
+      "title": "Hiromi Higuruma — Domain Expansion",
+      "description": "Hiromi Higuruma in his lawyer's Domain Expansion, brandishing the executioner's sword.",
+      "subjects": ["hiromi higuruma"],
+      "environments": ["domain", "battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000008": {
+      "title": "Ryu Ishigori",
+      "description": "Ryu Ishigori pointing his finger at the camera, preparing to launch a blast attack.",
+      "subjects": ["ryu ishigori"],
+      "environments": ["battlefield", "sunlight"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000009": {
+      "title": "Yuji Itadori — Shinjuku Arc",
+      "description": "Focused Yuji Itadori launching a Black Flash, with Sukuna in his true form in the background.",
+      "subjects": ["yuji itadori", "sukuna"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000010": {
+      "title": "Yuji Itadori — Modulo",
+      "description": "Yuji Itadori launching his Dismantle attack.",
+      "subjects": ["yuji itadori"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000011": {
+      "title": "Kento Nanami",
+      "description": "Kento Nanami with a psychopathic expression, surrounded by a yellow aura.",
+      "subjects": ["kento nanami"],
+      "environments": [],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000012": {
+      "title": "Maki Zenin",
+      "description": "Burned Maki Zenin fighting, with a bandage over her right eye.",
+      "subjects": ["maki zenin"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000013": {
+      "title": "Megumi Fushiguro — Ten Shadows Technique",
+      "description": "Megumi Fushiguro with glowing eyes, preparing to use his Ten Shadows Technique, with Mahoraga's wheel in the background.",
+      "subjects": ["megumi fushiguro", "mahoraga"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000014": {
+      "title": "Yuji, Megumi & Nobara in the City",
+      "description": "The Jujutsu Kaisen student trio Yuji, Megumi, and Nobara having fun in the city.",
+      "subjects": ["megumi fushiguro", "yuji itadori", "nobara kugisaki"],
+      "environments": ["sunlight", "urban"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000015": {
+      "title": "Mei Mei",
+      "description": "Mei Mei surrounded by broken glass in the moonlight.",
+      "subjects": ["mei mei"],
+      "environments": ["night", "battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000016": {
+      "title": "Satoru Gojo — Six Eyes",
+      "description": "Satoru Gojo wearing sunglasses and showing his Six Eyes.",
+      "subjects": ["satoru gojo"],
+      "environments": ["sunlight"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000017": {
+      "title": "Satoru Gojo — Limitless",
+      "description": "Satoru Gojo preparing to launch a destructive attack.",
+      "subjects": ["satoru gojo"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000018": {
+      "title": "Satoru Gojo — Kid",
+      "description": "Young Satoru Gojo showing his Six Eyes with a hand sign.",
+      "subjects": ["satoru gojo"],
+      "environments": [],
+      "monochrome": true
+    },
+    "jujutsu-kaisen-000019": {
+      "title": "Satoru Gojo — Sunglasses",
+      "description": "Satoru Gojo wearing sunglasses and showing his Six Eyes.",
+      "subjects": ["satoru gojo"],
+      "environments": [],
+      "monochrome": true
+    },
+    "jujutsu-kaisen-000020": {
+      "title": "Satoru Gojo & Sukuna — Domain Clash",
+      "description": "Gojo and Sukuna's Domain Expansion clash during the Shinjuku Showdown.",
+      "subjects": ["satoru gojo", "sukuna"],
+      "environments": ["shinjuku", "battlefield", "domain"],
+      "monochrome": true
+    },
+    "jujutsu-kaisen-000021": {
+      "title": "Kenjaku",
+      "description": "Kenjaku possessing Geto's body, surrounded by cursed spirits.",
+      "subjects": ["suguru geto", "kenjaku"],
+      "environments": [],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000022": {
+      "title": "Sukuna — Heian Era Form",
+      "description": "Sukuna in his true Heian-era form, gripping his trident and making the hand sign of Gojo's domain.",
+      "subjects": ["sukuna"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000023": {
+      "title": "Sukuna — Evil",
+      "description": "Sukuna in his true form with four arms and two mouths, showing his malice.",
+      "subjects": ["sukuna"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000024": {
+      "title": "Toji Fushiguro in the Snowy Forest",
+      "description": "Artwork of Toji Fushiguro drinking a Monster in a snowy forest.",
+      "subjects": ["toji fushiguro"],
+      "environments": ["forest"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000025": {
+      "title": "Yuki Tsukumo",
+      "description": "Yuki Tsukumo with her cursed spirit, preparing to launch her gravity mass attack.",
+      "subjects": ["yuki tsukumo"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000026": {
+      "title": "Yuta Okkotsu — Pure Love Beam",
+      "description": "Yuta Okkotsu with Rika, preparing to launch his Pure Love Beam attack.",
+      "subjects": ["yuta okkotsu", "rika"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "jujutsu-kaisen-000027": {
+      "title": "Yuta Okkotsu & Rika",
+      "description": "Yuta Okkotsu with glowing eyes, holding his sword beside his cursed spirit.",
+      "subjects": ["yuta okkotsu", "rika"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    }
+  }
+}

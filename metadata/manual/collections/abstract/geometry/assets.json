@@ -1,0 +1,13 @@
+{
+  "title": "Geometry",
+  "description": "An abstract collection built around geometric forms, including shapes, lines, patterns, and structured compositions. The designs range from minimal, symmetrical layouts to more complex arrangements, with a focus on color, contrast, and repetition.",
+  "assets": {
+    "geometry-000001": {
+      "title": "Geometric Sunset",
+      "description": "An abstract geometric composition featuring a glowing sunset partially obscured by dark vertical forms, with deep blue, red, orange, and teal tones creating a minimal atmospheric scene.",
+      "subjects": ["sun", "geometric shapes"],
+      "environments": [],
+      "monochrome": false
+    }
+  }
+}

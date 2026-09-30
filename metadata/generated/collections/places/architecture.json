@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "category": "places",
+  "collection": "architecture",
+  "generated_at": "2026-09-30T19:54:12.460180+00:00",
+  "total": 1,
+  "assets": {
+    "architecture-000001": {
+      "id": "architecture-000001",
+      "filename": "architecture-000001.webp",
+      "path": "places/architecture/assets/architecture-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 1176598,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T22:03:48.066226+00:00"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "categories": {
+    "abstract": {
+      "category": "abstract",
+      "collections": [
+        "geometry"
+      ]
+    },
+    "anime": {
+      "category": "anime",
+      "collections": [
+        "chainsaw-man",
+        "darling-in-the-franxx",
+        "demon-slayer",
+        "jujutsu-kaisen",
+        "my-hero-academia",
+        "one-piece",
+        "portraits"
+      ]
+    },
+    "automotive": {
+      "category": "automotive",
+      "collections": [
+        "cars"
+      ]
+    },
+    "nature": {
+      "category": "nature",
+      "collections": [
+        "landscapes"
+      ]
+    },
+    "operating-systems": {
+      "category": "operating-systems",
+      "collections": [
+        "apple",
+        "linux",
+        "misc",
+        "windows"
+      ]
+    },
+    "places": {
+      "category": "places",
+      "collections": [
+        "architecture",
+        "cities"
+      ]
+    }
+  }
+}

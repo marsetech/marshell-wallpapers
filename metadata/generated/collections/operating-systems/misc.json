@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "category": "operating-systems",
+  "collection": "misc",
+  "generated_at": "2026-09-30T19:54:12.454980+00:00",
+  "total": 1,
+  "assets": {
+    "misc-000001": {
+      "id": "misc-000001",
+      "filename": "misc-000001.webp",
+      "path": "operating-systems/misc/assets/misc-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 24828,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:39.891021+00:00"
+    }
+  }
+}

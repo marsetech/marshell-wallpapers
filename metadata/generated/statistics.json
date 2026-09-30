@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "categories": 6,
+  "collections": 16,
+  "assets": {
+    "total": 154,
+    "static": 154,
+    "animated": 0
+  },
+  "storage": {
+    "total_bytes": 90140766
+  },
+  "formats": {
+    "webp": 154
+  },
+  "orientations": {
+    "landscape": 154
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "category": "operating-systems",
+  "collection": "windows",
+  "title": "Windows",
+  "description": "A collection related to _Microsoft Windows_, featuring its logos, interface elements, and design styles associated with different versions of the system. The wallpapers range from classic looks to more modern releases, reflecting how the visual identity has evolved over time.",
+  "generated_at": "2026-09-30T19:54:12.459106+00:00",
+  "total": 6,
+  "assets": {
+    "windows-000001": {
+      "id": "windows-000001",
+      "filename": "windows-000001.webp",
+      "path": "operating-systems/windows/assets/windows-000001.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 20530,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:40.374016+00:00",
+      "title": "Windows11",
+      "description": "minimalist windows11 logo in a blank dark background",
+      "subjects": [
+        "microsoft"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000002": {
+      "id": "windows-000002",
+      "filename": "windows-000002.webp",
+      "path": "operating-systems/windows/assets/windows-000002.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 57020,
+      "width": 1920,
+      "height": 1200,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:40.581014+00:00",
+      "title": "Windows10 — Japanese",
+      "description": "windows10 logo with japanese words and funny phrase below",
+      "subjects": [
+        "microsoft"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000003": {
+      "id": "windows-000003",
+      "filename": "windows-000003.webp",
+      "path": "operating-systems/windows/assets/windows-000003.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 249230,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:41.209008+00:00",
+      "title": "Windows11 — Wallpaper I",
+      "description": "windows11 default wallpaper",
+      "subjects": [
+        "microsoft"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000004": {
+      "id": "windows-000004",
+      "filename": "windows-000004.webp",
+      "path": "operating-systems/windows/assets/windows-000004.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 129228,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:41.825003+00:00",
+      "title": "Windows11 — Office",
+      "description": "windows11 logo surrounded by microsoft's default applications",
+      "subjects": [
+        "microsoft"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000005": {
+      "id": "windows-000005",
+      "filename": "windows-000005.webp",
+      "path": "operating-systems/windows/assets/windows-000005.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 93156,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:42.320998+00:00",
+      "title": "Windows11 — Waves",
+      "description": "windows11 logo with geometric waves shape around it",
+      "subjects": [
+        "microsoft"
+      ],
+      "environments": [],
+      "monochrome": false
+    },
+    "windows-000006": {
+      "id": "windows-000006",
+      "filename": "windows-000006.webp",
+      "path": "operating-systems/windows/assets/windows-000006.webp",
+      "extension": "webp",
+      "mime_type": "image/webp",
+      "format": "webp",
+      "size_bytes": 213054,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape",
+      "animated": false,
+      "frame_count": 1,
+      "modified_at": "2026-09-15T21:44:42.982992+00:00",
+      "title": "Windows7 — Wallpaper I",
+      "description": "windows7 default wallpaper",
+      "subjects": [
+        "microsoft"
+      ],
+      "environments": [],
+      "monochrome": false
+    }
+  }
+}

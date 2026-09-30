@@ -1,0 +1,74 @@
+{
+  "title": "My Hero Academia",
+  "description": "Wallpapers set in the world of _My Hero Academia_, where most people are born with special abilities known as Quirks. The collection features hero-themed imagery, school and city environments, and the bright, energetic visual style associated with the series.",
+  "assets": {
+    "my-hero-academia-000001": {
+      "title": "Deku, Todoroki & Bakugo",
+      "description": "The My Hero Academia trio in their UA uniforms, launching a combined attack.",
+      "subjects": [
+        "katsuki bakugo",
+        "shoto todoroki",
+        "izuku midoriya",
+        "deku"
+      ],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "my-hero-academia-000002": {
+      "title": "Dabi — Blue Flames",
+      "description": "Dabi using his Quirk.",
+      "subjects": ["shoto todoroki", "dabi"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "my-hero-academia-000003": {
+      "title": "Dabi",
+      "description": "Dabi with glowing blue eyes and a burned face, surrounded by blue flames.",
+      "subjects": ["shoto todoroki", "dabi"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "my-hero-academia-000004": {
+      "title": "Deku — Rage Mode",
+      "description": "Furious Deku looking back, surrounded by black flashes and destruction.",
+      "subjects": ["izuku midoriya", "deku"],
+      "environments": ["battlefield"],
+      "monochrome": true
+    },
+    "my-hero-academia-000005": {
+      "title": "Hawks",
+      "description": "Pro hero Hawks looking at the camera while holding a feather from his Quirk.",
+      "subjects": ["keigo takami", "hawks"],
+      "environments": ["black background"],
+      "monochrome": false
+    },
+    "my-hero-academia-000006": {
+      "title": "Deku & Eri",
+      "description": "Izuku Midoriya holding Eri while she uses her Quirk.",
+      "subjects": ["izuku midoriya", "deku", "eri"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "my-hero-academia-000007": {
+      "title": "All for One",
+      "description": "Zen Shigaraki, also known as All for One, injured with a burned face.",
+      "subjects": ["zen shigaraki", "all for one"],
+      "environments": ["white background"],
+      "monochrome": true
+    },
+    "my-hero-academia-000008": {
+      "title": "Red Riot — Unbreakable",
+      "description": "UA student and hero Red Riot awakening his Quirk power.",
+      "subjects": ["eijiro kirishima", "red riot"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    },
+    "my-hero-academia-000009": {
+      "title": "Shoto Todoroki",
+      "description": "Shoto Todoroki using his dual flame and ice Quirk.",
+      "subjects": ["shoto todoroki"],
+      "environments": ["battlefield"],
+      "monochrome": false
+    }
+  }
+}
